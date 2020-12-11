@@ -14,7 +14,7 @@ on:
         description: 'Test scenario tags' 
         
  schedule:
-    - cron: "* * * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
   build:
