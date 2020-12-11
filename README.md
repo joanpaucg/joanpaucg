@@ -52,6 +52,6 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Pizza Chili Is an Agent of Chaos](https://skillet.lifehacker.com/pizza-chili-is-an-agent-of-chaos-1845861870)
+- latest article: [What to Do If You're Exposed to COVID-19](https://lifehacker.com/what-to-do-if-youre-exposed-to-covid-19-1845860079)
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
