@@ -1,0 +1,24 @@
+{
+  "name": "joanpaucg",
+  "version": "1.0.0",
+  "description": "joanpaucg README Github Profile ",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanpaucg/joanpaucg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanpaucg/joanpaucg/issues"
+  },
+  "homepage": "https://github.com/joanpaucg/joanpaucg#readme",
+  "dependencies": {
+    "rss-parser": "^3.10.0"
+  }
+}
