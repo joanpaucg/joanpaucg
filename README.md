@@ -52,6 +52,6 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Have You Tested Your Muscular Endurance Lately?](https://vitals.lifehacker.com/have-you-tested-your-muscular-endurance-lately-1845863428)
+- latest article: [How to Get Rid of Drain Flies](https://lifehacker.com/how-to-get-rid-of-drain-flies-5826486)
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
