@@ -52,6 +52,6 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Do If You're Exposed to COVID-19](https://lifehacker.com/what-to-do-if-youre-exposed-to-covid-19-1845860079)
+- latest article: [Have You Tested Your Muscular Endurance Lately?](https://vitals.lifehacker.com/have-you-tested-your-muscular-endurance-lately-1845863428)
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
