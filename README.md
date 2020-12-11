@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Lleida</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/69qwNhl6kpVTLRmYC1/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: joanpaucastellsgasia](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)
+[![Linkedin: joanpaucastellsgasia](https://img.shields.io/badge/-joanpaucastellsgasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)](https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
@@ -45,4 +45,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@joanpaucge](https://github.com/joanpaucg)
