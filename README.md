@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://giphy.com/gifs/waving-duck-penguin-7uJj4jmsIJDLUVF2Uo" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Lleida</a><img src=https://es.wikipedia.org/wiki/Archivo:Logo_Universitat_de_Lleida.svg" width="30"></br> 
+<p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src=https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="30"></br> 
 </em></p>
 
 [![Linkedin: joanpaucastellsgasia](https://img.shields.io/badge/-joanpaucastellsgasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)](https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)
@@ -37,7 +37,7 @@ const joanpau = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love programming and running</b> 
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="60"> <em><b>I love programming and running</b> 
 
 ---
 
