@@ -22,4 +22,12 @@ jobs:
         node-version: 8.x
     - run: npm install 
     - run: npm run update-readme
+    - run: |
+          date > generated.txt
+          git config user.name joanpaucg
+          git config user.email joanpau.castells@hotmail.com
+          git add README.md
+          git commit -m " My github action cron: update readme with the latest info"
+          git push origin master
+    
     
