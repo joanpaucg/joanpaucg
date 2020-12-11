@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://media.giphy.com/media/RlBdhTKo97Uap8Nd22/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src=https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="30"></br> 
+<img align='right' src="https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src="https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="30"></br> 
 </em></p>
 
 [![Linkedin: joanpaucastellsgasia](https://img.shields.io/badge/-joanpaucastellsgasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)](https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)
