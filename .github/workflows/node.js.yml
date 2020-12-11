@@ -19,7 +19,7 @@ jobs:
     - name: Use Node.js .x
       uses: actions/setup-node@v1
       with:
-        node-version: 8.9.1
+        node-version: '8'
     - run: npm install 
     - run: npm run update-readme
     - run: |
