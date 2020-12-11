@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://giphy.com/gifs/waving-duck-penguin-7uJj4jmsIJDLUVF2Uo" width="50"></h2>
+<h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://media.giphy.com/media/RlBdhTKo97Uap8Nd22/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src=https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="30"></br> 
 </em></p>
@@ -37,8 +37,8 @@ const joanpau = {
 }
 ```
 
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="60"> <em><b>I love programming and running</b> 
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="100"> <em><b>I love programming and running</b> 
 
 ---
 
-⭐️ From [@joanpaucge](https://github.com/joanpaucg)
+⭐️ From [@joanpaucg](https://github.com/joanpaucg)
