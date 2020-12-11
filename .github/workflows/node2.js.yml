@@ -4,7 +4,16 @@
 name: Node.js CI
 
 on:
-  schedule:
+ workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
+        
+ schedule:
     - cron: "* * * * *"
 
 jobs:
