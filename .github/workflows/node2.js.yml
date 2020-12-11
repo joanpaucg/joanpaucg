@@ -32,5 +32,5 @@ jobs:
           git config user.email joanpau.castells@hotmail.com
           git add README.md
           git commit -m " My github action cron: update readme with the latest info"
-          git push origin master
+          git push
     
