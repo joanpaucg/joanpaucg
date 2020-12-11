@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   build:
@@ -16,10 +16,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js 14.x
+    - name: Use Node.js .x
       uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: 8.x
     - run: npm install 
     - run: npm run update-readme
-    - run: npm test
+    
