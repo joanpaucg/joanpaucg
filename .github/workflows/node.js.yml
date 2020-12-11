@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js .x
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
       with:
         node-version: '8'
     - run: npm install 
