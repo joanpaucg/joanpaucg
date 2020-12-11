@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![GitHub joanpaucg](https://img.shields.io/github/followers/joanpaucg?label=follow&style=social)](https://github.com/joanpaucg)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Programming skills <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ```javascript
 const joanpau = {
@@ -36,6 +36,9 @@ const joanpau = {
  keywords: "Competitive,Passionate,Worker"
 }
 ```
+
+[![Joan Pau's github stats](https://github-readme-stats.vercel.app/api?username=joanpaucg&show_icons=true&theme=dracula)](https://github.com/joanpaucg/github-readme-stats)
+
 
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="200"> <em><b>I love programming and running</b> 
 
