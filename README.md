@@ -37,7 +37,11 @@ const joanpau = {
 }
 ```
 
+## My Stats
 [![Joan Pau's github stats](https://github-readme-stats.vercel.app/api?username=joanpaucg&show_icons=true&theme=dracula)](https://github.com/joanpaucg/github-readme-stats)
+
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="200"> <em><b>I love programming and running</b> 
