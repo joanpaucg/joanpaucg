@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://media.giphy.com/media/XeXJlF9ouoWkeAyHhO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="300">
+<h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://media.giphy.com/media/XeXJlF9ouoWkeAyHhO/giphy.gif" width="60"></h2>
+<img align='right' src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="400">
 <p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src="https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="50"></br> 
 </em></p>
 
@@ -37,7 +37,7 @@ const joanpau = {
 }
 ```
 
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="100"> <em><b>I love programming and running</b> 
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="200"> <em><b>I love programming and running</b> 
 
 ---
 
