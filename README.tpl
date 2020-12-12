@@ -56,6 +56,6 @@ const joanpau = {
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"{{free-book}}"</a></p>
-<img src="{{image-book}}" width="100">
+<img src="{{image-book}}" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
