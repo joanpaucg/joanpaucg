@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hello world, I'm Joan Pau Castells Gasia  <img src="https://media.giphy.com/media/XeXJlF9ouoWkeAyHhO/giphy.gif" width="60"></h2>
+<h2> Hello world, I'm Joan Pau Castells Gasia </h2>
 <img align='right' src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="400">
 <p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src="https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="60"></br>
 </em></p>
