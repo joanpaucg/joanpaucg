@@ -52,6 +52,6 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get Rid of Drain Flies](https://lifehacker.com/how-to-get-rid-of-drain-flies-5826486)
+- latest article: [Get Guaranteed Price Matching at These Retailers for Your Holiday Shopping](https://twocents.lifehacker.com/get-guaranteed-price-matching-at-these-retailers-for-yo-1845864815)
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
