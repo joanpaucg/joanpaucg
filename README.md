@@ -52,6 +52,6 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Do I Get Into My Phone if I Forgot My PIN or Password?](https://lifehacker.com/how-do-i-get-into-my-phone-if-i-forgot-my-pin-or-passwo-1845853103)
+- latest article: [Download These Holiday Zoom Backgrounds for Your Virtual Visits This Month](https://lifehacker.com/download-these-holiday-zoom-backgrounds-for-your-virtua-1845865977)
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
