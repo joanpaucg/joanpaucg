@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/joanpaucg/joanpaucg#readme",
   "dependencies": {
-    "rss-parser": "^3.10.0"
+    "rss-parser": "^3.10.0",
+    "scrape-it": "^5.2.4"
   }
 }
