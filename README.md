@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: Alienware Peripherals, Sharp AQUOS 70" 4K TV, Keurig Cappuccino & Latte Maker, Rechargeable Batteries, Infrared Thermometer, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-alienware-peripherals-sharp-aquo-1845868930)
+- latest article: [How to Stream the Only Total Solar Eclipse of the Year](https://lifehacker.com/how-to-stream-the-only-total-solar-eclipse-of-the-year-1845868828)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blockchain Development for Finance Projects"</a></p>
