@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Track Your Games' Frames Per Second With These Apps](https://lifehacker.com/track-your-games-frames-per-second-fps-with-these-app-1845863010)
+- latest article: [How to Start 2021 Off Right, With Charles Duhigg](https://lifehacker.com/how-to-start-2021-off-right-with-charles-duhigg-1845878725)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
