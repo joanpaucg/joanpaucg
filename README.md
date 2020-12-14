@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: 70-inch Hisense Android TV, Dyson Ball Upright Vacuum, Garmin GPS Devices, Kiehl's Ultra Skincare Duo, Etude House Water Tint, and More](https://kinjadeals.theinventory.com/sundays-best-deals-70-inch-hisense-android-tv-dyson-b-1845872587)
+- latest article: [You Can Finally Share Tweets in Snapchat](https://lifehacker.com/you-can-finally-share-tweets-in-snapchat-1845864777)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
