@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Finally Share Tweets in Snapchat](https://lifehacker.com/you-can-finally-share-tweets-in-snapchat-1845864777)
+- latest article: [Track Your Games' Frames Per Second With These Apps](https://lifehacker.com/track-your-games-frames-per-second-fps-with-these-app-1845863010)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
