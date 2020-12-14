@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: 70-inch Hisense Android TV, Dyson Ball Upright Vacuum, Garmin GPS Devices, Kiehl's Ultra Skincare Duo, Etude House Water Tint, and More](https://kinjadeals.theinventory.com/sundays-best-deals-70-inch-hisense-android-tv-dyson-b-1845872587)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Clojure Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838825485/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788628464/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
