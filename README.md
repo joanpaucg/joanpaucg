@@ -41,7 +41,7 @@ const joanpau = {
 [![Joan Pau's github stats](https://github-readme-stats.vercel.app/api?username=joanpaucg&show_icons=true&theme=dracula)](https://github.com/joanpaucg/github-readme-stats)
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanpaucg&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanpaucg&langs_count=5&theme=dracula)](https://github.com/joanpaucg/github-readme-stats)
 
 
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="200"> <em><b>I love programming and running</b>
@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Pour Yourself a Glass of Something Strong for Huckberry’s Extended Cyber Monday Deals](https://roundups.theinventory.com/best-huckberry-deals-and-promo-codes-1842429731)
+- latest article: [What's Coming to Disney+ in January 2021](https://lifehacker.com/whats-coming-to-disney-in-january-2021-1845889780)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU Programming with Python and CUDA"</a></p>
