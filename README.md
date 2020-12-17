@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Herman Miller's 'Experiential Concept Store' Has To Be the Classiest Place on Earth to Buy a Gaming Chair](https://news.theinventory.com/herman-millers-experiential-concept-store-has-to-be-the-1845898043)
+- latest article: [Please, I Beg You, Do Not Rinse Your Ground Beef](https://skillet.lifehacker.com/please-i-beg-you-do-not-rinse-your-ground-beef-1845899166)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning DevOps"</a></p>
