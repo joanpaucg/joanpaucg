@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Friday's Best Deals: Instacart Gift Card, Sony WF-1000XM3 Earbuds, Eufy Smart Scale, John Wick Hex, Soap & Glory, Crane & Canopy Sleep Set, and More](https://kinjadeals.theinventory.com/fridays-best-deals-amazon-fire-hd-8-tablet-512gb-micr-1845910080)
+- latest article: [Why Head Out to The Supermarket Yourself When You Can Order In With Instacart?](https://kinjadeals.theinventory.com/why-head-out-to-the-supermarket-yourself-when-you-can-o-1845911346)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Selenium"</a></p>
