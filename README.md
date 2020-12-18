@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make WhatsApp Voice and Video Calls From Your Laptop](https://lifehacker.com/how-to-make-whatsapp-voice-or-video-calls-on-desktop-or-1845913033)
+- latest article: [Don't Spit on the Ground During a Pandemic (Or Ever)](https://lifehacker.com/dont-spit-on-the-ground-during-a-pandemic-or-ever-1845914513)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Selenium"</a></p>
