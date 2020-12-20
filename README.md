@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Spray Away the Germs With This $19 Motion-Activated Hand Sanitizing Mist Dispenser](https://kinjadeals.theinventory.com/spray-away-the-germs-with-this-19-touchless-motion-act-1845922222)
+- latest article: [Sunday's Best Deals: Call of Duty: Black Ops Cold War, Razer Kraken Headsets, Anker Power Bank, Hand Sanitizer, Casserole Dish Holder, K-Beauty Brand Mamonde Products, and More](https://kinjadeals.theinventory.com/sundays-best-deals-call-of-duty-black-ops-cold-war-r-1845922462)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C++"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788832564/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows PowerShell Scripting - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536669/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
