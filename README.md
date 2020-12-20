@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Call of Duty: Black Ops Cold War, Razer Kraken Headsets, Anker Power Bank, Hand Sanitizer, Casserole Dish Holder, K-Beauty Brand Mamonde Products, and More](https://kinjadeals.theinventory.com/sundays-best-deals-call-of-duty-black-ops-cold-war-r-1845922462)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C++"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788832564/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows PowerShell Scripting - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536669/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
