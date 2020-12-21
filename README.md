@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Download Wallpapers From the Not-Yet-Announced Samsung Galaxy S21](https://lifehacker.com/download-wallpapers-from-the-not-yet-announced-samsung-1845927542)
+- latest article: [Get Up to 7 Months of Xbox Game Pass Ultimate for $31](https://lifehacker.com/get-up-to-7-months-of-xbox-game-pass-ultimate-for-31-1845928810)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-Time 3D Graphics with WebGL 2 - Second Edition"</a></p>
