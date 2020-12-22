@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Fix Windows 10's PC-Breaking 'chkdsk' Bug](https://lifehacker.com/how-to-fix-windows-10s-pc-breaking-chkdsk-bug-1845933967)
+- latest article: [What We Know About Allergic Reactions to the COVID Vaccines](https://vitals.lifehacker.com/what-we-know-about-allergic-reactions-to-the-covid-vacc-1845934680)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Geospatial Analysis with Python - Third Edition"</a></p>
