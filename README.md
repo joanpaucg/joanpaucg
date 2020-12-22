@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get Up to 7 Months of Xbox Game Pass Ultimate for $31](https://lifehacker.com/get-up-to-7-months-of-xbox-game-pass-ultimate-for-31-1845928810)
+- latest article: [Its Price Is Unpredictable but in the End It's Right, This Ibanez Is $299](https://kinjadeals.theinventory.com/its-price-is-unpredictable-but-in-the-end-its-right-th-1845799244)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Geospatial Analysis with Python - Third Edition"</a></p>
