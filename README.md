@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Up to 7 Months of Xbox Game Pass Ultimate for $31](https://lifehacker.com/get-up-to-7-months-of-xbox-game-pass-ultimate-for-31-1845928810)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-Time 3D Graphics with WebGL 2 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629690/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Geospatial Analysis with Python - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789959277/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
