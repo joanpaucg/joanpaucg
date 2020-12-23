@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What We Know About Allergic Reactions to the COVID Vaccines](https://vitals.lifehacker.com/what-we-know-about-allergic-reactions-to-the-covid-vacc-1845934680)
+- latest article: [The Verdict Is In: These Are the Best Non-Stick Pans You Can Buy Online, According to the Experts](https://roundups.theinventory.com/best-nonstick-pans-1845049056)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Geospatial Analysis with Python - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789959277/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lua Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343229/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
