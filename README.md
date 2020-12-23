@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Grab a Kyvol Cybovac E20 Robot Vacuum for Just $129](https://kinjadeals.theinventory.com/grab-a-kyvol-cybovac-e20-robot-vacuum-for-just-115-wit-1845939596)
+- latest article: [The Games That Got Us Through 2020](https://lifehacker.com/the-games-that-got-us-through-2020-1845939977)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lua Quick Start Guide"</a></p>
