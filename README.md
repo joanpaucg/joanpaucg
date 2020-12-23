@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Wednesday's Best Deals: Assassin's Creed Valhalla, Mpow Flame Earbuds, Kyvol Robot Vacuum, 70% Off Sitewide at JACHS NY, Xbox Digital Games, and More](https://kinjadeals.theinventory.com/wednesdays-best-deals-watch-dogs-legion-20-off-ulta-1845939032)
+- latest article: [Grab a Kyvol Cybovac E20 Robot Vacuum for Just $129](https://kinjadeals.theinventory.com/grab-a-kyvol-cybovac-e20-robot-vacuum-for-just-115-wit-1845939596)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lua Quick Start Guide"</a></p>
