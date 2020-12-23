@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Verdict Is In: These Are the Best Non-Stick Pans You Can Buy Online, According to the Experts](https://roundups.theinventory.com/best-nonstick-pans-1845049056)
+- latest article: [Use an Advent Calendar to Count Down to Inauguration Day With Chocolate](https://lifehacker.com/count-down-to-the-presidential-inauguration-with-an-adv-1845794329)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lua Quick Start Guide"</a></p>
