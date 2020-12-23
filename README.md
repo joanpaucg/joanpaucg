@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use an Advent Calendar to Count Down to Inauguration Day With Chocolate](https://lifehacker.com/count-down-to-the-presidential-inauguration-with-an-adv-1845794329)
+- latest article: [Wednesday's Best Deals: Assassin's Creed Valhalla, Mpow Flame Earbuds, Kyvol Robot Vacuum, 70% Off Sitewide at JACHS NY, Xbox Digital Games, and More](https://kinjadeals.theinventory.com/wednesdays-best-deals-watch-dogs-legion-20-off-ulta-1845939032)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lua Quick Start Guide"</a></p>
