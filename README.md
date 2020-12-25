@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Thursday's Best Deals: iPad Air, Mpow Flame Earbuds, Infrared Thermometer, Stackable Character Snack Packs, BioShock: The Collection, Xcom 2, Reusable Makeup Removers, The Last of Us Part II and More](https://kinjadeals.theinventory.com/thursdays-best-deals-assassins-creed-valhalla-mpow-fl-1845945247)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789348293/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On AWS Penetration Testing with Kali Linux"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789136722/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
