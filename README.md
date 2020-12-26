@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Cut the Cord on Cleaning: Dyson's V7 Fluffy HEPA Cordless Vacuum in Vibrant Blue Is Only $200 at Newegg](https://kinjadeals.theinventory.com/cut-the-cord-on-cleaning-dysons-v7-fluffy-is-150-off-1843981596)
+- latest article: [The 10 Best Deals of December 25, 2020](https://kinjadeals.theinventory.com/the-10-best-deals-of-december-25-2020-1845949107)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On AWS Penetration Testing with Kali Linux"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789136722/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838647940/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
