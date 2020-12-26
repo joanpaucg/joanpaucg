@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: Tarte Cosmetics Sale, Samsung 50-Inch 4K Smart TV, Le Creuset Stoneware, Rechargeable Batteries, Dishwashing Supplies, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-tarte-cosmetics-sale-samsung-50-1845950526)
+- latest article: [Habari Gani? This Kwanzaa, We’re Celebrating All the Beautiful and Resilient Blackness We Saw in 2020](https://www.theroot.com/habari-gani-this-kwanzaa-we-re-celebrating-all-the-be-1845939633)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
