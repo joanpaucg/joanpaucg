@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Habari Gani? This Kwanzaa, We’re Celebrating All the Beautiful and Resilient Blackness We Saw in 2020](https://www.theroot.com/habari-gani-this-kwanzaa-we-re-celebrating-all-the-be-1845939633)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838647940/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering GitLab 12"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531282/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
