@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Habari Gani? This Kwanzaa, We’re Celebrating All the Beautiful and Resilient Blackness We Saw in 2020](https://www.theroot.com/habari-gani-this-kwanzaa-we-re-celebrating-all-the-be-1845939633)
+- latest article: [How to Tell if Your Car's Thermostat Is Broken & What to Do to Fix It](https://lifehacker.com/how-to-tell-if-your-cars-thermostat-is-broken-what-to-1845940562)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering GitLab 12"</a></p>
