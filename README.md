@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Belei Skincare Sale, Killer Queen Black, 16GB DDR4 XPG RAM, Nintendo Switch Anker Powerbank, 1080p Webcam, Bathroom Organizers, and More](https://kinjadeals.theinventory.com/sundays-best-deals-belei-skincare-sale-killer-queen-b-1845952967)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering GitLab 12"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531282/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789137798/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
