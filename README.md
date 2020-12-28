@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Best Gaming Chair, Fellow Gamers?](https://co-op.theinventory.com/whats-the-best-gaming-chair-fellow-gamers-1845957014)
+- latest article: [How to Keep Your Rewards Points When You're Returning Something](https://twocents.lifehacker.com/how-to-keep-your-rewards-points-when-youre-returning-so-1845958294)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
