@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Belei Skincare Sale, Killer Queen Black, 16GB DDR4 XPG RAM, Nintendo Switch Anker Powerbank, 1080p Webcam, Bathroom Organizers, and More](https://kinjadeals.theinventory.com/sundays-best-deals-belei-skincare-sale-killer-queen-b-1845952967)
+- latest article: [How to Enable Google Assistant in Android's Chrome Browser](https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
