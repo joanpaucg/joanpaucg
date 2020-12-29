@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [KN95 Face Masks Aren't Sexy, but Safety Is and This 60-Pack Is Just $29](https://kinjadeals.theinventory.com/kn95-face-masks-arent-sexy-but-safety-is-and-this-5-pac-1844760320)
+- latest article: [Watch Out for Streaming Service Price Hikes in 2021](https://twocents.lifehacker.com/watch-out-for-streaming-service-price-hikes-in-2021-1845964399)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Business Central Cookbook"</a></p>
