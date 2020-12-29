@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Your Rewards Points When You're Returning Something](https://twocents.lifehacker.com/how-to-keep-your-rewards-points-when-youre-returning-so-1845958294)
+- latest article: [These Unique Beauty Sets Will Keep You Looking Flawless Through 2021](https://theinventory.com/best-beauty-gift-sets-1845931560)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789137798/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Business Central Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789958546/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
