@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Unique Beauty Sets Will Keep You Looking Flawless Through 2021](https://theinventory.com/best-beauty-gift-sets-1845931560)
+- latest article: [Why You Should Write a Letter to Future You](https://lifehacker.com/why-you-should-write-a-letter-to-future-you-1845960450)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Business Central Cookbook"</a></p>
