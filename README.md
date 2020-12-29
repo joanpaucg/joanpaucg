@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Write a Letter to Future You](https://lifehacker.com/why-you-should-write-a-letter-to-future-you-1845960450)
+- latest article: [Add All the Ports to Your Laptop with $34 off Vava’s 12-in-1 Docking Station](https://kinjadeals.theinventory.com/add-all-the-ports-to-your-laptop-with-30-off-vava-s-12-1845238555)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Business Central Cookbook"</a></p>
