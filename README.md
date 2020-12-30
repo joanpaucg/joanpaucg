@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Last Call: NordVPN Is Offering 3 Months Free This Holiday Season When You Buy a 2-Year Plan for 68% Off](https://kinjadeals.theinventory.com/through-the-end-of-the-week-get-an-extra-plan-free-whe-1845517784)
+- latest article: [Hey, the 2020 USDA Dietary Guidelines Are Finally Out](https://vitals.lifehacker.com/hey-the-2020-usda-dietary-guidelines-are-finally-out-1845970070)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
