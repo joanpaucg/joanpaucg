@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Deeply Discounted Doughnuts at Krispy Kreme Today Through Sunday](https://lifehacker.com/get-deeply-discounted-doughnuts-at-krispy-kreme-today-t-1845971729)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789957754/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Game Development By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789535303/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
