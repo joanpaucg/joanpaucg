@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your TV Speakers Are Terrible. Amplify Your Audio With the Best Soundbars, According to Gizmodo](https://roundups.theinventory.com/best-soundbars-1845739316)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789957754/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Game Development By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789535303/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
