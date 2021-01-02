@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Great Big, Pink, and Weird World of Kirby Merch](https://news.theinventory.com/best-kirby-merchandise-1845976412)
+- latest article: [Catch the Peak of a Meteor Shower Featuring Fireballs With Colorful Trails](https://lifehacker.com/catch-the-peak-of-a-meteor-shower-featuring-fireballs-w-1845973237)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming with Kotlin for Beginners"</a></p>
