@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get a No-Touch Infrared Thermometer for Just $10 With This Promo Code](https://kinjadeals.theinventory.com/get-a-no-touch-infrared-thermometer-for-just-10-with-t-1845980186)
+- latest article: [Sunday's Best Deals: Buffy Cloud Comforter, Amazon Halo Device, Infrared Thermometer, Lightweight Gaming Mouse, Air Purifier, French Mascara, and More](https://kinjadeals.theinventory.com/sundays-best-deals-buffy-cloud-comforter-amazon-halo-1845980502)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Python by Building Data Science Applications"</a></p>
