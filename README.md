@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Ninja Foodi 5-in-1 Air Fryer, Board Games Sale, Gooloo Jump Starter, YouCopia StoraLid Organizer, Exfoliating Foot Masks, Razer Hello Kitty Keyboard, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-ninja-foodi-5-in-1-air-fryer-boa-1845978135)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming with Kotlin for Beginners"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789615401/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Python by Building Data Science Applications"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789535365/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
