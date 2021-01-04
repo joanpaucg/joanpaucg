@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Buffy Cloud Comforter, Amazon Halo Device, Infrared Thermometer, Lightweight Gaming Mouse, Air Purifier, French Mascara, and More](https://kinjadeals.theinventory.com/sundays-best-deals-buffy-cloud-comforter-amazon-halo-1845980502)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Python by Building Data Science Applications"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789535365/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Cybersecurity Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789614671/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
