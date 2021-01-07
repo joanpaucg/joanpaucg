@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How To Keep Your Bedroom Warm and Toasty All Winter Long](https://theinventory.com/how-to-keep-your-bedroom-warm-in-the-winter-1845141956)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn React with TypeScript 3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789610253/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
