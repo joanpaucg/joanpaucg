@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get Six Free Cloth Masks When You Buy a Pack of CDC-Certified N95 Face Masks](https://kinjadeals.theinventory.com/get-six-free-cloth-masks-when-you-buy-a-pack-of-cdc-cer-1846009824)
+- latest article: [What's a Simple Way to Video Chat with My Elderly Parents?](https://lifehacker.com/whats-a-simple-way-to-video-chat-with-my-elderly-parent-1846011264)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Python"</a></p>
