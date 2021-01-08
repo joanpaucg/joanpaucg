@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This 10" LED Ring Kit is on Sale for $17, So Now is the Time for Stunning Selfies](https://kinjadeals.theinventory.com/this-18-led-ring-kit-just-went-on-sale-for-50-so-now-1845686217)
+- latest article: [Oculus Rift S vs Oculus Quest 2: What’s the Right VR Headset for You?](https://theinventory.com/oculus-rift-s-vs-oculus-quest-2-1846012465)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Python"</a></p>
