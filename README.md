@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Find the Ideal Color Palette for Your Skin Tone, Hair Color and Eye Color With This Tool](https://lifehacker.com/find-the-ideal-color-palette-for-your-skin-tone-hair-c-1846026385)
+- latest article: [Catch a Rare Three-Planet Conjunction of Mercury, Jupiter and Saturn All Weekend](https://lifehacker.com/catch-a-rare-three-planet-conjunction-of-mercury-jupit-1846026686)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
