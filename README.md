@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: 65-Inch Roku 4K TV, Water Flosser, Ergonomic Massage Gaming Chair, Knit Cap Sets, Fast iPhone 12 Charger, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-65-inch-roku-4k-tv-water-flosser-1846026244)
+- latest article: [Find the Ideal Color Palette for Your Skin Tone, Hair Color and Eye Color With This Tool](https://lifehacker.com/find-the-ideal-color-palette-for-your-skin-tone-hair-c-1846026385)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
