@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Catch a Rare Three-Planet Conjunction of Mercury, Jupiter and Saturn All Weekend](https://lifehacker.com/catch-a-rare-three-planet-conjunction-of-mercury-jupit-1846026686)
+- latest article: [This Potentially Cheap-as-Free Hack Could Help Prevent 'Maskne' (But We've Got Some Other Skincare Deals, Too)](https://kinjadeals.theinventory.com/this-potentially-cheap-as-free-hack-could-help-prevent-1846029246)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
