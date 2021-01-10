@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Potentially Cheap-as-Free Hack Could Help Prevent 'Maskne' (But We've Got Some Other Skincare Deals, Too)](https://kinjadeals.theinventory.com/this-potentially-cheap-as-free-hack-could-help-prevent-1846029246)
+- latest article: [How to Exfoliate Your Scalp to Stay Flake-Free This Winter](https://lifehacker.com/how-to-exfoliate-your-scalp-to-stay-flake-free-this-win-1846027160)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
