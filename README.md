@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Epson EcoTank Inkjet Printers, Deadly Premonition 2, Xenoblade Chronicles Definitive Edition, Crux Artisan Juicer, Takeya Water Bottles, K-Beauty Skincare, and More](https://kinjadeals.theinventory.com/sundays-best-deals-epson-ecotank-inkjet-printers-dead-1846029749)
+- latest article: [How to Use an Xbox Series X or Elite Controller With Steam](https://lifehacker.com/how-to-use-an-xbox-series-x-or-elite-controller-with-st-1846022283)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python for Finance - Second Edition"</a></p>
