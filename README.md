@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Epson EcoTank Inkjet Printers, Deadly Premonition 2, Xenoblade Chronicles Definitive Edition, Crux Artisan Juicer, Takeya Water Bottles, K-Beauty Skincare, and More](https://kinjadeals.theinventory.com/sundays-best-deals-epson-ecotank-inkjet-printers-dead-1846029749)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python for Finance - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789346466/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
