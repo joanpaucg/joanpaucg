@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Grab Your Plumber’s Cap for Today's Top Nintendo Switch Deals](https://roundups.theinventory.com/best-nintendo-switch-deals-1842899558)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Three.js - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788833288/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Application Development Blueprints - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788837460/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
