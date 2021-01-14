@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How To Reserve Your Samsung Galaxy S21 Pre-Order Spot Right Now](https://news.theinventory.com/samsung-galaxy-s21-release-date-pre-order-1846042867)
+- latest article: [Here's When You Actually Need to Soften Butter](https://skillet.lifehacker.com/heres-when-you-actually-need-to-soften-butter-1846052347)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Functional Python Programming - Second Edition"</a></p>
