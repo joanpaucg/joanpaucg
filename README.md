@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Must Show a Negative COVID Test Before Flying to the U.S.](https://lifehacker.com/you-now-have-to-prove-you-dont-have-covid-before-flying-1846057851)
+- latest article: [These Third-Party Mods Make 'Cyberpunk 2077' Tolerable](https://lifehacker.com/these-third-party-mods-make-cyberpunk-2077-tolerable-1846052884)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Functional Python Programming - Second Edition"</a></p>
