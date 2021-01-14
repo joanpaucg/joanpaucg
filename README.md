@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Third-Party Mods Make 'Cyberpunk 2077' Tolerable](https://lifehacker.com/these-third-party-mods-make-cyberpunk-2077-tolerable-1846052884)
+- latest article: [Is the Keurig of Cocktail Makers Worth $350?](https://theinventory.com/bartesian-review-1846053742)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Functional Python Programming - Second Edition"</a></p>
