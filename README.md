@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Commit To That Resolution To Read a Book Instead of Doomscrolling Before Bed With These Relaxing Deals](https://kinjadeals.theinventory.com/commit-to-that-resolution-to-read-a-book-instead-of-doo-1846073575)
+- latest article: [Sunday's Best Deals: Compustar 2-Way Remote Start System, USB C Fast Chargers, Trunk Organizer & Cooler Combos, Office Rolling Chair, Skincare Tools & Products, Infrared Thermometer, and More](https://kinjadeals.theinventory.com/sundays-best-deals-compustar-2-way-remote-start-system-1846077407)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Essentials - Fourth Edition"</a></p>
