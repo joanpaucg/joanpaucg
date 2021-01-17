@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: Apeman Dash Cam, Digital Air Fryer, Over the Sink Dish Drying Racks, USB-Powered Coffee Cup Warmer, XPG Spectrix DDR4 RAM, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-apeman-dash-cam-digital-air-frye-1846074000)
+- latest article: [Save Space in a Tiny Kitchen With up To 32% off an Over the Sink Dish Drying Rack](https://kinjadeals.theinventory.com/save-space-in-your-kitchen-with-an-over-the-sink-dish-d-1845476323)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Build a Realtime App with React Hooks and GraphQL [Video]"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839212970/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Essentials - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789532470/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
