@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Save Space in a Tiny Kitchen With up To 32% off an Over the Sink Dish Drying Rack](https://kinjadeals.theinventory.com/save-space-in-your-kitchen-with-an-over-the-sink-dish-d-1845476323)
+- latest article: [Get Paid $500 to Eat Pizza and Binge-Watch Netflix Shows](https://lifehacker.com/get-paid-500-to-eat-pizza-and-binge-watch-netflix-show-1846074232)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Essentials - Fourth Edition"</a></p>
