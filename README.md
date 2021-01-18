@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid Getting More Pessimistic With Each Passing Year](https://lifehacker.com/how-to-avoid-getting-more-pessimistic-with-each-passing-1846081242)
+- latest article: [Open Any Box With Ease Thanks to This Nimble Set of Cutting Tools](https://kinjadeals.theinventory.com/open-any-box-with-ease-thanks-to-this-nimble-set-of-cut-1846079971)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Superset Quick Start Guide"</a></p>
