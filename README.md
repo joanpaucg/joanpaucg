@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Compustar 2-Way Remote Start System, USB C Fast Chargers, Trunk Organizer & Cooler Combos, Office Rolling Chair, Skincare Tools & Products, Infrared Thermometer, and More](https://kinjadeals.theinventory.com/sundays-best-deals-compustar-2-way-remote-start-system-1846077407)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Essentials - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789532470/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Superset Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992244/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
