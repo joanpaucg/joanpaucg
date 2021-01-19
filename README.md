@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The 10 Best Deals of January 18, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-january-18-2021-1846082004)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Superset Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992244/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Fundamentals"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789801491/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
