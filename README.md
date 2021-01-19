@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Snag Amazon’s Solid Fire HD 8 Tablet for Just $60](https://kinjadeals.theinventory.com/snag-amazon-s-solid-fire-hd-8-tablet-for-just-60-1846084435)
+- latest article: [The Verdict Is In: These Are the Best Non-Stick Pans You Can Buy Online, According to the Experts](https://roundups.theinventory.com/best-nonstick-pans-1845049056)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Fundamentals"</a></p>
