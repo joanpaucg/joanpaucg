@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Tuesday's Best Deals: Hitman 3, Fire HD 8 Tablet, Juku STEAM Coding Kits, Cuisinart Knife Set, Peach & Lily Glass Skin Serum, Aukey USB-C Car Charger, and More](https://kinjadeals.theinventory.com/tuesdays-best-deals-cyberpunk-2077-pacifica-skincare-1846083960)
+- latest article: [Snag Amazon’s Solid Fire HD 8 Tablet for Just $60](https://kinjadeals.theinventory.com/snag-amazon-s-solid-fire-hd-8-tablet-for-just-60-1846084435)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Fundamentals"</a></p>
