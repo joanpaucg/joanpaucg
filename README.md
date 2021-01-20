@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Your Tresses Bounce for Days With the Best Leave-In Conditioners for Curly Hair](https://theinventory.com/best-leave-in-conditioners-for-curly-hair-1846030842)
+- latest article: [Try These Fixes for the macOS 'Permanent Screensaver' Bug](https://lifehacker.com/try-these-fixes-for-the-macos-permanent-screensaver-bug-1846088663)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
