@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Won’t Get a New GPU for a While. So Why Not Dig up Some of These Less Demanding, Underappreciated Games?](https://theinventory.com/underrated-games-for-pc-1846059504)
+- latest article: [Occupy Your Kids With a Literal Treasure Hunt](https://offspring.lifehacker.com/occupy-your-kids-with-a-literal-treasure-hunt-1846100842)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Development with QGIS 3.x - Third Edition"</a></p>
