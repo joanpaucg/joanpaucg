@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Essential Sneakerhead Starter Pack, According To DroppTV’s Gurps Singh Rai](https://theinventory.com/gurps-singh-rai-dropptv-sneakerhead-starter-pack-1846039469)
+- latest article: [AirPods, MacBooks, and iPads (Oh My!): Today’s Best Apple Deals](https://roundups.theinventory.com/best-apple-deals-1845077461)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789952292/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Development with QGIS 3.x - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788999892/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
