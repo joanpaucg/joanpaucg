@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Know When a Meme Is Dead](https://lifehacker.com/how-to-know-when-a-meme-is-dead-1846109575)
+- latest article: [Transcribe Google Video Chats Instantly With Otter.ai](https://lifehacker.com/transcribe-google-video-chats-instantly-with-otter-ai-1846110493)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Electron Projects"</a></p>
