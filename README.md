@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Do I View Messages on a Broken Phone?](https://lifehacker.com/how-do-i-view-messages-on-a-broken-phone-1846102782)
+- latest article: [Friday's Best Deals: MaryRuth Organics, Board Games, Razer Accessories, TheraBox, Gaming Chair, MagSafe Charger, The Sims 4, XPG 4TB NVMe SSD, and More](https://kinjadeals.theinventory.com/fridays-best-deals-camelbak-water-bottles-cyberpunk-2-1846107678)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Electron Projects"</a></p>
