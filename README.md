@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [So You Want to Learn to Play the Drums](https://lifehacker.com/so-you-want-to-learn-to-play-the-drums-1846112277)
+- latest article: [Ready to Kick Your Home DIY Projects to the Next Level? Get Your Hands on the Best Cordless Drills](https://roundups.theinventory.com/best-cordless-drills-1845251531)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Electron Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838552206/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Embedded Linux Programming - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787283282/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
