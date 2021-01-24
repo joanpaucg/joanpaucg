@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Razer Accessories, Dyson Hot + Cool Air Purifier, Indoor Electric Fireplace, Yosuda Stationary Bike, Identity Guard Rolling Stamps, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-razer-accessories-dyson-hot-co-1846117622)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Embedded Linux Programming - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787283282/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming - A Complete Reference Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838988470/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
