@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: Razer Accessories, Dyson Hot + Cool Air Purifier, Indoor Electric Fireplace, Yosuda Stationary Bike, Identity Guard Rolling Stamps, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-razer-accessories-dyson-hot-co-1846117622)
+- latest article: [What Is Radon, And How Do You Get Rid of It?](https://lifehacker.com/what-is-radon-and-how-do-you-get-rid-of-it-1846117553)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming - A Complete Reference Guide"</a></p>
