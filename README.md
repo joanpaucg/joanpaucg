@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Are the Best Two-Player Board Games?](https://co-op.theinventory.com/what-are-the-best-two-player-board-games-1846111359)
+- latest article: [What to Think About When You Run, According to Kevin Hart](https://lifehacker.com/what-to-think-about-when-you-run-according-to-kevin-ha-1846128206)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Flask Framework Cookbook - Second Edition"</a></p>
