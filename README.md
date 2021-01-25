@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Vizio 50-inch 4K Smart TV, Ring Light Webcam, I Dew Care K-Beauty Products, Mophie Power Banks, Flexispot Gaming Desk, and More](https://kinjadeals.theinventory.com/sundays-best-deals-vizio-50-inch-4k-smart-tv-ring-lig-1846121014)
+- latest article: [How to Set Up Google Calendar's 'Offline Mode'](https://lifehacker.com/how-to-set-up-google-calendars-offline-mode-1846111314)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Flask Framework Cookbook - Second Edition"</a></p>
