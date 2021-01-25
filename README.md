@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Vizio 50-inch 4K Smart TV, Ring Light Webcam, I Dew Care K-Beauty Products, Mophie Power Banks, Flexispot Gaming Desk, and More](https://kinjadeals.theinventory.com/sundays-best-deals-vizio-50-inch-4k-smart-tv-ring-lig-1846121014)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming - A Complete Reference Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838988470/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Flask Framework Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789951295/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
