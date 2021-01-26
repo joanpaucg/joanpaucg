@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Facebook Doesn't Need Your Real Phone Number](https://lifehacker.com/facebook-doesnt-need-your-real-phone-number-1846134261)
+- latest article: [OtterBox’s Dive Into Gaming Offers a Surprisingly Robust Solution for Cloud Services Like Stadia and xCloud](https://theinventory.com/otterbox-mobile-gaming-clip-and-accessories-review-1846101842)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering C++ Programming"</a></p>
