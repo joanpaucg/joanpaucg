@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Aukey's Wireless Charger Stand Will Power up Your Phone Even Through Chonky Cases](https://kinjadeals.theinventory.com/aukeys-wireless-charger-stand-will-power-up-your-phone-1846132277)
+- latest article: [The Near-Perfect AirPods Pro Drop to $200](https://kinjadeals.theinventory.com/airpods-pro-drop-to-190-at-woot-10-cheaper-than-amaz-1843195057)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering C++ Programming"</a></p>
