@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [OtterBox’s Dive Into Gaming Offers a Surprisingly Robust Solution for Cloud Services Like Stadia and xCloud](https://theinventory.com/otterbox-mobile-gaming-clip-and-accessories-review-1846101842)
+- latest article: [The Never-Ending Quest To Shrink My Everyday Carry](https://theinventory.com/best-everyday-carry-items-1846100248)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering C++ Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786461629/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Digital Forensics for Cyber Professionals [Video]"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788621465/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
