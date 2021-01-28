@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Move Your Chats From WhatsApp to Telegram the Easy Way](https://lifehacker.com/move-your-chats-from-whatsapp-to-telegram-the-easy-way-1846151338)
+- latest article: [Your Essential Oil Diffuser Could Make Your Pets Sick](https://lifehacker.com/here-are-some-of-the-many-ways-essential-oils-can-harm-1822800565)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
