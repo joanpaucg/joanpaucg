@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Yes, You Can Get the COVID Vaccine If You're Pregnant](https://vitals.lifehacker.com/yes-you-can-get-the-covid-vaccine-if-youre-pregnant-1846151312)
+- latest article: [Move Your Chats From WhatsApp to Telegram the Easy Way](https://lifehacker.com/move-your-chats-from-whatsapp-to-telegram-the-easy-way-1846151338)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
