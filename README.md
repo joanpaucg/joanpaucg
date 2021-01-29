@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is New Balance Basketball the Sneaker Brand To Watch in 2021?](https://theinventory.com/new-balance-basketball-shoes-1846095642)
+- latest article: [Do I Need to Replace My Windows 7 Computer Yet?](https://lifehacker.com/do-i-need-to-replace-my-windows-7-computer-yet-1846152289)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Analytics with Microsoft Azure"</a></p>
