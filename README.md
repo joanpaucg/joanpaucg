@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What is Dogecoin, and Why Are People Buying It?](https://twocents.lifehacker.com/what-is-dogecoin-and-why-are-people-buying-it-1846161671)
+- latest article: [The Best Affordable, Renter-Friendly Home Upgrades I’ve Ever Made](https://roundups.theinventory.com/best-home-upgrades-for-renters-1846159547)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Analytics with Microsoft Azure"</a></p>
