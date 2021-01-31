@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: LG 75-Inch Smart 4K TV, XPG DDR4 RAM, Hydrating Collagen Masks, Onzie Face Masks, Car Safety Multi-tool, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-lg-75-inch-smart-4k-tv-xpg-ddr4-1846166145)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Analytics with Microsoft Azure"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839216404/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deploying Microsoft 365 Teamwork: Exam MS-300 Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838987732/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
