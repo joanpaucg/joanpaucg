@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean the Inside of Your Windshield, Even at its Greasiest](https://lifehacker.com/how-to-clean-the-inside-of-your-windshield-even-at-its-1846163421)
+- latest article: [Sunday's Best Deals: BarkBox Subscription, Car Jump Starter, Portable Laptop Stand, Mophie Powerstation Charging Bundle, Windshield Snow Covers, and More](https://kinjadeals.theinventory.com/sundays-best-deals-barkbox-subscription-car-jump-star-1846168916)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deploying Microsoft 365 Teamwork: Exam MS-300 Guide"</a></p>
