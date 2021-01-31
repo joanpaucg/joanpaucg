@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: LG 75-Inch Smart 4K TV, XPG DDR4 RAM, Hydrating Collagen Masks, Onzie Face Masks, Car Safety Multi-tool, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-lg-75-inch-smart-4k-tv-xpg-ddr4-1846166145)
+- latest article: [How to Clean the Inside of Your Windshield, Even at its Greasiest](https://lifehacker.com/how-to-clean-the-inside-of-your-windshield-even-at-its-1846163421)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deploying Microsoft 365 Teamwork: Exam MS-300 Guide"</a></p>
