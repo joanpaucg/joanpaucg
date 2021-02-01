@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: BarkBox Subscription, Car Jump Starter, Portable Laptop Stand, Mophie Powerstation Charging Bundle, Windshield Snow Covers, and More](https://kinjadeals.theinventory.com/sundays-best-deals-barkbox-subscription-car-jump-star-1846168916)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deploying Microsoft 365 Teamwork: Exam MS-300 Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838987732/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838827540/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
