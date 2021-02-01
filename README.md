@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Sync iCloud Passwords With Chrome and Edge Chromium](https://lifehacker.com/how-to-sync-icloud-passwords-with-chrome-and-edge-chrom-1846173552)
+- latest article: [How to Use Split-Screen Street View in Google Maps](https://lifehacker.com/how-to-use-split-screen-street-view-in-google-maps-1846173746)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
