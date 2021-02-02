@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Use Split-Screen Street View in Google Maps](https://lifehacker.com/how-to-use-split-screen-street-view-in-google-maps-1846173746)
+- latest article: [You Don’t Have To Spend a Fortune for Family-Sized Portions With This High-Quality Cookware](https://roundups.theinventory.com/best-affordable-cookware-sets-1845170725)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838827540/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
