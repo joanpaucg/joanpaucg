@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Hard-Fried Eggs Deserve Love, Too](https://skillet.lifehacker.com/hard-fried-eggs-deserve-love-too-1846181764)
+- latest article: [Unlock Your iPhone With Your Apple Watch When Wearing a Face Mask](https://lifehacker.com/unlock-your-iphone-with-your-apple-watch-when-wearing-a-1846181593)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
