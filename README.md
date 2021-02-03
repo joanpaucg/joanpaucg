@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [6 Alternative Apps For Frustrated Robinhood Users](https://twocents.lifehacker.com/6-alternative-apps-for-frustrated-robinhood-users-1846182486)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838827540/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Application Development in Go"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138412/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
