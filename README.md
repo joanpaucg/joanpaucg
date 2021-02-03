@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Air Fry Your Scallions for the Perfect Garnish](https://skillet.lifehacker.com/air-fry-your-scallions-for-the-perfect-garnish-1846184934)
+- latest article: [The Bella Pro Series Toaster/Air Fryer Hybrid Wonder Machine is Just $70](https://kinjadeals.theinventory.com/the-bella-pro-series-toaster-air-fryer-hybrid-wonder-ma-1846188428)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Application Development in Go"</a></p>
