@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stressed Out? Take This Quiz to Find out What Kind of Cornbread Hemp CBD Is Right for You [Exclusive]](https://kinjadeals.theinventory.com/stressed-out-take-this-quiz-to-find-out-what-kind-of-c-1846197018)
+- latest article: [How to Capitalize on Your Oven's Residual Heat](https://skillet.lifehacker.com/how-to-capitalize-on-your-ovens-residual-heat-1846198400)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Application Development in Go"</a></p>
