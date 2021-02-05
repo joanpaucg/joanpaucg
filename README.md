@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The 10 Best Deals of February 4, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-february-4-2021-1846200081)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Data Science"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838826321/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows PowerShell Scripting - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536669/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
