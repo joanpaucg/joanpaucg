@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Charge Your Phone Wirelessly With 50% off a Multifunctional LED Lamp](https://kinjadeals.theinventory.com/charge-your-phone-wirelessly-with-50-off-a-multifuncti-1846212923)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PostgreSQL 11 Administration Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537581/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Rust"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789342758/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
