@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These 3 Skills to Increase Your Emotional Agility](https://lifehacker.com/use-these-3-skills-to-increase-your-emotional-agility-1846214128)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Rust"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789342758/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789804935/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
