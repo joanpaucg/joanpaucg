@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use These 3 Skills to Increase Your Emotional Agility](https://lifehacker.com/use-these-3-skills-to-increase-your-emotional-agility-1846214128)
+- latest article: [Teach Your Kids Not to Call People 'Derpy'](https://offspring.lifehacker.com/teach-your-kids-not-to-call-people-derpy-1846207901)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
