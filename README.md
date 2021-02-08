@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Toss a Hunk of Ginger in Your Air Fryer](https://skillet.lifehacker.com/toss-a-hunk-of-ginger-in-your-air-fryer-1846221741)
+- latest article: [How to Shop Amazon's Secret Departments](https://twocents.lifehacker.com/how-to-shop-amazons-secret-departments-1846220217)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
