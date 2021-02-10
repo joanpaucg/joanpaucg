@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How To Make a Photo Collage for Valentine's Day](https://theinventory.com/how-to-make-a-photo-collage-for-valentines-day-1846229590)
+- latest article: [Treat Root Rot in Houseplants With Hydrogen Peroxide](https://lifehacker.com/treat-root-rot-in-houseplants-with-hydrogen-peroxide-1846225652)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Architect Technologies: Exam Guide AZ-300"</a></p>
