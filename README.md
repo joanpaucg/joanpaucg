@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Save Up to 60% on Boost Mobile Smartphones, Including $150 off the iPhone SE](https://kinjadeals.theinventory.com/save-up-to-60-on-boost-mobile-smartphones-including-1846257637)
+- latest article: [Do You Really Need Ankle Weights?](https://lifehacker.com/do-you-really-need-ankle-weights-1846260387)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
