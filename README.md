@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Spot Scam iOS Apps That Sucker You into Making Expensive Purchases](https://lifehacker.com/how-to-spot-scam-ios-apps-that-sucker-you-into-making-e-1837053973)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Device Drivers Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785280009/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839217647/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
