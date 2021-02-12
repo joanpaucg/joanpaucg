@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot Scam iOS Apps That Sucker You into Making Expensive Purchases](https://lifehacker.com/how-to-spot-scam-ios-apps-that-sucker-you-into-making-e-1837053973)
+- latest article: [Take a Temperature With Ease With the iHealth Infrared Thermometer for $24](https://kinjadeals.theinventory.com/take-a-temperature-with-ease-with-the-ihealth-thermomet-1845760615)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
