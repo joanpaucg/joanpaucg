@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Defrost Your Frozen Pipes with Saltwater](https://lifehacker.com/defrost-your-frozen-pipes-with-saltwater-5742516)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839217647/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538502/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
