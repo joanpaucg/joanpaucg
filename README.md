@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Dash Compact Juicer, Xbox One and PS4 Controllers, Car Jump Starter, Corsair Virtuoso Headset, UNT Ready For Takeoff Peelable Base Coat, and More](https://kinjadeals.theinventory.com/sundays-best-deals-dash-compact-juicer-xbox-one-and-p-1846269348)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538502/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Drupal 8 Module Development - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789612363/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
