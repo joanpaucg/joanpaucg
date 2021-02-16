@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The 10 Best Deals of February 15, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-february-15-2021-1846274889)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning JavaScript Data Structures and Algorithms - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623872/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Finance"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789136364/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
