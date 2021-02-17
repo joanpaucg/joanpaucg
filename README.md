@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Help Using Your Switch From Nintendo's Concierge Service](https://lifehacker.com/get-help-using-your-switch-from-nintendos-concierge-ser-1846282533)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Finance"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789136364/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Programming Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789530667/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
