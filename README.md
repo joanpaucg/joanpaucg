@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do I Qualify for the Earned Income Tax Credit?](https://twocents.lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)
+- latest article: [How to Use Soured Milk Instead of Pouring It Out](https://skillet.lifehacker.com/how-to-use-soured-milk-instead-of-pouring-it-out-1846287960)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Programming Cookbook"</a></p>
