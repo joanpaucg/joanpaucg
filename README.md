@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Sweet & Sour Sauce With Apricot Preserves](https://skillet.lifehacker.com/make-sweet-sour-sauce-with-apricot-preserves-1846297785)
+- latest article: [Use 'Nearby Share' to Send Android Apps to Your Friends](https://lifehacker.com/use-nearby-share-to-send-android-apps-to-your-friends-1846297485)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WiX 3.6: A Developer's Guide to Windows Installer XML"</a></p>
