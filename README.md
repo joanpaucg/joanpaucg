@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Put Your Ear to the Best Smart Speakers Worth Buying, According to Reviewers](https://roundups.theinventory.com/best-wifi-speakers-1845096607)
+- latest article: [Get a Premium Clean at Wallet-Friendly Prices With Today's Best Dyson Deals](https://roundups.theinventory.com/best-dyson-deals-1842594349)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WiX 3.6: A Developer's Guide to Windows Installer XML"</a></p>
