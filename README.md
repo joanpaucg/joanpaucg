@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Co-Parent More Effectively](https://offspring.lifehacker.com/how-to-co-parent-more-effectively-1846275739)
+- latest article: [Kim Kardashian’s BFF Has Released Her Own Skincare Line With Australian Cult Beauty Brand BodyBlendz](https://news.theinventory.com/nicole-williams-english-bodyblendz-skincare-1846307543)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning and Data Science with Python: A Complete Beginners Guide [Video]"</a></p>
