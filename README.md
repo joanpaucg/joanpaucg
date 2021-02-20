@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Putting Your Windshield Wipers Up in Winter Weather](https://lifehacker.com/stop-putting-your-windshield-wipers-up-in-winter-weathe-1846312964)
+- latest article: [Saturday's Best Deals: Compustar 2-Way Remote Start Kit, Dyson V7 Allergy, Gooloo Car Jump Starter, Kasa Smart Plugs, Corsair Virtuoso Headset, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-compustar-2-way-remote-start-kit-1846315434)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
