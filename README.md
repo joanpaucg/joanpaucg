@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [12 Villainous Origin Stories to Stream When You're Feeling Misunderstood](https://lifehacker.com/12-villainous-origin-stories-to-stream-when-youre-feeli-1846303179)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning and Data Science with Python: A Complete Beginners Guide [Video]"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838980689/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
