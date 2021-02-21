@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Compustar 2-Way Remote Start Kit, Dyson V7 Allergy, Gooloo Car Jump Starter, Kasa Smart Plugs, Corsair Virtuoso Headset, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-compustar-2-way-remote-start-kit-1846315434)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Three.js - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788833288/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
