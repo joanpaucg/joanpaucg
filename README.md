@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What’s the Difference Between Aukey and Anker (and Does It Matter)?](https://theinventory.com/aukey-vs-anker-1846274114)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Presentation Foundation - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838643416/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
