@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What’s the Difference Between Aukey and Anker (and Does It Matter)?](https://theinventory.com/aukey-vs-anker-1846274114)
+- latest article: [Turn a Bag of Smartfood Popcorn Into a Bowl of Grits](https://skillet.lifehacker.com/turn-a-bag-of-smartfood-popcorn-into-a-bowl-of-grits-1846331729)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Presentation Foundation - Second Edition"</a></p>
