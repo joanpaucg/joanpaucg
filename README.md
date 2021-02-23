@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 Otherworldly Sci-Fi and Fantasy Books Written By Black Authors](https://lifehacker.com/11-otherworldly-sci-fi-and-fantasy-books-written-by-bla-1846329460)
+- latest article: [Use Old Turmeric to Make a Brilliant Yellow Fabric Dye](https://lifehacker.com/use-old-turmeric-to-make-a-brilliant-yellow-fabric-dye-1846336290)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Presentation Foundation - Second Edition"</a></p>
