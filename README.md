@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Save $10 on a 65W RAVPower 2-Port USB-C PD Fast Charger](https://kinjadeals.theinventory.com/save-40-on-a-61w-ravpower-fast-charger-exclusive-1842357442)
+- latest article: [What Parents Need to Know About Discord](https://lifehacker.com/what-parents-need-to-know-about-discord-1846338126)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Get Your Hands Dirty on Clean Architecture"</a></p>
