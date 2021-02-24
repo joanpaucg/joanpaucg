@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [It’s Time to Embrace the Singular ‘They’](https://lifehacker.com/it-s-time-to-embrace-the-singular-they-1846338037)
+- latest article: [What’s the Best Projector for Your Home Entertainment Needs?](https://co-op.theinventory.com/whats-the-best-projector-1846336366)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Presentation Foundation - Second Edition"</a></p>
