@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Is My PC Always Trying to Open a File When It Boots?](https://lifehacker.com/why-is-my-pc-always-trying-to-open-a-file-when-it-boots-1846357048)
+- latest article: [8 Things You Probably Didn't Know You Can Clean With Vinegar](https://lifehacker.com/8-things-you-probably-didnt-know-you-can-clean-with-vin-1846357379)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Embedded Programming with C++17"</a></p>
