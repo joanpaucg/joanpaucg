@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [JACHS Is Running an Insane Sale on Pants With Pairs as Low as $19](https://kinjadeals.theinventory.com/jachs-is-running-an-insane-sale-on-pants-with-pairs-as-1846149708)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Embedded Programming with C++17"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788629300/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
