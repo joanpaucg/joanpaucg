@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Is Everyone Investing in NFTs?](https://twocents.lifehacker.com/why-is-everyone-investing-in-nfts-1846367577)
+- latest article: [Think You Don’t Have Room for a Printer? Think Again: The Best Compact Printers Are Here](https://roundups.theinventory.com/best-compact-printer-1845134107)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Embedded Programming with C++17"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629300/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Metasploit - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788990615/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
