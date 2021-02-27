@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Rinse off With the Best Shower Heads, According To Reviewers](https://roundups.theinventory.com/rinse-off-with-the-best-shower-heads-according-to-revi-1845143884)
+- latest article: [Win $1,000 for Having the Most Creative Face Mask Design](https://lifehacker.com/win-1-000-for-having-the-most-creative-face-mask-desig-1846368907)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Metasploit - Third Edition"</a></p>
