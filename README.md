@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Think You Don’t Have Room for a Printer? Think Again: The Best Compact Printers Are Here](https://roundups.theinventory.com/best-compact-printer-1845134107)
+- latest article: [Rinse off With the Best Shower Heads, According To Reviewers](https://roundups.theinventory.com/rinse-off-with-the-best-shower-heads-according-to-revi-1845143884)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Metasploit - Third Edition"</a></p>
