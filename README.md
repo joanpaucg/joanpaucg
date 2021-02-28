@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Quit Losing Everything With 20% off This 4-Pack of Bluetooth Trackers](https://kinjadeals.theinventory.com/quit-losing-shit-with-20-off-this-4-pack-of-bluetooth-1846375141)
+- latest article: [Sunday's Best Deals: MSI 27" Gaming Monitor, ViviLink Dashcam, Star Wars Night Light, Nutale Findthing Trackers, Keurig Coffee & Latte Maker, Klairs Skincare, and More](https://kinjadeals.theinventory.com/sundays-best-deals-msi-27-gaming-monitor-vivilink-da-1846375583)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Essentials - Fifth Edition"</a></p>
