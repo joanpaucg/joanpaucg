@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get a Free McDonald's Chicken Sandwich Delivered Next Week](https://twocents.lifehacker.com/how-to-get-a-free-mcdonalds-chicken-sandwich-delivered-1846372501)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Metasploit - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788990615/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Essentials - Fifth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789802818/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
