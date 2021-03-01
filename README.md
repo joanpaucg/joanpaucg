@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: MSI 27" Gaming Monitor, ViviLink Dashcam, Star Wars Night Light, Nutale Findthing Trackers, Keurig Coffee & Latte Maker, Klairs Skincare, and More](https://kinjadeals.theinventory.com/sundays-best-deals-msi-27-gaming-monitor-vivilink-da-1846375583)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Essentials - Fifth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789802818/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838827540/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
