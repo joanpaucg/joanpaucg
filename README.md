@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [There Are Still Plenty of Chic Pieces Available in Emma Rose's Beginning Boutique Collection](https://news.theinventory.com/there-are-still-plenty-of-chic-pieces-available-in-emma-1846355682)
+- latest article: [Should You Add Cheetos to Your Macaroni?](https://skillet.lifehacker.com/should-you-add-cheetos-to-your-macaroni-1846383754)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Projects with ESP32"</a></p>
