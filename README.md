@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [There Are Still Plenty of Chic Pieces Available in Emma Rose's Beginning Boutique Collection](https://news.theinventory.com/there-are-still-plenty-of-chic-pieces-available-in-emma-1846355682)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Projects with ESP32"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789956870/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
