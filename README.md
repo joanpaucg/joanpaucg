@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Cut the Cord on Cleaning: Dyson's V7 Fluffy HEPA Cordless Vacuum Is Down to $200 at Newegg](https://kinjadeals.theinventory.com/cut-the-cord-on-cleaning-dysons-v7-fluffy-hepa-cordles-1843981596)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
