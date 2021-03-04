@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use Dried-Up Ginger to Make a Flavored Oil](https://skillet.lifehacker.com/use-dried-up-ginger-to-make-a-flavored-oil-1846400817)
+- latest article: [Thursday's Best Deals: iPad Air, TaoTronics Massage Gun, Hitman 3, 2021 Moto Phones, Samsung Powerbot, Xbox Live Gold, Better Love Pixie Wand, and More](https://kinjadeals.theinventory.com/thursdays-best-deals-call-of-duty-black-ops-cold-wa-1846404315)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
