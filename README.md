@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Vertical Tabs Better in Edge Chromium](https://lifehacker.com/how-to-make-vertical-tabs-better-in-edge-chromium-1846416110)
+- latest article: [Mix Your Dog's Routine up With the Best Wet Food](https://roundups.theinventory.com/mix-your-dogs-routine-up-with-the-best-wet-food-1846322132)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with Python"</a></p>
