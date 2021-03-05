@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Earn $1,000 to Watch the First Five Seasons of 'Friends'](https://lifehacker.com/earn-1-000-to-watch-the-first-five-seasons-of-friends-1846406242)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789950069/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
