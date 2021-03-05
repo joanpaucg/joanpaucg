@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Friday's Best Deals: Beats Solo Pro, AeroGarden Harvest, Ring Fit Adventure, Eufy Smart Lock Touch, Nomad Apple Watch Band, Wine Glasses, PowerBeats Pro, and More](https://kinjadeals.theinventory.com/fridays-best-deals-2021-moto-phones-samsung-powerbot-1846413189)
+- latest article: [For Today Only, You Can Get 50% off a Stainless Steel Apple Watch Band From Nomad [Exclusive]](https://kinjadeals.theinventory.com/for-today-only-you-can-get-50-off-a-stainless-steel-a-1846415137)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with Python"</a></p>
