@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Saturday's Best Deals: Hunter Boots, Teccpo Tools, Apeman Dashcam, Sony 55" 4K TV, Pixel Art Bluetooth Speakers, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-hunter-boots-teccpo-tools-apema-1846421995)
+- latest article: [What is 'Grief Debt' and How Can We Get Rid of It?](https://lifehacker.com/what-is-grief-debt-and-how-can-we-get-rid-of-it-1846420211)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with Python - Second Edition"</a></p>
