@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Mix Your Dog's Routine up With the Best Wet Food](https://roundups.theinventory.com/mix-your-dogs-routine-up-with-the-best-wet-food-1846322132)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789950069/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with Python - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995573/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
