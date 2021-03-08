@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 Binge-Worthy Animated Series](https://lifehacker.com/12-binge-worthy-animated-series-1846429956)
+- latest article: [How to Import Passwords From .CSV Files in Edge Chromium](https://lifehacker.com/how-to-import-passwords-from-csv-files-in-edge-chromiu-1846432354)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Data Science with Python and Jupyter"</a></p>
