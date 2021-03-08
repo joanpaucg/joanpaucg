@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Quility Weighted Blankets, Westinghouse Curved Gaming Monitor, Dermalogy by Neogen Skincare, Insignia Dash Cam, and More](https://kinjadeals.theinventory.com/sundays-best-deals-quility-weighted-blankets-westingh-1846425486)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with Python - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788995573/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Data Science with Python and Jupyter"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789958171/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
