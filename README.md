@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Ensure a Secure, Private Internet: The Best VPN Deals of the Day](https://roundups.theinventory.com/best-vpn-deals-1842985733)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cybersecurity: The Beginner's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789616194/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
