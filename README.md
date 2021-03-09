@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Import Passwords From .CSV Files in Edge Chromium](https://lifehacker.com/how-to-import-passwords-from-csv-files-in-edge-chromiu-1846432354)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Data Science with Python and Jupyter"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789958171/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
