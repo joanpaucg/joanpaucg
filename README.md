@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Keep in the Door of Your Refrigerator](https://skillet.lifehacker.com/what-to-keep-in-the-door-of-your-refrigerator-1846450606)
+- latest article: [Use Daylight Saving Time as a Reminder for Home Maintenance Tasks](https://lifehacker.com/use-daylight-savings-time-as-a-reminder-for-important-h-1830201246)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Power BI"</a></p>
