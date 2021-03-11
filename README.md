@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Pokémon Cards Continue To Endure 25 Years Later](https://theinventory.com/why-pokemon-cards-continue-to-endure-25-years-later-1846439893)
+- latest article: [Feast Your Eyes on the Best Outdoor Heaters to Keep Patio Dining Alive Through the Winter](https://roundups.theinventory.com/best-outdoor-heaters-1845287611)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Power BI"</a></p>
