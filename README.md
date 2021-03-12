@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [BodyBlendz Collabs With Glow Dry To Release a $16 Fake Tan Remover That Doubles as an Exfoliator](https://news.theinventory.com/where-to-buy-bodyblendz-glow-dry-flake-away-fake-tan-re-1846455224)
+- latest article: [Where's the Forward Button in Android's Chrome Browser?](https://lifehacker.com/wheres-the-forward-button-in-androids-chrome-browser-1846458054)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Programming with C++ and Qt5"</a></p>
