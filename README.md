@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Happens When You Drink More Water Every Day](https://vitals.lifehacker.com/what-happens-when-you-drink-more-water-every-day-1846465070)
+- latest article: [18 Essential Sci-Fi and Fantasy Films Directed by Women](https://io9.gizmodo.com/18-essential-sci-fi-and-fantasy-films-directed-by-women-1846450729)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Programming with C++ and Qt5"</a></p>
