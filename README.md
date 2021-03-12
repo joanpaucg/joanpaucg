@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Android Users Can Finally Preview Pages in Chrome](https://lifehacker.com/android-users-can-finally-preview-pages-in-chrome-1846458777)
+- latest article: [BodyBlendz Collabs With Glow Dry To Release a $16 Fake Tan Remover That Doubles as an Exfoliator](https://news.theinventory.com/where-to-buy-bodyblendz-glow-dry-flake-away-fake-tan-re-1846455224)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Power BI"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788297233/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Programming with C++ and Qt5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788397827/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
