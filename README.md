@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [18 Essential Sci-Fi and Fantasy Films Directed by Women](https://io9.gizmodo.com/18-essential-sci-fi-and-fantasy-films-directed-by-women-1846450729)
+- latest article: [Turn Your Nintendo Switch Into the Ultimate Portable Console](https://theinventory.com/turn-your-nintendo-switch-into-the-ultimate-portable-co-1846466058)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Programming with C++ and Qt5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788397827/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
