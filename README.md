@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Turn Your Nintendo Switch Into the Ultimate Portable Console](https://theinventory.com/turn-your-nintendo-switch-into-the-ultimate-portable-co-1846466058)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reactive Programming with Swift"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785884269/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
