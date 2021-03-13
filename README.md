@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get $50 off of This Dyson Humidifier and Fan Combo Today](https://kinjadeals.theinventory.com/get-50-off-of-this-dyson-humidifier-and-fan-combo-toda-1846470176)
+- latest article: [Saturday's Best Deals: Westinghouse 42" Roku TV, AutoFull Rabbit Ears Gaming Chair, Nutale Bluetooth Trackers, Mophie Power Banks, Dyson Humidifier + Fan, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-westinghouse-42-roku-tv-autoful-1846470718)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reactive Programming with Swift"</a></p>
