@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Westinghouse 42" Roku TV, AutoFull Rabbit Ears Gaming Chair, Nutale Bluetooth Trackers, Mophie Power Banks, Dyson Humidifier + Fan, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-westinghouse-42-roku-tv-autoful-1846470718)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reactive Programming with Swift"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785884269/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - JavaScript Domain-Driven Design"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784394325/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
