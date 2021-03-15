@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Purchase a Home in an Italian Town for Less Than $2](https://lifehacker.com/purchase-a-home-in-an-italian-town-for-less-than-2-1846470607)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - JavaScript Domain-Driven Design"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784394325/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On UX Design for Developers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788626699/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
