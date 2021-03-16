@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Slice Your Heart Out: The Best Paring Knives, According To Reviewers](https://roundups.theinventory.com/slice-your-heart-out-the-best-paring-knives-according-1845168617)
+- latest article: [How to Check if You're Running Android's Speedier 64-Bit Chrome](https://lifehacker.com/how-to-check-if-youre-running-androids-speedier-64-bit-1846480098)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
