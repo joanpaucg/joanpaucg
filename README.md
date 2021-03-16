@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Best Dash Cam for Your Car?](https://co-op.theinventory.com/whats-the-best-dash-cam-for-your-car-1846478257)
+- latest article: [Slice Your Heart Out: The Best Paring Knives, According To Reviewers](https://roundups.theinventory.com/slice-your-heart-out-the-best-paring-knives-according-1845168617)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On UX Design for Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788626699/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
