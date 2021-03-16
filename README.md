@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Check if You're Running Android's Speedier 64-Bit Chrome](https://lifehacker.com/how-to-check-if-youre-running-androids-speedier-64-bit-1846480098)
+- latest article: [What's the Best Dash Cam for Your Car?](https://co-op.theinventory.com/whats-the-best-dash-cam-for-your-car-1846478257)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
