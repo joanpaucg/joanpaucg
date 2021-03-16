@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Slice Your Heart Out: The Best Paring Knives, According To Reviewers](https://roundups.theinventory.com/slice-your-heart-out-the-best-paring-knives-according-1845168617)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789952292/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
