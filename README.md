@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The 10 Best Deals of March 17, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-march-17-2021-1846495577)
+- latest article: [Modibodi’s 7/8 Recycled Active Leggings Give Women Peace of Mind To Work Their Bodies Worry- and Leak-Free](https://news.theinventory.com/modibodi-7-8-recycled-active-leggings-1846493127)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn D3.js"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838645571/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Office 365 Administration"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787288638/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
