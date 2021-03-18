@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Modibodi’s 7/8 Recycled Active Leggings Give Women Peace of Mind To Work Their Bodies Worry- and Leak-Free](https://news.theinventory.com/modibodi-7-8-recycled-active-leggings-1846493127)
+- latest article: [Get a Free Month of Paramount+ on Amazon](https://kinjadeals.theinventory.com/get-a-free-month-of-paramount-on-amazon-1846486341)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Office 365 Administration"</a></p>
