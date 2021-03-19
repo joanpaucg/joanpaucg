@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Grab an HBO Max Subscription So You Can Reaffirm What You’ve Already Decided About the Snyder Cut](https://news.theinventory.com/where-to-watch-justice-league-snyder-cut-1846484745)
+- latest article: [The Combo of Easy Coffee Gear That Finally Got Me Hooked](https://theinventory.com/easiest-way-to-make-good-coffee-1846485468)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Office 365 Administration"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787288638/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PowerShell for Office 365"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787127999/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
