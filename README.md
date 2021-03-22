@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Greenworks Outdoor Power Tools, Corsair Virtuoso Headset, 2-Pack 1080P Webcams, Kitchen Essentials, Garden Seat & Kneeler, and More](https://kinjadeals.theinventory.com/sundays-best-deals-greenworks-outdoor-power-tools-cor-1846522793)
+- latest article: [Clear Some Shelf Space Because There's a Buy 2, Get 1 Free Games Sale at Amazon](https://kinjadeals.theinventory.com/clear-some-shelf-space-because-theres-a-buy-2-get-1-fr-1846525710)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development Patterns with Unity 2019"</a></p>
