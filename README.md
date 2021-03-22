@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Set Up Auto HDR for Windows 10 PC Games](https://lifehacker.com/how-to-set-up-auto-hdr-for-windows-10-pc-games-1846528931)
+- latest article: [Start Your Vlogging Career With 32% off a TaoTronics 12" Ring Light](https://kinjadeals.theinventory.com/start-your-vlogging-career-with-50-off-a-taotronics-12-1846335257)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development Patterns with Unity 2019"</a></p>
