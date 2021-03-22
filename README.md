@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Greenworks Outdoor Power Tools, Corsair Virtuoso Headset, 2-Pack 1080P Webcams, Kitchen Essentials, Garden Seat & Kneeler, and More](https://kinjadeals.theinventory.com/sundays-best-deals-greenworks-outdoor-power-tools-cor-1846522793)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Flutter for Beginners"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788996082/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development Patterns with Unity 2019"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789349337/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
