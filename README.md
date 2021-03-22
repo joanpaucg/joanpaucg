@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Earn $2,400 for Doing a 24-Hour Digital Detox](https://lifehacker.com/earn-2-400-for-doing-a-24-hour-digital-detox-1846526834)
+- latest article: [Do Processed Meats Cause Dementia?](https://vitals.lifehacker.com/do-processed-meats-cause-dementia-1846527414)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development Patterns with Unity 2019"</a></p>
