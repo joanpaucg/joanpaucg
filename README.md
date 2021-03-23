@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The 77" 4K OLED TV of My Dreams Is 34% off, Comes With a $400 Visa Gift Card and 2-Year Burn-in Warranty](https://kinjadeals.theinventory.com/the-77-4k-oled-tv-of-my-dreams-is-34-off-comes-with-1846534909)
+- latest article: [What to Do Instead of Saying 'I Don't See Race'](https://lifehacker.com/what-to-do-instead-of-saying-i-dont-see-race-1846532674)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Microsoft Azure"</a></p>
