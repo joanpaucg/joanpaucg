@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Buy a Whole PC With an RTX 3070 Built-in for Less Than You'll Find an RTX 3070 by Itself at Retail](https://kinjadeals.theinventory.com/buy-a-whole-pc-with-an-rtx-3070-built-in-for-around-the-1846286448)
+- latest article: [What’s the Best Single-Player Board Game?](https://co-op.theinventory.com/what-s-the-best-single-player-board-game-1846528107)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Microsoft Azure"</a></p>
