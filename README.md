@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [13 Sports Films You'll Love Even If You Don't Like Sports](https://lifehacker.com/13-sports-films-youll-love-even-if-you-dont-like-sports-1846541567)
+- latest article: [Does CBD Really Work for Pain?](https://vitals.lifehacker.com/does-cbd-really-work-for-pain-1846547221)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Development with QGIS 3.x - Third Edition"</a></p>
