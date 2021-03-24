@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The 10 Best Deals of March 23, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-march-23-2021-1846537812)
+- latest article: [Classic Books I Only Care About Because a Jack Russell Terrier Told Me To](https://roundups.theinventory.com/best-classic-books-1846330937)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Microsoft Azure"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789617580/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Development with QGIS 3.x - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788999892/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
