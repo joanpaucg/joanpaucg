@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Freeze Your Ginger for Easier Grating](https://skillet.lifehacker.com/freeze-your-ginger-for-easier-grating-1846547281)
+- latest article: [How to Use Firefox 87's 'SmartBlock' for Private Browsing](https://lifehacker.com/how-to-use-firefox-87s-smartblock-for-private-browsing-1846546913)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Design Patterns and Best Practices - Second Edition"</a></p>
