@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Record Your Road Incidents Discretely With Aukey's DRS1 4K Dash Cam, Now $96](https://kinjadeals.theinventory.com/record-your-road-incidents-discretely-with-aukeys-1080p-1844303366)
+- latest article: [5 of the Best Quiet Treadmills of 2021](https://theinventory.com/5-of-the-best-quiet-treadmills-of-2021-1846391106)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On RESTful Python Web Services - Second Edition"</a></p>
