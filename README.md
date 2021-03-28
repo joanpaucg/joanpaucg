@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Ninja Hot + Cold Brew Coffee Maker, Solar-Powered Flickering Torches, Ergo Standing Desk Converter, Heidi & Oak Drawer Organizers, and More](https://kinjadeals.theinventory.com/a-ninja-hot-and-cold-brew-coffee-system-and-a-six-pack-1846569937)
+- latest article: [Snag a Hypoallergenic, All-Season Buffy Cloud Comforter Made of Super Soft Eucalyptus Lyocell for 50% off](https://kinjadeals.theinventory.com/snag-a-hypoallergenic-all-season-buffy-cloud-comforter-1845980394)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Alteryx"</a></p>
