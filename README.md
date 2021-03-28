@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Tacklife Auto Jump Starters & Tire Inflators, Kasa Smart Home Products, Hask Hair Mask Packs, Rowing Machines, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-tacklife-auto-jump-starters-tir-1846566741)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Web Scraping with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789533392/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Alteryx"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788392655/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
