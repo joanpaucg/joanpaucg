@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get Rid of Cicadas When the Brood Arrives](https://lifehacker.com/how-to-get-rid-of-cicadas-when-the-brood-arrives-1846567322)
+- latest article: [Sunday's Best Deals: Ninja Hot + Cold Brew Coffee Maker, Solar-Powered Flickering Torches, Ergo Standing Desk Converter, Heidi & Oak Drawer Organizers, and More](https://kinjadeals.theinventory.com/a-ninja-hot-and-cold-brew-coffee-system-and-a-six-pack-1846569937)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Alteryx"</a></p>
