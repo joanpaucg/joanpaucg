@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Snag a Hypoallergenic, All-Season Buffy Cloud Comforter Made of Super Soft Eucalyptus Lyocell for 50% off](https://kinjadeals.theinventory.com/snag-a-hypoallergenic-all-season-buffy-cloud-comforter-1845980394)
+- latest article: [How to Ask Your Partner to Watch Porn With You](https://lifehacker.com/how-to-ask-your-partner-to-watch-porn-with-you-1846570663)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenGL 4 Shading Language Cookbook - Third Edition"</a></p>
