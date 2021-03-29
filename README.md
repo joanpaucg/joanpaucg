@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Might Be the Only YouTube Browser Extension You'll Ever Need](https://lifehacker.com/this-might-be-the-only-youtube-browser-extension-youll-1846575110)
+- latest article: [Make Fancier Drinks With Freeze-Dried Fruit](https://skillet.lifehacker.com/make-fancier-drinks-with-freeze-dried-fruit-1846574848)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenGL 4 Shading Language Cookbook - Third Edition"</a></p>
