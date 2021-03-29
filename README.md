@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Snag a Hypoallergenic, All-Season Buffy Cloud Comforter Made of Super Soft Eucalyptus Lyocell for 50% off](https://kinjadeals.theinventory.com/snag-a-hypoallergenic-all-season-buffy-cloud-comforter-1845980394)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Alteryx"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788392655/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenGL 4 Shading Language Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789342253/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
