@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Grab Your Plumber’s Cap for Today's Top Nintendo Switch Deals](https://roundups.theinventory.com/best-nintendo-switch-deals-1842899558)
+- latest article: [The Mopping, Dirt-Disposing Ecovacs Deebot N8 Pro+ Is a Stellar Housemate](https://theinventory.com/ecovacs-deebot-n8-pro-review-1846537387)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenGL 4 Shading Language Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789342253/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787125933/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
