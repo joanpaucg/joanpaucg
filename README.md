@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When Not to Use a Magic Eraser](https://lifehacker.com/when-not-to-use-a-magic-eraser-1846575729)
+- latest article: [How to Stop Mixing Up 'Than' and 'Then'](https://lifehacker.com/how-to-stop-mixing-up-than-and-then-1846581788)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning - Second Edition"</a></p>
