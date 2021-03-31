@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What You Need to Know About Buying Cryptocurrency on PayPal](https://lifehacker.com/what-you-need-to-know-about-buying-cryptocurrency-on-pa-1846585705)
+- latest article: [The Best Things to Take Apart for Deep Cleaning](https://lifehacker.com/the-best-things-to-take-apart-for-deep-cleaning-1846584550)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ansible Playbook Essentials"</a></p>
