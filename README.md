@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The 10 Best Deals of March 31, 2021](https://kinjadeals.theinventory.com/the-10-best-deals-of-march-31-2021-1846591410)
+- latest article: [TIL you can use a Play-Doh Fun Factory as a cookie press](https://thetakeout.com/til-you-can-use-a-play-doh-fun-factory-as-a-cookie-pres-1846590809)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ansible Playbook Essentials"</a></p>
