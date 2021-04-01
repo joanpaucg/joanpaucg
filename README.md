@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Super Mario 3D All-Stars for $50 Before Mario Draws His Last Dying Breath](https://kinjadeals.theinventory.com/get-super-mario-3d-all-stars-for-50-which-is-how-much-1845760663)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Beginning Java Data Structures and Algorithms"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537178/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
