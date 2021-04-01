@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [TIL you can use a Play-Doh Fun Factory as a cookie press](https://thetakeout.com/til-you-can-use-a-play-doh-fun-factory-as-a-cookie-pres-1846590809)
+- latest article: [Get Super Mario 3D All-Stars for $50 Before Mario Draws His Last Dying Breath](https://kinjadeals.theinventory.com/get-super-mario-3d-all-stars-for-50-which-is-how-much-1845760663)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ansible Playbook Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784398293/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Beginning Java Data Structures and Algorithms"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789537178/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
