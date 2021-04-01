@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get Super Mario 3D All-Stars for $50 Before Mario Draws His Last Dying Breath](https://kinjadeals.theinventory.com/get-super-mario-3d-all-stars-for-50-which-is-how-much-1845760663)
+- latest article: [12 Neglected Household Items You Should Clean More Often](https://lifehacker.com/12-neglected-household-items-you-should-clean-more-ofte-1846588570)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
