@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 Neglected Household Items You Should Clean More Often](https://lifehacker.com/12-neglected-household-items-you-should-clean-more-ofte-1846588570)
+- latest article: [How to Kill Fruit Flies and Their Lookalikes](https://lifehacker.com/how-to-kill-fruit-flies-and-their-lookalikes-1846592792)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
