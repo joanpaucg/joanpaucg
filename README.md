@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Five Good Settings To Tweak In Outriders](https://kotaku.com/five-good-settings-to-tweak-in-outriders-1846601523)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence for Cybersecurity"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789804027/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
