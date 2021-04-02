@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Five Good Settings To Tweak In Outriders](https://kotaku.com/five-good-settings-to-tweak-in-outriders-1846601523)
+- latest article: [NordVPN Is Throwing in Up to a Free Year for New Subscribers After a Sweet 68% Discount](https://kinjadeals.theinventory.com/through-the-end-of-the-week-get-an-extra-plan-free-whe-1845517784)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence for Cybersecurity"</a></p>
