@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Here Are the Side Effects to Expect from Your COVID Vaccine (and How to Deal With Them)](https://vitals.lifehacker.com/here-are-the-side-effects-to-expect-from-your-covid-vac-1846602583)
+- latest article: [Beats Solo Pro Headphones Are More Than 50% off at Woot, Just $145](https://kinjadeals.theinventory.com/three-vibrant-variations-of-beats-solo-pro-headphones-a-1845115086)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence for Cybersecurity"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789804027/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Concurrency with Rust"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788399975/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
