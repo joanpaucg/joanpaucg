@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Saturday's Best Deals: Reading Pillows, Westinghouse Curved Gaming Monitor, JACHS NY Sweaters, TomCare Outdoor Accessories, and More](https://kinjadeals.theinventory.com/saturdays-best-deals-reading-pillows-westinghouse-cur-1846612382)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Concurrency with Rust"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788399975/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838822361/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
