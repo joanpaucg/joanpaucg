@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sunday's Best Deals: Ring Video Doorbell Pro, Asus 27" Gaming Monitor, Car Seat Gap Fillers, Workout Bench, Digital Air Fryer, and More](https://kinjadeals.theinventory.com/sundays-best-deals-ring-video-doorbell-pro-asus-27-g-1846615680)
+- latest article: [Why Your Should Pay on Your Credit Card Balance Weekly](https://twocents.lifehacker.com/why-your-should-pay-on-your-credit-card-balance-weekly-1846609614)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Ethical Hacking from Scratch"</a></p>
