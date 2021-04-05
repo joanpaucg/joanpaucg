@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Ring Video Doorbell Pro, Asus 27" Gaming Monitor, Car Seat Gap Fillers, Workout Bench, Digital Air Fryer, and More](https://kinjadeals.theinventory.com/sundays-best-deals-ring-video-doorbell-pro-asus-27-g-1846615680)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838822361/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Ethical Hacking from Scratch"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788622059/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
