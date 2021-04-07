@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Much Do Those Cabin Getaways Really Cost?](https://lifehacker.com/how-much-do-those-cabin-getaways-really-cost-1846628503)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Design Patterns - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788837484/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ubuntu Server - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788997560/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
