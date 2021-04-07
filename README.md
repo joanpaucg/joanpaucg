@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use These Apps to Make Windows 10 Feel Like a Chromebook](https://lifehacker.com/use-these-apps-to-make-windows-10-feel-like-a-chromeboo-1846629387)
+- latest article: [The Best Controller Chargers for the Latest Video Game Consoles](https://theinventory.com/best-controller-chargers-ps5-xbox-series-x-switch-1846628558)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ubuntu Server - Second Edition"</a></p>
