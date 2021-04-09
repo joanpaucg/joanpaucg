@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Charge Two Devices at Once With This $22 Dual Wireless Charging Pad](https://kinjadeals.theinventory.com/charge-two-devices-at-once-with-this-22-choetech-dual-1846092179)
+- latest article: [Yahoo Answers Showed Us Exactly How Not to Search For Advice Online](https://lifehacker.com/yahoo-answers-showed-us-exactly-how-not-to-search-for-1846650662)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
