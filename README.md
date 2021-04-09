@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Office Chairs Under $300, According To Our Readers](https://co-op.theinventory.com/best-office-chairs-under-300-1846641750)
+- latest article: [Why You Should Renew Your Passport Right Now](https://twocents.lifehacker.com/why-you-should-renew-your-passport-right-now-1846646784)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
