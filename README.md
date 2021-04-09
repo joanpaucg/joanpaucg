@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Renew Your Passport Right Now](https://twocents.lifehacker.com/why-you-should-renew-your-passport-right-now-1846646784)
+- latest article: [Charge Two Devices at Once With This $22 Dual Wireless Charging Pad](https://kinjadeals.theinventory.com/charge-two-devices-at-once-with-this-22-choetech-dual-1846092179)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
