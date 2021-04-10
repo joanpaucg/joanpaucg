@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Safely Trim Your Dog's Nails](https://lifehacker.com/how-to-safely-trim-your-dogs-nails-1846654351)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Go Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838647940/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# Data Structures and Algorithms"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788833738/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
