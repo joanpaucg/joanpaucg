@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Curl up With a Good Book in Comfort With a $39 Reading Pillow With Detachable Bolster In Your Favorite Color](https://kinjadeals.theinventory.com/curl-up-with-a-good-book-in-comfort-with-a-39-reading-1846660731)
+- latest article: [Sunday's Best Deals: Pulsar Heavy-Duty Generator, Insignia Massage Chair, Star Wars Action Figures, Holy Stone Drone, Greenworks Outdoor Power Tools, and More](https://kinjadeals.theinventory.com/sundays-best-deals-pulsar-heavy-duty-generator-insign-1846661080)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# Data Structures and Algorithms"</a></p>
