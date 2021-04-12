@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Test Drive Android on Your iPhone](https://lifehacker.com/how-to-test-drive-android-on-your-iphone-1846667704)
+- latest article: [Ask Your Prospective Landlord These Questions, Because Otherwise They Won't Tell You](https://lifehacker.com/ask-your-prospective-landlord-these-questions-because-1846668507)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Administration Cookbook - Third Edition"</a></p>
