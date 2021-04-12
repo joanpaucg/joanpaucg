@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sunday's Best Deals: Pulsar Heavy-Duty Generator, Insignia Massage Chair, Star Wars Action Figures, Holy Stone Drone, Greenworks Outdoor Power Tools, and More](https://kinjadeals.theinventory.com/sundays-best-deals-pulsar-heavy-duty-generator-insign-1846661080)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# Data Structures and Algorithms"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788833738/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Administration Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838558123/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
