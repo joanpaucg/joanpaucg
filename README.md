@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Could You Use a Car Desk?](https://lifehacker.com/could-you-use-a-car-desk-1846676074)
+- latest article: [How to Edit Videos in Android's Google Photos App](https://lifehacker.com/how-to-edit-videos-in-androids-google-photos-app-1846676682)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7 Essentials - Third Edition"</a></p>
