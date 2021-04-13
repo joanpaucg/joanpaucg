@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Ask Your Prospective Landlord These Questions, Because Otherwise They Won't Tell You](https://lifehacker.com/ask-your-prospective-landlord-these-questions-because-1846668507)
+- latest article: [AirPods, MacBooks, and iPads (Oh My!): Today’s Best Apple Deals](https://roundups.theinventory.com/best-apple-deals-1845077461)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira 8 Administration Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838558123/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7 Essentials - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839112/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
