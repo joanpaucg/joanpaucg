@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Block Chrome's FLoC Tracking With This DuckDuckGo Extension](https://lifehacker.com/block-chromes-floc-tracking-with-this-duckduckgo-extens-1846667051)
+- latest article: [When to See the Lyrid Meteor Shower Light Up the Night Sky](https://lifehacker.com/when-to-see-the-lyrid-meteor-shower-light-up-the-night-1846673034)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7 Essentials - Third Edition"</a></p>
