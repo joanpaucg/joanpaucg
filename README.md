@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Remove Stains From a Butcher Block Countertop](https://lifehacker.com/how-to-remove-stains-from-a-butcher-block-countertop-1846674930)
+- latest article: [Could You Use a Car Desk?](https://lifehacker.com/could-you-use-a-car-desk-1846676074)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7 Essentials - Third Edition"</a></p>
