@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Edit Videos in Android's Google Photos App](https://lifehacker.com/how-to-edit-videos-in-androids-google-photos-app-1846676682)
+- latest article: [How to Fix YouTube Audio Problems in Windows 10](https://lifehacker.com/how-to-fix-youtube-audio-problems-in-windows-10-1846675540)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Wireless Penetration Testing Beginner's Guide - Third Edition"</a></p>
