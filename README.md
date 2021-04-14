@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Edit Videos in Android's Google Photos App](https://lifehacker.com/how-to-edit-videos-in-androids-google-photos-app-1846676682)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7 Essentials - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839112/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Wireless Penetration Testing Beginner's Guide - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831925/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
