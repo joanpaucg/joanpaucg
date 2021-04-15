@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Really Only Buy Blue Dog Toys?](https://lifehacker.com/should-you-really-only-buy-blue-dog-toys-1846685170)
+- latest article: [Put Your Kids in Charge of These Spring Cleaning Chores](https://offspring.lifehacker.com/put-your-kids-in-charge-of-these-spring-cleaning-chores-1846690449)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Linux Binary Analysis"</a></p>
