@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [I'm 'Couples Therapy' Psychologist Dr. Orna Guralnik, and This Is How I Work](https://lifehacker.com/im-couples-therapy-psychologist-dr-orna-guralnik-and-1846693918)
+- latest article: [Get All This Free Stuff With Proof of Your COVID Vaccination](https://lifehacker.com/get-all-this-free-stuff-with-proof-of-your-covid-vaccin-1846701977)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Vulkan Cookbook"</a></p>
