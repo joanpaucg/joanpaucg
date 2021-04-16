@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Learn the Secret Language of Apple Serial Numbers (While You Still Can)](https://lifehacker.com/learn-the-secret-language-of-apple-serial-numbers-whil-1846693527)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Linux Binary Analysis"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782167105/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Vulkan Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468154/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
