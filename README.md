@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get All This Free Stuff With Proof of Your COVID Vaccination](https://lifehacker.com/get-all-this-free-stuff-with-proof-of-your-covid-vaccin-1846701977)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Vulkan Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468154/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Canvas LMS Course Design"</a></p>
+<img src="https://static.packt-cdn.com/products/9781782160649/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
