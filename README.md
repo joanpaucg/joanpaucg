@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Say When Someone Is Gaslighting You](https://lifehacker.com/what-to-say-when-someone-is-gaslighting-you-1846703809)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Canvas LMS Course Design"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782160649/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Projects with ESP32"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789956870/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
