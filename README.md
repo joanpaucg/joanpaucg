@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Adjust Your Car's Headlights](https://lifehacker.com/how-to-adjust-your-cars-headlights-1846705233)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Projects with ESP32"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789956870/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Qlik Sense"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783554027/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
