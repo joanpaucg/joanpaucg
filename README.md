@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Sports Make You Miserable, According to Science](https://lifehacker.com/why-sports-make-you-miserable-according-to-science-1846715851)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Qlik Sense"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783554027/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Artificial Intelligence Programming - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789533910/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
