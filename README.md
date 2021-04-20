@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Best Way to Get High?](https://lifehacker.com/whats-the-best-way-to-get-high-1846721086)
+- latest article: [16 Stoner Movies to Make You Feel Like You're Getting High With Friends](https://lifehacker.com/16-stoner-movies-to-make-you-feel-like-youre-getting-hi-1846724361)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Artificial Intelligence Programming - Fourth Edition"</a></p>
