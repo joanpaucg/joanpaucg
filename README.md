@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [16 Stoner Movies to Make You Feel Like You're Getting High With Friends](https://lifehacker.com/16-stoner-movies-to-make-you-feel-like-youre-getting-hi-1846724361)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Artificial Intelligence Programming - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789533910/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Docker for Microservices with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838823818/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
