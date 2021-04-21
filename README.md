@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Fix Your Phone After Downloading 'WhatsApp Pink'](https://lifehacker.com/how-to-fix-your-phone-after-downloading-whatsapp-pink-1846728389)
+- latest article: [How to Hide All Those Unseemly Cords and Cables](https://lifehacker.com/how-to-hide-all-those-unseemly-cords-and-cables-1846730028)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Docker for Microservices with Python"</a></p>
