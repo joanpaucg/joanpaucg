@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Sorry, Cardio Doesn't Count as Leg Day](https://vitals.lifehacker.com/sorry-cardio-doesnt-count-as-leg-day-1846734556)
+- latest article: [13 Unorthodox Uses for Petroleum Jelly (Aside From That One)](https://lifehacker.com/13-unorthodox-uses-for-petroleum-jelly-aside-from-that-1846735024)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
