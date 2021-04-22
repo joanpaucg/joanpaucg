@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sorry, Cardio Doesn't Count as Leg Day](https://vitals.lifehacker.com/sorry-cardio-doesnt-count-as-leg-day-1846734556)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Docker for Microservices with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838823818/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788628464/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
