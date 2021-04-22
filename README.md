@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Set Up Instagram's New Anti-Harassment Tools](https://lifehacker.com/how-to-set-up-instagrams-new-anti-harassment-tools-1846733461)
+- latest article: [What Would Statehood for Washington, D.C. Mean?](https://lifehacker.com/what-would-statehood-for-washington-d-c-mean-1846011482)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
