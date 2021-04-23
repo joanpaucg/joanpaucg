@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Track Your Stress Levels With a Fitbit](https://lifehacker.com/how-to-track-your-stress-levels-with-a-fitbit-1846742149)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Distributed Tracing"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788628464/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering OpenCV 4 with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789344912/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
