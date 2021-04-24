@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The J&J Vaccine Is Coming Back](https://vitals.lifehacker.com/the-j-j-vaccine-is-coming-back-1846752250)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering OpenCV 4 with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789344912/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle 3 E-Learning Course Development - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788472197/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
