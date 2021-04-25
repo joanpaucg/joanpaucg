@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get a Free 12-Pack of Beer for Being Bitter on Twitter](https://lifehacker.com/get-a-free-12-pack-of-beer-for-being-bitter-on-twitter-1846755939)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle 3 E-Learning Course Development - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788472197/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Application Development with R Using Shiny - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788993128/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
