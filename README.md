@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get a Free 12-Pack of Beer for Being Bitter on Twitter](https://lifehacker.com/get-a-free-12-pack-of-beer-for-being-bitter-on-twitter-1846755939)
+- latest article: [What Is a 'Sleep Divorce' and When Should You Consider One?](https://lifehacker.com/what-is-a-sleep-divorce-and-when-should-you-consider-on-1846758141)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Application Development with R Using Shiny - Third Edition"</a></p>
