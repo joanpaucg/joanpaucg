@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is a 'Sleep Divorce' and When Should You Consider One?](https://lifehacker.com/what-is-a-sleep-divorce-and-when-should-you-consider-on-1846758141)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Application Development with R Using Shiny - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788993128/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Business Websites with Squarespace 7 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788396714/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
