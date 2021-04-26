@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is a 'Sleep Divorce' and When Should You Consider One?](https://lifehacker.com/what-is-a-sleep-divorce-and-when-should-you-consider-on-1846758141)
+- latest article: [When Is Small Claims Court Worth It?](https://twocents.lifehacker.com/when-is-small-claims-court-worth-it-1481147923)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Business Websites with Squarespace 7 - Second Edition"</a></p>
