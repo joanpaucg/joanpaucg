@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best New Features in Telegram's Massive Update](https://lifehacker.com/the-best-new-features-in-telegrams-massive-update-1846774695)
+- latest article: [When Can a Resume Be More Than One Page?](https://lifehacker.com/when-can-a-resume-be-more-than-one-page-1846773753)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Burp Suite Cookbook"</a></p>
