@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Hide From Advertisers With iOS 14.5's New 'App Tracking Transparency' Settings](https://lifehacker.com/how-to-hide-from-advertisers-with-ios-14-5s-new-app-tra-1846766232)
+- latest article: [How to Remove Facebook Posts That Show Where You Live](https://lifehacker.com/how-to-block-facebook-posts-that-show-where-you-live-1846769486)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Burp Suite Cookbook"</a></p>
