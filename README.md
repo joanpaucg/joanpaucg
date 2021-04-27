@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Hide From Advertisers With iOS 14.5's New 'App Tracking Transparency' Settings](https://lifehacker.com/how-to-hide-from-advertisers-with-ios-14-5s-new-app-tra-1846766232)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Business Websites with Squarespace 7 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788396714/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Burp Suite Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531732/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
