@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When Can a Resume Be More Than One Page?](https://lifehacker.com/when-can-a-resume-be-more-than-one-page-1846773753)
+- latest article: [How to Plan for Your Student Loan Payments to Resume This October](https://twocents.lifehacker.com/how-to-prepare-for-the-end-of-student-loan-forbearance-1846776468)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
