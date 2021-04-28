@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Keep a Soap-Filled Dish Wand in the Shower](https://lifehacker.com/keep-a-soap-filled-dish-wand-in-the-shower-for-easy-cle-5927306)
+- latest article: [How Can I Get Back in Shape After a Long Time Off?](https://vitals.lifehacker.com/how-can-i-get-back-in-shape-after-a-long-time-off-1846782952)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
