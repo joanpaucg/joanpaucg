@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [When Can a Resume Be More Than One Page?](https://lifehacker.com/when-can-a-resume-be-more-than-one-page-1846773753)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Burp Suite Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531732/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789951257/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
