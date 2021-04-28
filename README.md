@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Your iPhone Battery Is Recalibrating in iOS 14.5](https://lifehacker.com/why-your-iphone-battery-is-recalibrating-in-ios-14-5-1846781068)
+- latest article: [Why You Should Keep a Soap-Filled Dish Wand in the Shower](https://lifehacker.com/keep-a-soap-filled-dish-wand-in-the-shower-for-easy-cle-5927306)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
