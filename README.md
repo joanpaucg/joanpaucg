@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Your Home Cool Without Air Conditioning](https://lifehacker.com/how-to-keep-your-home-cool-without-air-conditioning-1846773540)
+- latest article: [Why Your iPhone Battery Is Recalibrating in iOS 14.5](https://lifehacker.com/why-your-iphone-battery-is-recalibrating-in-ios-14-5-1846781068)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
