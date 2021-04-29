@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Google Assistant Pronounce Your Name Correctly](https://lifehacker.com/how-to-make-google-assistant-pronounce-your-name-correc-1846791120)
+- latest article: [How to Display Your Books Like a More Sophisticated Adult](https://lifehacker.com/how-to-display-your-books-like-a-more-sophisticated-adu-1846792375)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Metasploit Penetration Testing Cookbook - Third Edition"</a></p>
