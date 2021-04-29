@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Can I Get Back in Shape After a Long Time Off?](https://vitals.lifehacker.com/how-can-i-get-back-in-shape-after-a-long-time-off-1846782952)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Business Central"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789951257/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Metasploit Penetration Testing Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623179/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
