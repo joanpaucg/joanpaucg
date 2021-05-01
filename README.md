@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Say When Someone Is Giving You the Silent Treatment](https://lifehacker.com/what-to-say-when-someone-is-giving-you-the-silent-treat-1846800037)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional JavaScript"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838820213/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Domain-Driven Design in PHP"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787284944/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
