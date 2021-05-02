@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Have a Conversation With Someone Who Doesn't Make Eye Contact](https://lifehacker.com/how-to-have-a-conversation-with-someone-who-doesnt-make-1846802810)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Domain-Driven Design in PHP"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787284944/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GitLab Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789534344/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
