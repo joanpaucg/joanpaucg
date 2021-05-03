@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If Your Baking Soda and Baking Powder Are Still Good](https://skillet.lifehacker.com/how-to-tell-if-your-baking-soda-and-baking-powder-are-s-1528175610)
+- latest article: [What to Say When Someone Tells You 'It's for Your Own Good'](https://lifehacker.com/what-to-say-when-someone-tells-you-its-for-your-own-goo-1846812974)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing with Python"</a></p>
