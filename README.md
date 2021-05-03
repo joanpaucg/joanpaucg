@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 Ways to Better Tame Your Spring Allergies](https://lifehacker.com/top-10-ways-to-tame-and-deal-with-your-allergies-1757499217)
+- latest article: [How to Get a Kid to Stop Asking 'Why?,' According to Reddit](https://offspring.lifehacker.com/how-to-get-a-kid-to-stop-asking-why-according-to-redd-1846810484)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing with Python"</a></p>
