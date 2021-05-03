@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Pay Attention to These Signs That Something's Wrong in Your Garden](https://lifehacker.com/pay-attention-to-these-signs-that-somethings-wrong-in-y-1846803050)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GitLab Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789534344/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788990820/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
