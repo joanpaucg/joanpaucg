@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get a Kid to Stop Asking 'Why?,' According to Reddit](https://offspring.lifehacker.com/how-to-get-a-kid-to-stop-asking-why-according-to-redd-1846810484)
+- latest article: [What to Do When Running Gives You Black Toenails](https://vitals.lifehacker.com/what-to-do-when-running-gives-you-black-toenails-1846812018)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing with Python"</a></p>
