@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Say When Someone Tells You 'It's for Your Own Good'](https://lifehacker.com/what-to-say-when-someone-tells-you-its-for-your-own-goo-1846812974)
+- latest article: [Can You Really Make Money Donating Your Plasma?](https://twocents.lifehacker.com/can-you-really-make-money-donating-your-plasma-1846814889)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia Programming Projects"</a></p>
