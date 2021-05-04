@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Time to Update Your Google Pixel With Another Security Patch (May 2021 Edition)](https://lifehacker.com/time-to-update-your-google-pixel-with-another-security-1846821885)
+- latest article: [No, Joe Biden Isn't 8 Feet Tall (and Other Camera Tricks)](https://lifehacker.com/no-joe-biden-isnt-8-feet-tall-and-other-camera-tricks-1846822104)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia Programming Projects"</a></p>
