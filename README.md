@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [No, Joe Biden Isn't 8 Feet Tall (and Other Camera Tricks)](https://lifehacker.com/no-joe-biden-isnt-8-feet-tall-and-other-camera-tricks-1846822104)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia Programming Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788292740/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LaTeX Beginner's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781847199867/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
