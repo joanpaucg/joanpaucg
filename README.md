@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If an Online Petition Is Worth Your Time](https://lifehacker.com/how-to-tell-if-an-online-petition-is-worth-your-time-1846831010)
+- latest article: [Try Using a Bluetooth Scanner App to Find Unwanted AirTags](https://lifehacker.com/try-using-a-bluetooth-scanner-app-to-find-unwanted-airt-1846829920)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - NetSuite ERP for Administrators"</a></p>
