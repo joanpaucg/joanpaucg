@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If an Online Petition Is Worth Your Time](https://lifehacker.com/how-to-tell-if-an-online-petition-is-worth-your-time-1846831010)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LaTeX Beginner's Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781847199867/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - NetSuite ERP for Administrators"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788628877/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
