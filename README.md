@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Cats Knock Your Stuff Over—and How to Stop Them](https://lifehacker.com/why-cats-knock-your-stuff-over-and-how-to-stop-them-1747609650)
+- latest article: [These Pharmacy Chains Are Offering Walk-In COVID Vaccines](https://vitals.lifehacker.com/these-pharmacies-chains-are-offering-walk-in-covid-vacc-1846839856)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - NetSuite ERP for Administrators"</a></p>
