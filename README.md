@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [A Beginner's Guide to Gym Terminology](https://vitals.lifehacker.com/a-beginners-guide-to-gym-terminology-1846840529)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - NetSuite ERP for Administrators"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788628877/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt5 C++ GUI Programming Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789803822/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
