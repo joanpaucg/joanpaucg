@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Scary Is Gas Station Sushi, Really?](https://vitals.lifehacker.com/how-scary-is-gas-station-sushi-really-1846849019)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt5 C++ GUI Programming Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789803822/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789956177/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
