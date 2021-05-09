@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Help Your Garden Thrive By Pairing These Plants](https://lifehacker.com/help-your-garden-thrive-by-pairing-these-plants-1846847830)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789956177/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain for Python Developers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627856/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
