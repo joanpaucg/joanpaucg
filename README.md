@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Money Selling Cuttings of Your Houseplants](https://lifehacker.com/how-to-make-money-selling-cuttings-of-your-houseplants-1846843047)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain for Python Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627856/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Image Processing with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343731/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
