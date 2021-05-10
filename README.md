@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [It's OK to Shower Once a Week, and Other Pandemic Hygiene Habits That Are Fine, Actually](https://vitals.lifehacker.com/its-ok-to-shower-once-a-week-and-other-pandemic-hygien-1846859581)
+- latest article: [8 Ways to Make Better Scrambled Eggs](https://skillet.lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Image Processing with Python"</a></p>
