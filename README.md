@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix a Hole in Drywall, Plasterboard, or Concrete](https://lifehacker.com/how-to-fix-a-hole-in-drywall-plasterboard-or-concrete-1846862001)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Image Processing with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789343731/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Kibana 7 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838550363/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
