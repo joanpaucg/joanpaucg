@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Share a Podcast Episode From a Specific Timestamp So Your Friend Will Actually Listen to It](https://lifehacker.com/how-to-share-a-podcast-episode-from-a-specific-timestam-1846870981)
+- latest article: [If People Respond Badly to You, 'THINK' Before You Speak (or Post Online)](https://lifehacker.com/if-people-respond-badly-to-you-think-before-you-speak-1846871359)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Kibana 7 - Second Edition"</a></p>
