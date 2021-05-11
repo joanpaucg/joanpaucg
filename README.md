@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Fix a Hole in Drywall, Plasterboard, or Concrete](https://lifehacker.com/how-to-fix-a-hole-in-drywall-plasterboard-or-concrete-1846862001)
+- latest article: [How to Get Your Free Credit Report Once a Week](https://twocents.lifehacker.com/how-to-get-your-free-credit-report-once-a-week-1842984075)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Kibana 7 - Second Edition"</a></p>
