@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Tooth Fairy's Going Rate These Days?](https://offspring.lifehacker.com/whats-the-tooth-fairys-going-rate-these-days-1846867286)
+- latest article: [Let's Stop Pretending Those Viral Recipe Sh*tposts Are Real](https://skillet.lifehacker.com/how-to-avoid-being-triggered-by-fake-viral-recipe-video-1846869897)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Kibana 7 - Second Edition"</a></p>
