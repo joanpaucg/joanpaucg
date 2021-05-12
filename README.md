@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [If People Respond Badly to You, 'THINK' Before You Speak (or Post Online)](https://lifehacker.com/if-people-respond-badly-to-you-think-before-you-speak-1846871359)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Kibana 7 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838550363/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Power BI Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788290142/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
