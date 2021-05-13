@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix Outlook's Blank Email Bug](https://lifehacker.com/how-to-fix-outlooks-blank-email-bug-1846878961)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Power BI Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788290142/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Advanced Administrator Certification Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838643898/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
