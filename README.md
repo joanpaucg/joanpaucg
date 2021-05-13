@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [For the Love of God Please Don't Put Gasoline in Random Containers](https://lifehacker.com/for-the-love-of-god-please-dont-put-gasoline-in-random-1846889530)
+- latest article: [What You Can Do After You're Vaccinated, According to the CDC](https://vitals.lifehacker.com/what-you-can-do-after-youre-vaccinated-according-to-th-1846430407)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Advanced Administrator Certification Guide"</a></p>
