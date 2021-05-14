@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What You Can Do After You're Vaccinated, According to the CDC](https://vitals.lifehacker.com/what-you-can-do-after-youre-vaccinated-according-to-th-1846430407)
+- latest article: [15 Ways You Should Be Cleaning Your Home With Citric Acid](https://lifehacker.com/15-ways-you-should-be-cleaning-your-home-with-citric-ac-1846891661)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Agile Technical Practices Distilled"</a></p>
