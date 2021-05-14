@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What You Can Do After You're Vaccinated, According to the CDC](https://vitals.lifehacker.com/what-you-can-do-after-youre-vaccinated-according-to-th-1846430407)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Advanced Administrator Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838643898/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Agile Technical Practices Distilled"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838980849/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
