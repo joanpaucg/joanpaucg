@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Hook Grip a Barbell](https://vitals.lifehacker.com/how-to-hook-grip-a-barbell-1846899254)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Agile Technical Practices Distilled"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838980849/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence with Unreal Engine"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835657/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
