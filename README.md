@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Lift After You Rip a Callus](https://vitals.lifehacker.com/how-to-lift-after-you-rip-a-callus-1846912904)
+- latest article: [The Difference Between Annuals, Perennials, and Biennials](https://lifehacker.com/the-difference-between-annuals-perennials-and-biennia-1846913179)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TIBCO Spotfire: A Comprehensive Primer - Second Edition"</a></p>
