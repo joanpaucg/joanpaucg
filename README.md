@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Lift After You Rip a Callus](https://vitals.lifehacker.com/how-to-lift-after-you-rip-a-callus-1846912904)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The HTML and CSS Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838824532/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TIBCO Spotfire: A Comprehensive Primer - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787121324/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
