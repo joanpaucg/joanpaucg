@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Your Venmo Account Private and Secure](https://lifehacker.com/how-to-keep-your-venmo-account-private-and-secure-1846917861)
+- latest article: [How to Keep a Succulent Alive, Because It's Trickier Than You Think](https://lifehacker.com/how-to-keep-a-succulent-alive-because-its-trickier-tha-1846917775)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TIBCO Spotfire: A Comprehensive Primer - Second Edition"</a></p>
