@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All the New Privacy Settings Google Announced at I/O 2021](https://lifehacker.com/all-the-new-privacy-settings-google-announced-at-i-o-20-1846920118)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TIBCO Spotfire: A Comprehensive Primer - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787121324/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Predictive Analytics with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138719/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
