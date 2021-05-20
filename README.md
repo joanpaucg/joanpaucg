@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Your Home Less Welcoming to Spiders](https://lifehacker.com/how-to-make-your-home-less-welcoming-to-spiders-1737331856)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Predictive Analytics with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138719/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Reactive Programming in Spring 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787284951/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
