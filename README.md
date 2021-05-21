@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [8 COVID Vaccine Myths and How to Debunk Them](https://vitals.lifehacker.com/heres-your-covid-vaccine-rumor-roundup-1845935618)
+- latest article: [I Think I Learned to Actually Like Running, so Maybe You Can Too](https://vitals.lifehacker.com/i-think-i-learned-to-actually-like-running-so-maybe-yo-1846935850)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi for Secret Agents - Third Edition"</a></p>
