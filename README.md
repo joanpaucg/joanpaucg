@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [8 COVID Vaccine Myths and How to Debunk Them](https://vitals.lifehacker.com/heres-your-covid-vaccine-rumor-roundup-1845935618)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Reactive Programming in Spring 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787284951/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi for Secret Agents - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786463548/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
