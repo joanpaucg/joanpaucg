@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Popular Android Apps Are Putting User Data at Risk](https://lifehacker.com/these-popular-android-apps-are-putting-user-data-at-ris-1846943271)
+- latest article: [How Perfectionists Can Learn to Delegate and Relinquish Some Control](https://lifehacker.com/how-perfectionists-can-learn-to-delegate-and-relinquish-1846945765)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-Time 3D Graphics with WebGL 2 - Second Edition"</a></p>
