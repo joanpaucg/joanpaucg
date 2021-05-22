@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Popular Android Apps Are Putting User Data at Risk](https://lifehacker.com/these-popular-android-apps-are-putting-user-data-at-ris-1846943271)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi for Secret Agents - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463548/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-Time 3D Graphics with WebGL 2 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788629690/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
