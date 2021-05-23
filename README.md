@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Perfectionists Can Learn to Delegate and Relinquish Some Control](https://lifehacker.com/how-perfectionists-can-learn-to-delegate-and-relinquish-1846945765)
+- latest article: [How to Pick the Perfect Bath Towel, Because It's Harder Than You Think](https://lifehacker.com/how-to-pick-the-perfect-bath-towel-because-its-harder-1846946345)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Reinforcement Learning Hands-On"</a></p>
