@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Perfectionists Can Learn to Delegate and Relinquish Some Control](https://lifehacker.com/how-perfectionists-can-learn-to-delegate-and-relinquish-1846945765)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-Time 3D Graphics with WebGL 2 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629690/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Reinforcement Learning Hands-On"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834247/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
