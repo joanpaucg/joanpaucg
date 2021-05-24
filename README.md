@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Set Goals in the Weight Room Beyond Heavier Weights](https://vitals.lifehacker.com/how-to-set-goals-in-the-weight-room-beyond-heavier-weig-1846957577)
+- latest article: [How to Create Your Own Cryptocurrency](https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain Development in 7 Days"</a></p>
