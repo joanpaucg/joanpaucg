@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Be a More 'Gentle' Parent (and What It Really Means)](https://offspring.lifehacker.com/how-to-be-a-more-gentle-parent-and-what-it-really-mean-1846942258)
+- latest article: [10 Difficult Decisions You'll Make in Life (and How to Make Them)](https://lifehacker.com/top-10-difficult-decisions-youll-make-in-life-and-how-1680005733)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain Development in 7 Days"</a></p>
