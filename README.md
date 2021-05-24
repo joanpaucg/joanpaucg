@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Pick the Perfect Bath Towel, Because It's Harder Than You Think](https://lifehacker.com/how-to-pick-the-perfect-bath-towel-because-its-harder-1846946345)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Reinforcement Learning Hands-On"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788834247/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain Development in 7 Days"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838640101/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
