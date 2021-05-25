@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Create Your Own Cryptocurrency](https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain Development in 7 Days"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838640101/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Three.js - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788833288/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
