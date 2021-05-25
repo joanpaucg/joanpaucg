@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Password Protect Your Google Search History and Hide Your Secrets](https://lifehacker.com/how-to-password-protect-your-google-search-history-and-1846964765)
+- latest article: [Don't Fall for These 12 Fitness Myths From TikTok Influencers](https://vitals.lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Three.js - Third Edition"</a></p>
