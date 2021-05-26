@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Fall for These 12 Fitness Myths From TikTok Influencers](https://vitals.lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Three.js - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788833288/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Solidity Programming Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831383/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
