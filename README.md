@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Know an 'Entry Level' Job Is BS](https://lifehacker.com/if-you-arent-qualified-for-their-entry-level-job-you-d-1846976334)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Solidity Programming Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788831383/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Protocol-Oriented Programming - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789349023/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
