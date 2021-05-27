@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Install the Android 12 Beta (Yet)](https://lifehacker.com/dont-install-the-android-12-beta-yet-1846983882)
+- latest article: [Does the Cardio 'Interference Effect' Really Slow Your Gains?](https://lifehacker.com/does-the-cardio-interference-effect-really-slow-your-ga-1846984740)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Protocol-Oriented Programming - Fourth Edition"</a></p>
