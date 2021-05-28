@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [I'm Jessica Lessin, Editor-in-Chief of The Information, and This Is How I Work](https://lifehacker.com/im-jessica-lessin-editor-in-chief-of-the-information-1846985581)
+- latest article: [How to Use Instagram's New 'Drops' to Buy and Sell Limited-Run Products](https://lifehacker.com/how-to-use-instagram-new-drops-to-buy-and-sell-limited-1846986752)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Protocol-Oriented Programming - Fourth Edition"</a></p>
