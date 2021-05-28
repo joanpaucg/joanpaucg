@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Use Instagram's New 'Drops' to Buy and Sell Limited-Run Products](https://lifehacker.com/how-to-use-instagram-new-drops-to-buy-and-sell-limited-1846986752)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Protocol-Oriented Programming - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789349023/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS SysOps Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838550189/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
