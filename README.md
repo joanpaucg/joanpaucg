@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You're Never Going to Meet All Your Post-Pandemic Social Commitments](https://lifehacker.com/youre-never-going-to-meet-all-your-post-pandemic-social-1846994067)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS SysOps Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838550189/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Project+ Certification Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789534498/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
