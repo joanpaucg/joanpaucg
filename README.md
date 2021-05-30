@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Rattan and Wicker, and Which You Should Choose](https://lifehacker.com/the-difference-between-rattan-and-wicker-and-which-you-1846998446)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Project+ Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789534498/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Neural Networks"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992596/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
