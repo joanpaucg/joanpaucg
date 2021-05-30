@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Rattan and Wicker, and Which You Should Choose](https://lifehacker.com/the-difference-between-rattan-and-wicker-and-which-you-1846998446)
+- latest article: [Keep a Garden Journal for Reference Throughout the Current and Future Growing Seasons](https://lifehacker.com/keep-a-garden-journal-for-reference-throughout-the-curr-1846998592)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Neural Networks"</a></p>
