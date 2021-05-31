@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Learn Winemaking While Living in Sonoma & Earning $10K per Month](https://lifehacker.com/learn-winemaking-while-living-in-sonoma-earning-10k-1846998607)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Neural Networks"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992596/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Programming Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789134803/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
