@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Gardening Communities to Find on Reddit](https://lifehacker.com/the-best-gardening-communities-to-find-on-reddit-1847000810)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things Programming Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789134803/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn TypeScript 3 by Building Web Applications"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789615869/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
