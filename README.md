@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Gardening Communities to Find on Reddit](https://lifehacker.com/the-best-gardening-communities-to-find-on-reddit-1847000810)
+- latest article: [What’s the Difference Between FICO Credit Scores and VantageScore?](https://lifehacker.com/what-s-the-difference-between-fico-credit-scores-and-va-1847004074)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn TypeScript 3 by Building Web Applications"</a></p>
