@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Eat More Vegetables by Mixing Them Into Cream Cheese, Because Why Not?](https://lifehacker.com/eat-more-vegetables-by-mixing-them-into-cream-cheese-b-1847017669)
+- latest article: [Why Pitbulls Can't Swim, and Other Things to Know Before Taking Your Dog in the Water](https://lifehacker.com/why-pitbulls-cant-swim-and-other-things-to-know-before-1847018624)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Arduino"</a></p>
