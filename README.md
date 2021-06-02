@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Pitbulls Can't Swim, and Other Things to Know Before Taking Your Dog in the Water](https://lifehacker.com/why-pitbulls-cant-swim-and-other-things-to-know-before-1847018624)
+- latest article: [What Does 'Engage Your Core' Even Mean?](https://lifehacker.com/what-does-engage-your-core-even-mean-1847019971)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Arduino"</a></p>
