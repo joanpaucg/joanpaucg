@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Should You Be Worried About the 'Potentially Hazardous' Asteroid Passing by Earth Today?](https://lifehacker.com/should-you-be-worried-about-the-potentially-hazardous-a-1847008963)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn TypeScript 3 by Building Web Applications"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789615869/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Arduino"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788830584/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
