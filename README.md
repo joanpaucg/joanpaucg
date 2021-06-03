@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do Massage Guns Really Help Recovery?](https://lifehacker.com/do-massage-guns-really-help-recovery-1847027516)
+- latest article: [Cicadas Are Land Shrimp, and Other Allergy Cross Reactions You Should Know About](https://lifehacker.com/cicadas-are-land-shrimp-and-other-allergy-cross-reacti-1847024942)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Metasploit Guide"</a></p>
