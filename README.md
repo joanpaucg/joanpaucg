@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Does 'Engage Your Core' Even Mean?](https://lifehacker.com/what-does-engage-your-core-even-mean-1847019971)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Arduino"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788830584/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Metasploit Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838822477/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
