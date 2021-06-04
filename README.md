@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Preemptively Block Ad-Tracking on Your Android](https://lifehacker.com/how-to-preemptively-block-ad-tracking-on-your-android-1847034618)
+- latest article: [How to Introduce a New Partner to Your Parents](https://lifehacker.com/how-to-introduce-a-new-partner-to-your-parents-1847030548)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Game Optimization - Third Edition"</a></p>
