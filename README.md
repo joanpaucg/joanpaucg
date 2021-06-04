@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If Your Company's Pride Campaign Is BS (and What to Do About It)](https://lifehacker.com/how-to-tell-if-your-companys-pride-campaign-is-bullshit-1847026971)
+- latest article: [How Did You Know When You Were Done Having Kids?](https://lifehacker.com/how-did-you-know-when-you-were-done-having-kids-1847028161)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Game Optimization - Third Edition"</a></p>
