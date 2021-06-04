@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If Your Company's Pride Campaign Is BS (and What to Do About It)](https://lifehacker.com/how-to-tell-if-your-companys-pride-campaign-is-bullshit-1847026971)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Metasploit Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838822477/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Game Optimization - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838556518/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
