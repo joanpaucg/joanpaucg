@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Introduce a New Partner to Your Parents](https://lifehacker.com/how-to-introduce-a-new-partner-to-your-parents-1847030548)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Game Optimization - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838556518/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Application Development with PyCharm"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789348262/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
