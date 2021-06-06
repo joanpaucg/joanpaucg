@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Earn Close to $1,000 per Month as a Weed-Testing Intern](https://lifehacker.com/earn-close-to-1-000-per-month-as-a-weed-testing-intern-1847039770)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Application Development with PyCharm"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789348262/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia High Performance - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788298117/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
