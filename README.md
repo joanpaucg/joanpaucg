@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Enable Chrome OS 91's Hidden Experimental Features](https://lifehacker.com/how-to-enable-chrome-os-91s-hidden-experimental-feature-1847036471)
+- latest article: [Throw a ‘Welcome to Summer’ Party for Your Kids After One Hell of a School Year](https://lifehacker.com/throw-a-welcome-to-summer-party-for-your-kids-1843883114)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PySpark"</a></p>
