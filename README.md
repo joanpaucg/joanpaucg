@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Plant Your Windowsill Scallions Instead of Leaving Them in Water](https://lifehacker.com/why-you-should-plant-your-windowsill-scallions-instead-1847046675)
+- latest article: [Where Can You Travel as a Tourist in Europe Right Now?](https://lifehacker.com/where-can-you-travel-as-a-tourist-in-europe-right-now-1847047920)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PySpark"</a></p>
