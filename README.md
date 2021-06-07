@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Recognize the Signs of 'Main Character Syndrome'](https://lifehacker.com/how-to-recognize-the-signs-of-main-character-syndrome-1847039952)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia High Performance - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788298117/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PySpark"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786463708/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
