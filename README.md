@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The 10 Coolest iOS 15 Features Announced at WWDC 2021](https://lifehacker.com/the-10-coolest-ios-15-features-announced-at-wwdc-2021-1847048865)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PySpark"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463708/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Mission - Critical Domains and DNS"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789135077/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
