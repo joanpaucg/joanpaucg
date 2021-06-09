@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Hire a Contractor Without Getting Hosed](https://lifehacker.com/how-to-hire-a-contractor-without-getting-hosed-5578353)
+- latest article: [What's the Difference Between Hemp and Weed?](https://lifehacker.com/whats-the-difference-between-hemp-and-weed-1847057362)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Vim"</a></p>
