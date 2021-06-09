@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Hire a Contractor Without Getting Hosed](https://lifehacker.com/how-to-hire-a-contractor-without-getting-hosed-5578353)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Mission - Critical Domains and DNS"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789135077/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Vim"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789341096/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
