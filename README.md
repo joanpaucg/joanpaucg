@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Declutter Your Kitchen With the 'One Shelf Method'](https://lifehacker.com/declutter-your-kitchen-with-the-one-shelf-method-1847063968)
+- latest article: [What the CDC's New Mask Rules Mean for the Immunocompromised, and What That Means for Everyone Else](https://lifehacker.com/what-the-cdcs-new-mask-rules-mean-for-the-immunocomprom-1847064806)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Vim"</a></p>
