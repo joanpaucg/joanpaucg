@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What the CDC's New Mask Rules Mean for the Immunocompromised, and What That Means for Everyone Else](https://lifehacker.com/what-the-cdcs-new-mask-rules-mean-for-the-immunocomprom-1847064806)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Vim"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789341096/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538502/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
