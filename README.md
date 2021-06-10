@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Need Multiple Savings Accounts](https://lifehacker.com/why-you-need-multiple-savings-accounts-1797235748)
+- latest article: [How to Date Multiple People (the Right Way)](https://lifehacker.com/how-to-date-multiple-people-the-right-way-1847054262)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
