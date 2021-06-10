@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stride Is an Addictive Territory-Grabbing Game for Runners](https://lifehacker.com/stride-is-an-addictive-territory-grabbing-game-for-runn-1847073736)
+- latest article: [Grab 'Control,' 'Battlefield 4,' and More Free PC Games This Week](https://lifehacker.com/grab-control-battlefield-4-and-more-free-pc-games-thi-1847074350)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
