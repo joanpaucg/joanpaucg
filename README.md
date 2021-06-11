@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Grab 'Control,' 'Battlefield 4,' and More Free PC Games This Week](https://lifehacker.com/grab-control-battlefield-4-and-more-free-pc-games-thi-1847074350)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android Programming for Beginners - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538502/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Kubernetes"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789805468/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
