@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Features in Android 12 Beta 2 (So Far)](https://lifehacker.com/the-best-features-in-android-12-beta-2-so-far-1847083104)
+- latest article: [The Difference Between 'Waterproof' and 'Water Resistant'](https://lifehacker.com/the-difference-between-waterproof-and-water-resistant-1847084555)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Kubernetes"</a></p>
