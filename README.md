@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between 'Waterproof' and 'Water Resistant'](https://lifehacker.com/the-difference-between-waterproof-and-water-resistant-1847084555)
+- latest article: [Use These Hypothetical Questions to Start a Conversation If You Forgot How to Socialize](https://lifehacker.com/use-these-hypothetical-questions-to-start-a-conversatio-1847084735)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ansible - Third Edition"</a></p>
