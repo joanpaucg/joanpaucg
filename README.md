@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between 'Waterproof' and 'Water Resistant'](https://lifehacker.com/the-difference-between-waterproof-and-water-resistant-1847084555)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Kubernetes"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789805468/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ansible - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789951547/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
