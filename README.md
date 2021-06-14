@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These Hypothetical Questions to Start a Conversation If You Forgot How to Socialize](https://lifehacker.com/use-these-hypothetical-questions-to-start-a-conversatio-1847084735)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ansible - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789951547/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering the C++17 STL"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787126824/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
