@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Ways to Compress PDFs for Free](https://lifehacker.com/the-best-ways-to-compress-pdfs-for-free-1847095662)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering the C++17 STL"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787126824/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Science with Python and NetworkX Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789955316/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
