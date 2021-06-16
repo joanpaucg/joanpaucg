@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How I Trained My Kid to Use the Potty in Three Messy Days ](https://lifehacker.com/how-i-trained-my-kid-to-use-the-potty-in-three-messy-da-1819082534)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Science with Python and NetworkX Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789955316/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - QGIS Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789341157/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
