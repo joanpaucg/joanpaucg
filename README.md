@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Migrate to a Solid-State Drive Without Reinstalling Windows](https://lifehacker.com/how-to-migrate-to-a-solid-state-drive-without-reinstall-5837543)
+- latest article: [Don't Install the Leaked Windows 11 Build](https://lifehacker.com/dont-install-the-leaked-windows-11-build-1847115234)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - QGIS Quick Start Guide"</a></p>
