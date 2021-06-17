@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Install the Leaked Windows 11 Build](https://lifehacker.com/dont-install-the-leaked-windows-11-build-1847115234)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - QGIS Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789341157/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ArcPy and ArcGIS - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787282513/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
