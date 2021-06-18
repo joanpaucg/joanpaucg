@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [25 of the Best Fictional Dads in Movie History](https://lifehacker.com/25-of-the-best-fictional-dads-in-movie-history-1847121757)
+- latest article: [The Difference Between Mold and Mildew, and How to Get Rid of Both](https://lifehacker.com/the-difference-between-mold-and-mildew-and-how-to-get-1847127266)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ High Performance"</a></p>
