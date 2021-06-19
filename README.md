@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Manage Extra-Oily Skin During Hot Weather](https://lifehacker.com/how-to-manage-extra-oily-skin-during-hot-weather-1847131635)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ High Performance"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787120952/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Architectures"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787280540/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
