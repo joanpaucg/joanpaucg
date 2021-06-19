@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Being Ambivalent Can Help You Make Better Decisions](https://lifehacker.com/how-being-ambivalent-can-help-you-make-better-decisions-1847133403)
+- latest article: [Apply to Live Rent-Free in an Airbnb for 10 Months](https://lifehacker.com/apply-to-live-rent-free-in-an-airbnb-for-10-months-1847133410)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Architectures"</a></p>
