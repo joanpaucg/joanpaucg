@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Your Home Feel Like a Hotel (In a Good Way)](https://lifehacker.com/how-to-make-your-home-feel-like-a-hotel-in-a-good-way-1847134620)
+- latest article: [The Difference Between Hardscape and Softscape, And How to Use Both in Your Garden](https://lifehacker.com/the-difference-between-hardscape-and-softscape-and-how-1847134604)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On G Suite for Administrators"</a></p>
