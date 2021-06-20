@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Apply to Live Rent-Free in an Airbnb for 10 Months](https://lifehacker.com/apply-to-live-rent-free-in-an-airbnb-for-10-months-1847133410)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Architectures"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787280540/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On G Suite for Administrators"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789613018/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
