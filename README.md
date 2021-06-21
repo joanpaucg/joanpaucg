@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Hardscape and Softscape, And How to Use Both in Your Garden](https://lifehacker.com/the-difference-between-hardscape-and-softscape-and-how-1847134604)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On G Suite for Administrators"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789613018/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789348293/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
