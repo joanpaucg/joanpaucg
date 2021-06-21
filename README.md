@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Hardscape and Softscape, And How to Use Both in Your Garden](https://lifehacker.com/the-difference-between-hardscape-and-softscape-and-how-1847134604)
+- latest article: [How to File a Borrower Defense Claim for Student Loan Forgiveness](https://lifehacker.com/how-to-file-a-borrower-defense-claim-for-student-loan-f-1847137263)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA"</a></p>
