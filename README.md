@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What 'Good Weight Lifting Form' Really Means (and When It Matters)](https://lifehacker.com/all-about-lifting-form-what-to-worry-about-and-what-n-1692058974)
+- latest article: [How to Fix the Mysterious iPhone Wifi Bug (and Avoid It Altogether)](https://lifehacker.com/how-to-fix-the-mysterious-iphone-wifi-bug-and-avoid-it-1847144065)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA"</a></p>
