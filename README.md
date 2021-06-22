@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix the Mysterious iPhone Wifi Bug (and Avoid It Altogether)](https://lifehacker.com/how-to-fix-the-mysterious-iphone-wifi-bug-and-avoid-it-1847144065)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789348293/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Network Programming with C# and .NET Core"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789340761/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
