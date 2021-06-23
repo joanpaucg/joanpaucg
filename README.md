@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 Video Game Soundtracks That Will Increase Your Productivity](https://lifehacker.com/10-video-game-soundtracks-that-will-increase-your-produ-1847152432)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Network Programming with C# and .NET Core"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789340761/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Robotics Programming with C++"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789139006/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
