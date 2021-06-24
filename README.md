@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Yes, You Can Remove Your Own IUD, But You Probably Shouldn't](https://lifehacker.com/you-can-remove-your-own-iud-but-you-probably-shouldnt-1847165056)
+- latest article: [How to Keep Your Kid Occupied at the Doctor's Office Without Handing Them a Screen](https://lifehacker.com/how-to-keep-your-kid-occupied-at-the-doctors-office-wit-1847165849)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Systems Programming with Go"</a></p>
