@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Lock Your Shady Incognito Tabs With This Hidden Face ID Setting](https://lifehacker.com/you-can-lock-your-shady-incognito-tabs-with-this-hidden-1847160329)
+- latest article: [Why You Shouldn't Expect a COVID Vaccine Booster Anytime Soon](https://lifehacker.com/why-you-shouldnt-expect-a-covid-vaccine-booster-anytime-1847160793)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Systems Programming with Go"</a></p>
