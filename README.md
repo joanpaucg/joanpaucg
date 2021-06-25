@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Only Two Ways to Actually Keep Mosquitoes Away](https://lifehacker.com/to-keep-mosquitoes-away-do-these-two-things-1844224273)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Systems Programming with Go"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789804072/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
