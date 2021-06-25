@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [FFS, Put Some Weight on the Bar](https://lifehacker.com/put-some-fucking-weight-on-the-bar-1847176087)
+- latest article: [The Difference Between Terracotta, Ceramic, and Plastic Pots, and Why It Matters to Your Plants](https://lifehacker.com/the-difference-between-terracotta-ceramic-and-plastic-1847176578)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
