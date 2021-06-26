@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Terracotta, Ceramic, and Plastic Pots, and Why It Matters to Your Plants](https://lifehacker.com/the-difference-between-terracotta-ceramic-and-plastic-1847176578)
+- latest article: [Plant These Hay-Fever-Friendly Flowers to Cut Down on Summer Sneezing](https://lifehacker.com/plant-these-hay-fever-friendly-flowers-to-cut-down-on-s-1847170969)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning RSLogix 5000 Programming"</a></p>
