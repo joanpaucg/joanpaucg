@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Terracotta, Ceramic, and Plastic Pots, and Why It Matters to Your Plants](https://lifehacker.com/the-difference-between-terracotta-ceramic-and-plastic-1847176578)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Data Structures and Algorithms with Golang"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning RSLogix 5000 Programming"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784396039/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
