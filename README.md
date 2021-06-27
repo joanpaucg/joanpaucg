@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Plant These Hay-Fever-Friendly Flowers to Cut Down on Summer Sneezing](https://lifehacker.com/plant-these-hay-fever-friendly-flowers-to-cut-down-on-s-1847170969)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning RSLogix 5000 Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784396039/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Spring Boot 2.0 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786463784/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
