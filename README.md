@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Paid to Travel Around Your State Tasting the Best Pizza](https://lifehacker.com/get-paid-to-travel-around-your-state-tasting-the-best-p-1847175706)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Spring Boot 2.0 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463784/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering GitLab 12"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531282/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
