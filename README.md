@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Read E-Books for Free Without Pirating Them](https://lifehacker.com/how-to-read-e-books-for-free-without-pirating-them-1847187739)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering GitLab 12"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531282/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MATLAB for Machine Learning"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788398435/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
