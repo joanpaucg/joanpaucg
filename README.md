@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Play on Xbox Cloud Streaming (and Why It's Such a Big Deal)](https://lifehacker.com/how-to-play-on-xbox-cloud-streaming-and-why-its-such-a-1847197043)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MATLAB for Machine Learning"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788398435/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Network Programming"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835466/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
