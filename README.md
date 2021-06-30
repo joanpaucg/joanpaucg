@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This Student Loan Cashback Card If You're Laser Focused on Paying Off Your Debt](https://lifehacker.com/use-this-student-loan-cashback-card-if-youre-laser-focu-1847197762)
+- latest article: [What Does Space Smell Like?](https://lifehacker.com/what-does-space-smell-like-1847197079)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Network Programming"</a></p>
