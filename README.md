@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Absolutely Have to Clean Your Charcoal Grill](https://lifehacker.com/you-absolutely-have-to-clean-your-charcoal-grill-1847212611)
+- latest article: ['Corpse Flowers' Are a Thing, and You Can Watch One Bloom](https://lifehacker.com/corpse-flowers-are-a-thing-and-you-can-watch-one-bloom-1847213469)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Binary Analysis Cookbook"</a></p>
