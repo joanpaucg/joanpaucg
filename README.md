@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Know If Your Daycare Is a Bad Fit for Your Child](https://lifehacker.com/how-to-know-if-your-daycare-is-a-bad-fit-for-your-child-1847207221)
+- latest article: [You Should Change Your Default Download Location](https://lifehacker.com/you-should-change-your-default-download-location-1847210436)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Binary Analysis Cookbook"</a></p>
