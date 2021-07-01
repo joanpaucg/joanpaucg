@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Download the watchOS 8 Public Beta](https://lifehacker.com/how-to-download-the-watchos-8-public-beta-1847206261)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Network Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788835466/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Binary Analysis Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789807608/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
