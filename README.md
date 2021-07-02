@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: ['Corpse Flowers' Are a Thing, and You Can Watch One Bloom](https://lifehacker.com/corpse-flowers-are-a-thing-and-you-can-watch-one-bloom-1847213469)
+- latest article: [You Should Have a Favorite Niche Literary Subgenre](https://lifehacker.com/you-should-have-a-favorite-niche-literary-subgenre-1847214414)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Development Patterns and Best Practices"</a></p>
