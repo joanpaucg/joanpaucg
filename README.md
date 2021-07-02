@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Need Three Morning Routines](https://lifehacker.com/why-you-need-three-morning-routines-1847220529)
+- latest article: [Why You Shouldn't Trust the Numbers on Weight Machines](https://lifehacker.com/why-you-shouldnt-trust-the-numbers-on-weight-machines-1847222119)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Development Patterns and Best Practices"</a></p>
