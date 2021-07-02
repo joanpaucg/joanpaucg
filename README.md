@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['Corpse Flowers' Are a Thing, and You Can Watch One Bloom](https://lifehacker.com/corpse-flowers-are-a-thing-and-you-can-watch-one-bloom-1847213469)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Binary Analysis Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789807608/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Development Patterns and Best Practices"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788473927/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
