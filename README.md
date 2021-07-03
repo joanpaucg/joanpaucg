@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Avoid Windows' 'PrintNightmare' Security Threat](https://lifehacker.com/how-to-avoid-windows-printnightmare-security-threat-1847221653)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native Development Patterns and Best Practices"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788473927/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788621304/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
