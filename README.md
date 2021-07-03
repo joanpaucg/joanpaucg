@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid Windows' 'PrintNightmare' Security Threat](https://lifehacker.com/how-to-avoid-windows-printnightmare-security-threat-1847221653)
+- latest article: [How to Spot a Rotting Tree Before the Next Storm](https://lifehacker.com/how-to-spot-a-rotting-tree-before-the-next-storm-1847213061)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi Cookbook - Third Edition"</a></p>
