@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Uninstall These Malicious Android Apps That Stole Facebook Passwords](https://lifehacker.com/uninstall-these-malicious-android-apps-that-stole-faceb-1847227502)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Qt 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789956030/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Healthcare Analytics Made Simple"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787286702/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
