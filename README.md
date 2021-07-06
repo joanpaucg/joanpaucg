@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Download Spotify Songs to Your Apple Watch Instead of Streaming Them](https://lifehacker.com/how-to-download-spotify-songs-to-your-apple-watch-inste-1847236084)
+- latest article: [Our Best Career Advice of 2021 So Far](https://lifehacker.com/our-best-career-advice-of-2021-so-far-1847235546)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Programming for Beginners"</a></p>
