@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Break Into the Legal Weed Industry](https://lifehacker.com/how-to-break-into-the-legal-weed-industry-1847223015)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Healthcare Analytics Made Simple"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787286702/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Programming for Beginners"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788296298/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
