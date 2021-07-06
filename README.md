@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why the 'Slow Fade' Is Worse Than Ghosting](https://lifehacker.com/why-the-slow-fade-is-worse-than-ghosting-1847227847)
+- latest article: [How to Disable Spotlight Search on Mac (and Replace It With Something Better)](https://lifehacker.com/how-to-disable-spotlight-search-on-mac-and-replace-it-1847227585)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Programming for Beginners"</a></p>
