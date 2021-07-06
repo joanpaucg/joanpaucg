@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Break Into the Legal Weed Industry](https://lifehacker.com/how-to-break-into-the-legal-weed-industry-1847223015)
+- latest article: [Why the 'Slow Fade' Is Worse Than Ghosting](https://lifehacker.com/why-the-slow-fade-is-worse-than-ghosting-1847227847)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Programming for Beginners"</a></p>
