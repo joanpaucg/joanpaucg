@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Count Reps and Sets of an Exercise When Your Brain Just Won't Pay Attention](https://lifehacker.com/how-to-count-reps-and-sets-of-an-exercise-when-your-bra-1847239060)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Programming for Beginners"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788296298/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Robotic Process Automation"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788470940/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
