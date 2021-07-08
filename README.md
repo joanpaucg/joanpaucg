@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 of the Best Scanner Apps for Android](https://lifehacker.com/10-of-the-best-scanner-apps-for-android-1847250309)
+- latest article: [What to Do Now That Those 'PrintNightmare' Windows Patches Didn't Work [Updated]](https://lifehacker.com/how-to-avoid-windows-printnightmare-security-threat-1847221653)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
