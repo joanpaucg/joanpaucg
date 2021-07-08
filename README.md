@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use Linktree to Make Your 'Link in Bio' Actually Useful](https://lifehacker.com/use-linktree-to-make-your-link-in-bio-actually-useful-1847247591)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Robotic Process Automation"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788470940/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838829025/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
