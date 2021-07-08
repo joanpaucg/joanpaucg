@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use Linktree to Make Your 'Link in Bio' Actually Useful](https://lifehacker.com/use-linktree-to-make-your-link-in-bio-actually-useful-1847247591)
+- latest article: [How to Decorate Around Your Ugly Old Radiator](https://lifehacker.com/how-to-decorate-around-your-ugly-old-radiator-1847246723)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
