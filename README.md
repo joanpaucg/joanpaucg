@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [24 of the Best Comic Book Adaptations That Aren't Marvel or DC](https://lifehacker.com/24-of-the-best-comic-book-adaptations-that-arent-marvel-1847258633)
+- latest article: [You Shouldn't Use Your New Credit Card Until You Do These Things](https://lifehacker.com/you-shouldnt-use-your-new-credit-card-until-you-do-thes-1847261332)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Game Design"</a></p>
