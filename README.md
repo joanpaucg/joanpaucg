@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Grow Vines on Your Pergola](https://lifehacker.com/how-to-grow-vines-on-your-pergola-1847253136)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Azure Administrator – Exam Guide AZ-103"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838829025/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Game Design"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787121799/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
