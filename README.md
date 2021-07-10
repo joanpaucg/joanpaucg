@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 Video Games for Newbies Who Always Wanted to Become Gamers](https://lifehacker.com/10-video-games-for-newbies-who-always-wanted-to-become-1847262076)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Game Design"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787121799/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional Azure SQL Database Administration - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789802542/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
