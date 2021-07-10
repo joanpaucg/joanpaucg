@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Force Restart Any iPhone or iPad](https://lifehacker.com/how-to-force-restart-any-iphone-or-ipad-1847257706)
+- latest article: [How to Clean Reusable Straws (Because Yours Are Probably Gross)](https://lifehacker.com/how-to-clean-reusable-straws-because-yours-are-probabl-1847263628)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional Azure SQL Database Administration - Second Edition"</a></p>
