@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean Reusable Straws (Because Yours Are Probably Gross)](https://lifehacker.com/how-to-clean-reusable-straws-because-yours-are-probabl-1847263628)
+- latest article: [How to Cold Call a Job Recruiter (and Why You Should)](https://lifehacker.com/how-to-cold-call-a-job-recruiter-and-why-you-should-1847259887)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional Azure SQL Database Administration - Second Edition"</a></p>
