@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Cold Call a Job Recruiter (and Why You Should)](https://lifehacker.com/how-to-cold-call-a-job-recruiter-and-why-you-should-1847259887)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional Azure SQL Database Administration - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789802542/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Cookbook - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789953008/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
