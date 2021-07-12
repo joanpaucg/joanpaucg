@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get a Compulsive Talker to Shut Up at Work](https://lifehacker.com/how-to-get-a-compulsive-talker-to-shut-up-at-work-1847272964)
+- latest article: [What's the Difference Between Flexibility and Mobility (and Why Should You Care)?](https://lifehacker.com/whats-the-difference-between-flexibility-and-mobility-1847275695)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Cloud Computing Solutions"</a></p>
