@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Download YouTube Subtitles for Transcripts of Your Favorite Tutorials](https://lifehacker.com/how-to-download-youtube-subtitles-for-transcripts-of-yo-1847265562)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Cookbook - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789953008/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Cloud Computing Solutions"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788472425/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
