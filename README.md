@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's the Difference Between Flexibility and Mobility (and Why Should You Care)?](https://lifehacker.com/whats-the-difference-between-flexibility-and-mobility-1847275695)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Cloud Computing Solutions"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788472425/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Windows - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789617375/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
