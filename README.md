@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Cream of Tartar and Tartaric Acid](https://lifehacker.com/the-difference-between-cream-of-tartar-and-tartaric-aci-1847282928)
+- latest article: [How to Go Back to Windows 10 If You Regret Installing Windows 11](https://lifehacker.com/how-to-go-back-to-windows-10-if-you-regret-installing-w-1847283558)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Windows - Second Edition"</a></p>
