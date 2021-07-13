@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Disable Google Chrome's New 'Privacy Sandbox' Tracking (and Why You Want To)](https://lifehacker.com/how-to-disable-google-chromes-new-privacy-sandbox-track-1847276073)
+- latest article: [The Different Types of Therapy (and How They Work)](https://lifehacker.com/the-different-types-of-therapy-and-how-they-work-1847279080)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Windows - Second Edition"</a></p>
