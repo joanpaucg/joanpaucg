@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Difference Between Flexibility and Mobility (and Why Should You Care)?](https://lifehacker.com/whats-the-difference-between-flexibility-and-mobility-1847275695)
+- latest article: [How to Disable Google Chrome's New 'Privacy Sandbox' Tracking (and Why You Want To)](https://lifehacker.com/how-to-disable-google-chromes-new-privacy-sandbox-track-1847276073)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Windows - Second Edition"</a></p>
