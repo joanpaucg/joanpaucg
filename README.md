@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Go Back to Windows 10 If You Regret Installing Windows 11](https://lifehacker.com/how-to-go-back-to-windows-10-if-you-regret-installing-w-1847283558)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Windows - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789617375/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Unity 2018 - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788830102/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
