@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Go Back to Windows 10 If You Regret Installing Windows 11](https://lifehacker.com/how-to-go-back-to-windows-10-if-you-regret-installing-w-1847283558)
+- latest article: [7 Ways to Save Money at the Pump As Gas Prices Climb](https://lifehacker.com/7-ways-to-save-money-at-the-pump-as-gas-prices-climb-1847285765)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Unity 2018 - Third Edition"</a></p>
