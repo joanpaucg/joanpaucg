@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Finally Fix Your Drifting Nintendo Joy-Con on Your Own](https://lifehacker.com/how-to-finally-fix-your-drifting-nintendo-joy-con-on-yo-1847293340)
+- latest article: [Do Those Email Confidentiality 'Disclaimers' Really Mean Anything?](https://lifehacker.com/do-those-email-confidentiality-disclaimers-really-mean-1847294009)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Infrastructure Monitoring with Prometheus"</a></p>
