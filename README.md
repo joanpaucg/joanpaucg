@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Finally Fix Your Drifting Nintendo Joy-Con on Your Own](https://lifehacker.com/how-to-finally-fix-your-drifting-nintendo-joy-con-on-yo-1847293340)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Unity 2018 - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788830102/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Infrastructure Monitoring with Prometheus"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789612349/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
