@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn't Feed Your Dog Raw Meat](https://lifehacker.com/why-you-shouldnt-feed-your-dog-raw-meat-1847304593)
+- latest article: [How to Disable Windows 10’s Annoying Weather Widget](https://lifehacker.com/how-to-disable-windows-10-s-annoying-weather-widget-1847305101)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing on Windows"</a></p>
