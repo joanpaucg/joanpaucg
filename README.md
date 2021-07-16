@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Your iPhone or iPad Faster by Clearing Its Browser Caches](https://lifehacker.com/how-to-make-your-iphone-or-ipad-faster-by-clearing-its-1847301581)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Infrastructure Monitoring with Prometheus"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789612349/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing on Windows"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788295666/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
