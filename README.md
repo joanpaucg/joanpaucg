@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Slide Into the Weekend With a Boozy B&B](https://lifehacker.com/slide-into-the-weekend-with-a-boozy-b-b-1847309502)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing on Windows"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788295666/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On RESTful API Design Patterns and Best Practices"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992664/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
