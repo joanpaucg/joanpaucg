@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean Your Beloved Air Fryer](https://lifehacker.com/how-to-clean-your-beloved-air-fryer-1847303209)
+- latest article: [The Difference Between Termites and Ants, and How to Tell Them Apart](https://lifehacker.com/the-difference-between-termites-and-ants-and-how-to-te-1847303246)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On RESTful API Design Patterns and Best Practices"</a></p>
