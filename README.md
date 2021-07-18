@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Termites and Ants, and How to Tell Them Apart](https://lifehacker.com/the-difference-between-termites-and-ants-and-how-to-te-1847303246)
+- latest article: [How to Make Your First Real Estate Investment](https://lifehacker.com/how-to-make-your-first-real-estate-investment-1847307721)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Robotics using Python - Second Edition"</a></p>
