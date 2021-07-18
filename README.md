@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Termites and Ants, and How to Tell Them Apart](https://lifehacker.com/the-difference-between-termites-and-ants-and-how-to-te-1847303246)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On RESTful API Design Patterns and Best Practices"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992664/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Robotics using Python - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623315/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
