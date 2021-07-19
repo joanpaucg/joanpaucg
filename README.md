@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Your Toilet Tank From Sweating](https://lifehacker.com/how-to-stop-your-toilet-tank-from-sweating-1847313005)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Robotics using Python - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623315/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Device Driver Development Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838558802/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
