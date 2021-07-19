@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stop Your Toilet Tank From Sweating](https://lifehacker.com/how-to-stop-your-toilet-tank-from-sweating-1847313005)
+- latest article: [How to Download YouTube Videos on Your Phone](https://lifehacker.com/how-to-download-youtube-videos-on-your-phone-1847317812)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Device Driver Development Cookbook"</a></p>
