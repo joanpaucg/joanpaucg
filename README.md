@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Everyone Should Keep an Empty Sugar Bag on Hand](https://lifehacker.com/why-everyone-should-keep-an-empty-sugar-bag-on-hand-1847321528)
+- latest article: [How to Build Meaningful Relationships, According to Plato](https://lifehacker.com/how-to-build-meaningful-relationships-according-to-pla-1847321135)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
