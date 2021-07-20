@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Everyone Should Keep an Empty Sugar Bag on Hand](https://lifehacker.com/why-everyone-should-keep-an-empty-sugar-bag-on-hand-1847321528)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Device Driver Development Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838558802/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839217647/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
