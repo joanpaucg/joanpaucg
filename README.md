@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get Thyself a Useful Idiot (and Why You Should Be One for Others)](https://lifehacker.com/get-thyself-a-useful-idiot-and-why-you-should-be-one-f-1847328738)
+- latest article: [12 Reasons to Run in the Morning, According to Reddit](https://lifehacker.com/12-reasons-to-run-in-the-morning-according-to-reddit-1847330428)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
