@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [12 Reasons to Run in the Morning, According to Reddit](https://lifehacker.com/12-reasons-to-run-in-the-morning-according-to-reddit-1847330428)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Master Apache JMeter - From Load Testing to DevOps"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839217647/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Hadoop 3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788620444/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
