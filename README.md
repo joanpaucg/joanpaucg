@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Choose the Right Wood Stain](https://lifehacker.com/how-to-choose-the-right-wood-stain-1847338493)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Hadoop 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788620444/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python GUI Programming - A Complete Reference Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838988470/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
