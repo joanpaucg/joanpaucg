@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid an Airline's Manipulative 'Seat Selection' Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
+- latest article: [How to Edit Your 'Continue Watching' List on Every Major Streaming Service](https://lifehacker.com/how-to-edit-your-continue-watching-list-on-every-major-1847348242)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things for Architects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788470599/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
