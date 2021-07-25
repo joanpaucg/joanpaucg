@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Change Alexa's Voice on Amazon Echo, Finally](https://lifehacker.com/how-to-change-alexas-voice-on-amazon-echo-finally-1847355030)
+- latest article: [How to Survive a Multigenerational Family Vacation](https://lifehacker.com/how-to-survive-a-multigenerational-family-vacation-1847355632)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Power BI"</a></p>
