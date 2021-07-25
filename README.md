@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Change Alexa's Voice on Amazon Echo, Finally](https://lifehacker.com/how-to-change-alexas-voice-on-amazon-echo-finally-1847355030)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things for Architects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788470599/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Power BI"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838644482/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
