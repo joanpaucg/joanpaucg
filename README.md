@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Jump-Start an Electric Car That has a Dead Battery](https://lifehacker.com/how-to-jump-start-an-electric-car-that-has-a-dead-batte-1847355623)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Power BI"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838644482/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Google Apps Script"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785882517/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
