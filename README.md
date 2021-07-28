@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Show Up to Your Next Virtual Meeting As a Pixar Character](https://lifehacker.com/show-up-to-your-next-virtual-meeting-as-a-pixar-charact-1847379414)
+- latest article: [What Is a Deload, and When Do You Need One?](https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one-1847380901)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Security Automation and Testing"</a></p>
