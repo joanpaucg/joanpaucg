@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is a Deload, and When Do You Need One?](https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one-1847380901)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Security Automation and Testing"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789802023/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Shaders and Effects Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538540/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
