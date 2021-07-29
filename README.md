@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is a Deload, and When Do You Need One?](https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one-1847380901)
+- latest article: [Kids Don't Always Have to Share](https://lifehacker.com/kids-dont-always-have-to-share-1847378137)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Shaders and Effects Cookbook"</a></p>
