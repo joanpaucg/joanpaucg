@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Kids Don't Always Have to Share](https://lifehacker.com/kids-dont-always-have-to-share-1847378137)
+- latest article: [How to Preserve Seeds to Plant Next Year](https://lifehacker.com/how-to-preserve-seeds-to-plant-next-year-1847382460)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Shaders and Effects Cookbook"</a></p>
