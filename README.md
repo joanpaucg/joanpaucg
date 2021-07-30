@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Find Childcare When Everything Is Booked Solid](https://lifehacker.com/how-to-find-childcare-when-everything-is-booked-solid-1847388077)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Shaders and Effects Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538540/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Game Development By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789535303/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
