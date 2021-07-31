@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [7 of the Best VR Games That Will Actually Give You a Great Workout](https://lifehacker.com/7-of-the-best-vr-games-that-will-actually-give-you-a-gr-1847397399)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Game Development By Example"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789535303/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Django Design Patterns and Best Practices - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831345/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
