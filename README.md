@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Masking Tape and Painter's Tape (and When to Use Each)](https://lifehacker.com/the-difference-between-masking-tape-and-painters-tape-1847398403)
+- latest article: [The Cleverest Ways You Should Be Reusing Your Shower Curtain Liner](https://lifehacker.com/the-cleverest-ways-you-should-be-reusing-your-shower-cu-1847398363)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LaTeX Cookbook"</a></p>
