@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get People to Actually Listen to Your Podcast](https://lifehacker.com/how-to-get-people-to-actually-listen-to-your-podcast-1847395074)
+- latest article: [The Difference Between Masking Tape and Painter's Tape (and When to Use Each)](https://lifehacker.com/the-difference-between-masking-tape-and-painters-tape-1847398403)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LaTeX Cookbook"</a></p>
