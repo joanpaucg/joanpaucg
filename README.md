@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Choose and Install the Right External Hard Drive for Your PS5](https://lifehacker.com/how-to-choose-and-install-the-right-external-hard-drive-1847408540)
+- latest article: [How to Grow a Lemon Tree Indoors](https://lifehacker.com/how-to-grow-a-lemon-tree-indoors-1847408904)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Java by Building Android Games - Second Edition"</a></p>
