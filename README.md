@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn't Over-Apologize, and What to Say Instead](https://lifehacker.com/why-you-shouldnt-over-apologize-and-what-to-say-instea-1847405197)
+- latest article: [Don't Toss Out the Cash Hiding in Your Junk Mail](https://lifehacker.com/dont-toss-out-the-cash-hiding-in-your-junk-mail-1847397294)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Java by Building Android Games - Second Edition"</a></p>
