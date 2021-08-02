@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Cleverest Ways You Should Be Reusing Your Shower Curtain Liner](https://lifehacker.com/the-cleverest-ways-you-should-be-reusing-your-shower-cu-1847398363)
+- latest article: [Why You Shouldn't Over-Apologize, and What to Say Instead](https://lifehacker.com/why-you-shouldnt-over-apologize-and-what-to-say-instea-1847405197)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Java by Building Android Games - Second Edition"</a></p>
