@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Cleverest Ways You Should Be Reusing Your Shower Curtain Liner](https://lifehacker.com/the-cleverest-ways-you-should-be-reusing-your-shower-cu-1847398363)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LaTeX Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784395148/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Java by Building Android Games - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839150/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
