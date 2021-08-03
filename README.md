@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Shouldn't Feel Guilty About Skipping a Day of Exercise](https://lifehacker.com/why-you-shouldnt-feel-guilty-about-skipping-a-day-of-ex-1847410197)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Java by Building Android Games - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839150/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PostgreSQL 10 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788392013/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
