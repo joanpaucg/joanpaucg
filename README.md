@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn't Feel Guilty About Skipping a Day of Exercise](https://lifehacker.com/why-you-shouldnt-feel-guilty-about-skipping-a-day-of-ex-1847410197)
+- latest article: [How to Block Spam Calls With the Nuclear Option (and as Little Fallout as Possible)](https://lifehacker.com/how-to-block-spam-calls-with-the-nuclear-option-and-as-1847410310)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PostgreSQL 10 - Second Edition"</a></p>
