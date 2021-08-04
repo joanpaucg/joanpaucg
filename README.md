@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Older Running Shoes Probably Won't Last, Even If They Haven’t Been Worn](https://lifehacker.com/why-older-running-shoes-probably-wont-last-even-if-the-1847417213)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PostgreSQL 10 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788392013/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 4 Computer Vision Application Programming Cookbook - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789340723/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
