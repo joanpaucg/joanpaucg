@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Older Running Shoes Probably Won't Last, Even If They Haven’t Been Worn](https://lifehacker.com/why-older-running-shoes-probably-wont-last-even-if-the-1847417213)
+- latest article: [Will Running Ruin Your Knees?](https://lifehacker.com/will-running-ruin-your-knees-1847419941)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 4 Computer Vision Application Programming Cookbook - Fourth Edition"</a></p>
