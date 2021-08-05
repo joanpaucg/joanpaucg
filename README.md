@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Plants and Trees Can Actually Lower Your Home's Resale Value](https://lifehacker.com/these-plants-and-trees-can-actually-lower-your-homes-re-1847424355)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 4 Computer Vision Application Programming Cookbook - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789340723/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk Operational Intelligence Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835237/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
