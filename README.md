@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [7 Delicious Ways to Use That Old Can of Sweetened Condensed Milk](https://lifehacker.com/7-delicious-ways-to-use-that-old-can-of-sweetened-conde-1847428784)
+- latest article: [How to Enable Spatial Audio in Apple Music](https://lifehacker.com/how-to-enable-spatial-audio-in-apple-music-1847428332)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk Operational Intelligence Cookbook - Third Edition"</a></p>
