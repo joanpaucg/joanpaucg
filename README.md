@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Enable Spatial Audio in Apple Music](https://lifehacker.com/how-to-enable-spatial-audio-in-apple-music-1847428332)
+- latest article: [Do You Need a VPN Kill Switch?](https://lifehacker.com/do-you-need-a-vpn-kill-switch-1847431876)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk Operational Intelligence Cookbook - Third Edition"</a></p>
