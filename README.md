@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Into Stand-up Comedy Because You're a Glutton for Punishment](https://lifehacker.com/how-to-get-into-stand-up-comedy-because-youre-a-glutton-1847434524)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Successful Software Manager"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789615531/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Business Intelligence with Qlik Sense"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789800944/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
