@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Grow a Blueberry Bush in Your Home](https://lifehacker.com/how-to-grow-a-blueberry-bush-in-your-home-1847439584)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Business Intelligence with Qlik Sense"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789800944/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with Rust"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995528/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
