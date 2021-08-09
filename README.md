@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Check These Settings Before You Lose Your iPhone so You Can Find It Later](https://lifehacker.com/check-these-settings-before-you-lose-your-iphone-so-you-1847447798)
+- latest article: [The Difference Between Capers and Caperberries, and When to Use Them Both](https://lifehacker.com/the-difference-between-capers-and-caperberries-and-whe-1847451857)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On System Programming with C++"</a></p>
