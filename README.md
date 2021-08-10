@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Play Zoom's New Built-in Games Instead of Working](https://lifehacker.com/how-to-play-zooms-new-built-in-games-instead-of-working-1847457051)
+- latest article: [How to Enable Android 12's 'Material You' Dynamic Theme Early](https://lifehacker.com/how-to-enable-android-12s-material-you-dynamic-theme-ea-1847457130)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Development with Eclipse - Third Edition"</a></p>
