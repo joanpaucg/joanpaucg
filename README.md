@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['Deadhead' Your Flowers to Keep Them Blooming All Season](https://lifehacker.com/deadhead-your-flowers-to-keep-them-blooming-all-season-1847452024)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On System Programming with C++"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789137880/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Development with Eclipse - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788833776/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
