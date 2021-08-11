@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Are You Living With Undiagnosed Adult ADHD?](https://lifehacker.com/are-you-living-with-undiagnosed-adult-adhd-1847464099)
+- latest article: [How to Keep Your iPhone's Camera Settings From Resetting When You Close the App](https://lifehacker.com/how-to-keep-your-iphones-camera-settings-from-resetting-1847465245)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Cookbook - Second Edition"</a></p>
