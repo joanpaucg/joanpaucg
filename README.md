@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid Getting Caught by the Android 'FlyTrap' Malware](https://lifehacker.com/how-to-avoid-getting-caught-in-androids-flytrap-malware-1847460847)
+- latest article: [How to See When and Where a Photo Was Taken From Within a Google Photos Memory](https://lifehacker.com/how-to-see-when-and-where-a-photo-was-taken-from-within-1847459719)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Cookbook - Second Edition"</a></p>
