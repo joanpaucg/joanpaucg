@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Avoid Getting Caught by the Android 'FlyTrap' Malware](https://lifehacker.com/how-to-avoid-getting-caught-in-androids-flytrap-malware-1847460847)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Development with Eclipse - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788833776/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784390303/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
