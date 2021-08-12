@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Heighten Your High When You Smoke Weed](https://lifehacker.com/how-to-heighten-your-high-when-you-smoke-weed-1847475342)
+- latest article: [Why You Need a Lifting Program](https://lifehacker.com/why-you-need-a-lifting-program-1847476779)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PHP 7"</a></p>
