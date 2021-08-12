@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Short Can a Workout Be and Still Be Effective?](https://lifehacker.com/how-short-can-a-workout-be-and-still-be-effective-1847468871)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784390303/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PHP 7"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785880544/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
