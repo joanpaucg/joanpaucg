@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Need a Lifting Program](https://lifehacker.com/why-you-need-a-lifting-program-1847476779)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PHP 7"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785880544/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Healthcare Analytics Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536591/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
