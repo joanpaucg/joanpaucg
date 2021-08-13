@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Common Phrases Are Actually Ableist, So Quit Using Them](https://lifehacker.com/these-common-phrases-are-actually-ableist-so-quit-usin-1847473756)
+- latest article: [11 Questions to Ask Your Partner Before Having Kids](https://lifehacker.com/11-questions-to-ask-your-partner-before-having-kids-1847481137)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Healthcare Analytics Projects"</a></p>
