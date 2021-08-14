@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 Questions to Ask Your Partner Before Having Kids](https://lifehacker.com/11-questions-to-ask-your-partner-before-having-kids-1847481137)
+- latest article: [How to Tell the Difference Between Poison Hemlock and a Harmless Flower, as the Invasive Species Spreads](https://lifehacker.com/how-to-tell-the-difference-between-poison-hemlock-and-a-1847485268)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Delphi Programming: A Complete Reference Guide"</a></p>
