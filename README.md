@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [11 Questions to Ask Your Partner Before Having Kids](https://lifehacker.com/11-questions-to-ask-your-partner-before-having-kids-1847481137)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Healthcare Analytics Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789536591/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Delphi Programming: A Complete Reference Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838989118/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
