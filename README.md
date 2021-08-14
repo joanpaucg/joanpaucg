@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Wash Your Car Without Water (and Why You Might Want to Consider it)](https://lifehacker.com/how-to-wash-your-car-without-water-and-why-you-might-w-1847485304)
+- latest article: [What Is Humane Pest Control, and How Does It Work?](https://lifehacker.com/what-is-humane-pest-control-and-how-does-it-work-1847485277)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Delphi Programming: A Complete Reference Guide"</a></p>
