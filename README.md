@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is Humane Pest Control, and How Does It Work?](https://lifehacker.com/what-is-humane-pest-control-and-how-does-it-work-1847485277)
+- latest article: [How to Convert Your Hot Tub Into a Refreshing Cool Plunge Pool](https://lifehacker.com/how-to-convert-your-hot-tub-into-a-refreshing-cool-plun-1847487239)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow Scripting"</a></p>
