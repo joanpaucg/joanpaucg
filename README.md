@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is Humane Pest Control, and How Does It Work?](https://lifehacker.com/what-is-humane-pest-control-and-how-does-it-work-1847485277)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Delphi Programming: A Complete Reference Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838989118/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow Scripting"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627092/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
