@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [6 Dating Red Flags That Are Hard to Spot (and How to Avoid Them)](https://lifehacker.com/6-dating-red-flags-that-are-hard-to-spot-and-how-to-av-1847481730)
+- latest article: [Why Immunocompromised People Should Get an Extra COVID Shot, According to the CDC](https://lifehacker.com/why-immunocompromised-people-should-get-an-extra-covid-1847494704)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
