@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Reduce the Humidity in Your Home Without a Dehumidifier](https://lifehacker.com/how-to-reduce-the-humidity-in-your-home-without-a-dehum-1847487211)
+- latest article: [Channel the AIM Era by Setting a Status in Gmail and Google Chat](https://lifehacker.com/channel-the-aim-era-by-setting-a-status-in-gmail-and-go-1847482779)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
