@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Reduce the Humidity in Your Home Without a Dehumidifier](https://lifehacker.com/how-to-reduce-the-humidity-in-your-home-without-a-dehum-1847487211)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow Scripting"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627092/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics 365 Business Central - Sixth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789137798/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
