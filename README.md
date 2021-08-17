@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Control Your Android With Just Your Facial Expressions](https://lifehacker.com/you-can-control-your-android-with-just-your-facial-expr-1847495206)
+- latest article: [Check If Your Frozen Shrimp is Part of This Massive Recall](https://lifehacker.com/check-if-your-frozen-shrimp-is-part-of-this-massive-rec-1847500215)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Design Patterns and Best Practices"</a></p>
