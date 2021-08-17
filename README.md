@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Young Is Too Young for Kids to Lift Weights?](https://lifehacker.com/how-young-is-too-young-for-kids-to-lift-weights-1847496111)
+- latest article: [You Can Control Your Android With Just Your Facial Expressions](https://lifehacker.com/you-can-control-your-android-with-just-your-facial-expr-1847495206)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Design Patterns and Best Practices"</a></p>
