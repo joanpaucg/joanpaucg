@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Encrypt Your Own Windows and Mac Devices (and Why You Need To)](https://lifehacker.com/how-to-encrypt-your-own-windows-and-mac-devices-and-wh-1847504643)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Design Patterns and Best Practices"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788620642/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced MySQL 8"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834445/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
