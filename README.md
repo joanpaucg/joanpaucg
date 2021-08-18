@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Latest T-Mobile Data Breach Effects Everyone, Not Just Customers](https://lifehacker.com/the-latest-t-mobile-data-breach-effects-everyone-not-j-1847512002)
+- latest article: [How to Get Rid of Grass Stains](https://lifehacker.com/how-to-get-rid-of-grass-stains-1847512548)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced MySQL 8"</a></p>
