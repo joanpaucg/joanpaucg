@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Encrypt Your Own Windows and Mac Devices (and Why You Need To)](https://lifehacker.com/how-to-encrypt-your-own-windows-and-mac-devices-and-wh-1847504643)
+- latest article: [What's New on Hulu in September 2021](https://lifehacker.com/whats-new-on-hulu-in-september-2021-1847506875)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced MySQL 8"</a></p>
