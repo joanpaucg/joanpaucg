@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stop Apple From Scanning Your iPhone Photos Before iOS 15 Arrives](https://lifehacker.com/how-to-stop-apple-from-scanning-your-iphone-photos-befo-1847508003)
+- latest article: [How to Look More Confident During Your Next Job Interview](https://lifehacker.com/how-to-look-more-confident-during-your-next-job-intervi-1847484480)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced MySQL 8"</a></p>
