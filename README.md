@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Rid of Grass Stains](https://lifehacker.com/how-to-get-rid-of-grass-stains-1847512548)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android System Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125360/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
