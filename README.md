@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [13 Fitness Podcasts That Will Motivate You to Get Moving](https://lifehacker.com/13-fitness-podcasts-that-will-motivate-you-to-get-movin-1847520125)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android System Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125360/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with LLVM Core Libraries"</a></p>
+<img src="https://static.packt-cdn.com/products/9781782166924/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
