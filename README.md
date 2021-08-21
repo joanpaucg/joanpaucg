@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Test Drive Windows 11 Without Installing Anything](https://lifehacker.com/how-to-test-drive-windows-11-without-installing-anythin-1847527997)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with LLVM Core Libraries"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782166924/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Programming Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789800982/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
