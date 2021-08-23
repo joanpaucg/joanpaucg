@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Save a Historical House While (Technically) Living Rent-Free](https://lifehacker.com/how-to-save-a-historical-house-while-technically-livi-1847533591)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence for IoT"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788836067/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789341782/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
