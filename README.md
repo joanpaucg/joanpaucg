@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What It Means Now That the Pfizer Vaccine Is Fully FDA Approved for Adults](https://lifehacker.com/what-it-means-now-that-the-pfizer-vaccine-is-fully-fda-1847539235)
+- latest article: [30 Films That Are 'Green Flags,' According to Twitter](https://lifehacker.com/30-films-that-are-green-flags-according-to-twitter-1847538268)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
