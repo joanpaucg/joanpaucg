@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [30 Films That Are 'Green Flags,' According to Twitter](https://lifehacker.com/30-films-that-are-green-flags-according-to-twitter-1847538268)
+- latest article: [How to Try Chrome's Tab Group Saving Feature Early](https://lifehacker.com/how-to-try-chromes-tab-group-saving-feature-early-1847541441)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
