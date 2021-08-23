@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is the Housing Market Going to Crash?](https://lifehacker.com/is-the-housing-market-going-to-crash-1847503254)
+- latest article: [You Can Gain Admin Privileges to Any Windows Machine by Plugging in a Razer Mouse](https://lifehacker.com/you-can-gain-admin-privileges-to-any-windows-machine-by-1847537634)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
