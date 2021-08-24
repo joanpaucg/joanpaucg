@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Try Chrome's Tab Group Saving Feature Early](https://lifehacker.com/how-to-try-chromes-tab-group-saving-feature-early-1847541441)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789341782/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Red Team Tactics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995238/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
