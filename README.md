@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Salmonella Has Come for Our Italian-Style Cold Cuts, According to the CDC](https://lifehacker.com/salmonella-has-come-for-our-italian-style-cold-cuts-ac-1847549894)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Red Team Tactics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788995238/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On System Programming with Linux"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788998475/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
