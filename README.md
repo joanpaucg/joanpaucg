@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Slow Your Car's Depreciation So You Can Sell It for More](https://lifehacker.com/how-to-slow-your-cars-depreciation-so-you-can-sell-it-f-1847559490)
+- latest article: [What's the Difference Between a Third Dose and a COVID Booster?](https://lifehacker.com/whats-the-difference-between-a-third-dose-and-a-covid-b-1847563298)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with the Elastic Stack"</a></p>
