@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What in the Hell Are Angel Numbers (and Why Is Everyone Talking About Them)?](https://lifehacker.com/what-in-the-hell-are-angel-numbers-and-why-is-everyone-1847522854)
+- latest article: [The Fastest Way to Clear Your Recent Browsing History in Every Browser](https://lifehacker.com/the-fastest-way-to-clear-your-recent-browsing-history-i-1847565543)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with the Elastic Stack"</a></p>
