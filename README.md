@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to 'Renovate' Your Living Room Without Spending Renovation Money](https://lifehacker.com/how-to-renovate-your-living-room-without-spending-renov-1847550002)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On System Programming with Linux"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788998475/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with the Elastic Stack"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788477543/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
