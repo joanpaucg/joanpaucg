@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Can Lemons Really Make Your Whites Whiter?](https://lifehacker.com/can-lemons-really-make-your-whites-whiter-1847566605)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with the Elastic Stack"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788477543/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Data Science"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838826321/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
