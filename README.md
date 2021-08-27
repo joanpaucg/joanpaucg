@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Can Lemons Really Make Your Whites Whiter?](https://lifehacker.com/can-lemons-really-make-your-whites-whiter-1847566605)
+- latest article: [How to Play PlayStation Games That Aren't Available in the US](https://lifehacker.com/how-to-play-playstation-games-that-arent-available-in-t-1847567325)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Data Science"</a></p>
