@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Show Your Mouse Cursor in macOS Screenshots](https://lifehacker.com/how-to-show-your-mouse-cursor-in-macos-screenshots-1847572823)
+- latest article: [How to Volunteer to House Afghan Refugees on Airbnb, Even If You're Not a Host](https://lifehacker.com/how-to-volunteer-to-house-afghan-refugees-on-airbnb-ev-1847574458)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Data Science"</a></p>
