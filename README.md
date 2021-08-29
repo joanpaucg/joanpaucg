@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use This Map to Plan Your Fall Foliage Trip Before Everything Is Booked](https://lifehacker.com/use-this-map-to-plan-your-fall-foliage-trip-before-ever-1847574505)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Managing Data Science"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838826321/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SVG"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788626743/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
