@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean Your Discolored Vent Covers With Hydrogen Peroxide](https://lifehacker.com/how-to-clean-your-discolored-vent-covers-with-hydrogen-1847575933)
+- latest article: [How to Air Dry Fresh Flowers to Decorate With](https://lifehacker.com/how-to-air-dry-fresh-flowers-to-decorate-with-1847575940)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SVG"</a></p>
