@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Air Dry Fresh Flowers to Decorate With](https://lifehacker.com/how-to-air-dry-fresh-flowers-to-decorate-with-1847575940)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SVG"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788626743/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MicroPython Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838649951/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
