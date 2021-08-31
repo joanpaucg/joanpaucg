@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Have Fuller Lips Without Taking It Too Far](https://lifehacker.com/how-to-have-fuller-lips-without-taking-it-too-far-1847573053)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MicroPython Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838649951/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft 365 Mobility and Security – Exam Guide MS-101"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838984656/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
