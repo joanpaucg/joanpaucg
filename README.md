@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Expect When You Quit Vaping](https://lifehacker.com/what-to-expect-when-you-quit-vaping-1847568817)
+- latest article: [How Vaccine Side Effects Compare to COVID Symptoms](https://lifehacker.com/how-vaccine-side-effects-compare-to-covid-symptoms-1847593425)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft 365 Mobility and Security – Exam Guide MS-101"</a></p>
