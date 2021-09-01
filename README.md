@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Turn On Strava's 'Beacon' Feature When You Go for a Run](https://lifehacker.com/why-you-should-turn-on-stravas-beacon-feature-when-you-1847599486)
+- latest article: [10 Smart Option-Key Shortcuts You're Not Using on Your Mac](https://lifehacker.com/10-smart-option-key-shortcuts-youre-not-using-on-your-m-1847599777)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MQTT Essentials - A Lightweight IoT Protocol"</a></p>
