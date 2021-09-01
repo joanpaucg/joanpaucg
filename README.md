@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Vaccine Side Effects Compare to COVID Symptoms](https://lifehacker.com/how-vaccine-side-effects-compare-to-covid-symptoms-1847593425)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MQTT Essentials - A Lightweight IoT Protocol"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787287815/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
