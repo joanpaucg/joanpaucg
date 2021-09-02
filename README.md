@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Your Doctor Doesn't Want to Give You an 'Off Label' COVID Vaccine](https://lifehacker.com/why-your-doctor-doesnt-want-to-give-you-an-off-label-co-1847601012)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nmap: Network Exploration and Security Auditing Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786467454/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
