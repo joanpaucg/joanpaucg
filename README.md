@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Stop Setting Up Smart Devices With Multiple Email Addresses](https://lifehacker.com/why-you-should-stop-setting-up-smart-devices-with-multi-1847608716)
+- latest article: [How to Hook Up With a Roommate Without Ruining Everything](https://lifehacker.com/how-to-hook-up-with-a-roommate-without-ruining-everythi-1847609256)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qlik Sense Cookbook - Second Edition"</a></p>
