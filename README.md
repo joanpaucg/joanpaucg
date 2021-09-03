@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 Items You Need to Stop Putting in the Dryer](https://lifehacker.com/10-items-you-need-to-stop-putting-in-the-dryer-1847608407)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nmap: Network Exploration and Security Auditing Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786467454/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qlik Sense Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788997058/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
