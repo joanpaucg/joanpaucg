@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Milk Paint and Chalk Paint, and When to Use Each](https://lifehacker.com/the-difference-between-milk-paint-and-chalk-paint-and-1847616888)
+- latest article: [Plan Your Labor Day Weekend Around This Free and Cheap Food](https://lifehacker.com/plan-your-labor-day-weekend-around-this-free-and-cheap-1847616863)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
