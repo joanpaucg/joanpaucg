@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Probably Don't Have Tendonitis (but You Can Treat the Pain You Do Have)](https://lifehacker.com/why-you-probably-dont-have-tendonitis-but-you-can-trea-1847614077)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qlik Sense Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788997058/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789957754/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
