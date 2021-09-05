@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Wash Microfiber Towels Without Ruining Them](https://lifehacker.com/how-to-wash-microfiber-towels-without-ruining-them-1847616896)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Elasticsearch 7.0"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789957754/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Networking Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789800227/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
