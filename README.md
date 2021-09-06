@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Paint a Ceiling Without Getting Paint Everywhere, Including on Yourself](https://lifehacker.com/how-to-paint-a-ceiling-without-getting-paint-everywhere-1847619348)
+- latest article: [How to Get Carpenter Bees Out of Your Yard Without Killing Them](https://lifehacker.com/how-to-get-carpenter-bees-out-of-your-yard-without-kill-1847619354)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GameMaker Cookbook"</a></p>
