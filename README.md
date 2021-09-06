@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Emotional Labor and Mental Load, and How to Discuss Both With Your Partner](https://lifehacker.com/the-difference-between-emotional-labor-and-mental-load-1847618950)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Networking Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789800227/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GameMaker Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784399849/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
