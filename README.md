@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean Marble Without Damaging It](https://lifehacker.com/how-to-clean-marble-without-damaging-it-1847619351)
+- latest article: [The Difference Between 'Universal' and 'Intel' Apps (and Why It Matters for Your M1 Mac)](https://lifehacker.com/the-difference-between-universal-and-intel-apps-and-wh-1847613701)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Generative Adversarial Networks Cookbook"</a></p>
