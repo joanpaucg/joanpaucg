@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Marble Without Damaging It](https://lifehacker.com/how-to-clean-marble-without-damaging-it-1847619351)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GameMaker Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784399849/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Generative Adversarial Networks Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789139907/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
