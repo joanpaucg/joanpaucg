@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Put People on the Spot (and What It Says About You When You Do)](https://lifehacker.com/dont-put-people-on-the-spot-and-what-it-says-about-you-1847634379)
+- latest article: [7 of the Biggest Mistakes I've Made Renting Apartments (and How to Avoid Them)](https://lifehacker.com/7-of-the-biggest-mistakes-ive-made-renting-apartments-1847631319)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Web Components"</a></p>
