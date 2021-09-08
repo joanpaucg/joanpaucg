@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Use Soft Apples in Your Pies (and Other Ways to Choose the Right Apple for Cooking)](https://lifehacker.com/dont-use-soft-apples-in-your-pies-and-other-ways-to-ch-1847637980)
+- latest article: [10 Ways to Eat Cheap and Healthy When You Don't Have a Full Kitchen](https://lifehacker.com/10-ways-to-eat-cheap-and-healthy-when-you-dont-have-a-f-1847637443)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Web Components"</a></p>
