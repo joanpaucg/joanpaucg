@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
+- latest article: [7 of the Best Ways to Detangle Your Child's Wild Mane](https://lifehacker.com/7-of-the-best-ways-to-detangle-your-childs-wild-mane-1847639020)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Geospatial Analysis with R and QGIS"</a></p>
