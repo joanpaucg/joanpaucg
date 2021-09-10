@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Parents, Please Stop Doing These Things in School Group Chats](https://lifehacker.com/parents-please-stop-doing-these-things-in-school-group-1847643116)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Geospatial Analysis with R and QGIS"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788991674/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Security in DevOps"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995504/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
