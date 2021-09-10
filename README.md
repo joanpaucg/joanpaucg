@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Quickly Switch Your Safari Browsing to Private in iOS 15](https://lifehacker.com/how-to-quickly-switch-your-safari-browsing-to-private-i-1847649642)
+- latest article: [How to Stream the September 14th Apple Event (and What to Expect)](https://lifehacker.com/how-to-stream-the-september-14th-apple-event-and-what-1847652679)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Security in DevOps"</a></p>
