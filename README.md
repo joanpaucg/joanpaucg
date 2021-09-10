@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Signs That Your Child Needs a 'Mental Health Day' (and How to Give Them One)](https://lifehacker.com/signs-that-your-child-needs-a-mental-health-day-and-ho-1847644034)
+- latest article: [How to Quickly Switch Your Safari Browsing to Private in iOS 15](https://lifehacker.com/how-to-quickly-switch-your-safari-browsing-to-private-i-1847649642)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Security in DevOps"</a></p>
