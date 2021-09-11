@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Can ISPs, Websites, and Your Boss Tell If You're Using a VPN?](https://lifehacker.com/can-isps-websites-and-your-boss-tell-if-youre-using-a-1847654188)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Security in DevOps"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788995504/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Laravel 5 Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785283017/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
