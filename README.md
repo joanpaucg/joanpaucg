@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Definitely Be Using 'Smart Lists' on Your iPhone](https://lifehacker.com/you-should-definitely-be-using-smart-lists-on-your-ipho-1847657547)
+- latest article: [How to Motivate Your Young Athlete (Without Being That Parent)](https://lifehacker.com/how-to-motivate-your-young-athlete-without-being-that-1847654774)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Reverse Engineering"</a></p>
