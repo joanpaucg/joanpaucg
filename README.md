@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If a Car Was Previously Damaged in a Flood](https://lifehacker.com/how-to-tell-if-a-car-was-previously-damaged-in-a-flood-1847658350)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Python by Building Data Science Applications"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789535365/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Reverse Engineering"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788838849/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
