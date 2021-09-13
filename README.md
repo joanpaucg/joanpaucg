@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to 'Lovehack' Your Marriage, With Psychologist Eli Finkel](https://lifehacker.com/how-to-lovehack-your-marriage-with-psychologist-eli-fi-1847665530)
+- latest article: [Every Multitasking Feature in iPadOS 15 Worth Knowing About (and How to Use Them)](https://lifehacker.com/every-multitasking-feature-in-ipados-15-worth-knowing-a-1847664365)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Reverse Engineering"</a></p>
