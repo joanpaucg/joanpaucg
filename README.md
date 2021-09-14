@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Do These Things Before the Summer Ends or You'll Probably Regret It](https://lifehacker.com/do-these-things-before-the-summer-ends-or-youll-probabl-1847665563)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Reverse Engineering"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788838849/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MySQL 8 Administrator's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788395199/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
