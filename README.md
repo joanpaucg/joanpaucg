@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Update Your Apple Devices Right Now to Patch This Serious iMessage Bug](https://lifehacker.com/update-your-apple-devices-right-now-to-patch-this-serio-1847668729)
+- latest article: [How to Use an iPhone As a Mobile WiFi Hotspot](https://lifehacker.com/how-to-use-an-iphone-as-a-mobile-wifi-hotspot-1847667057)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MySQL 8 Administrator's Guide"</a></p>
