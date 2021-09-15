@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do Vaccines Also Protect Against Long COVID?](https://lifehacker.com/do-vaccines-also-protect-against-long-covid-1847675530)
+- latest article: [How to Use Google Search's New Dark Mode in Any Browser](https://lifehacker.com/how-to-use-google-searchs-new-dark-mode-in-any-browser-1847666695)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenStack for Architects - Second Edition"</a></p>
