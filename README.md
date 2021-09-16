@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Trade In or Sell Your Android Phone](https://lifehacker.com/how-to-trade-in-or-sell-your-android-phone-1847683389)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenStack for Architects - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788624510/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Cyber Intelligence"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788625562/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
