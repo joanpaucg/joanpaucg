@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 Ways to Get Cardio That Aren't Running or Cycling](https://lifehacker.com/10-ways-to-get-cardio-that-arent-running-or-cycling-1847691316)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Cyber Intelligence"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788625562/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building a Game with Unity and Blender"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785282140/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
