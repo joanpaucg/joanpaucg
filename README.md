@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Finally 'Ask Alexa' From Your iPhone Home Screen](https://lifehacker.com/you-can-finally-ask-alexa-from-your-iphone-home-screen-1847690011)
+- latest article: [How to Tell When a Game Has Been Optimized for M1 Macs](https://lifehacker.com/how-to-tell-when-a-game-has-been-optimized-for-m1-macs-1847695479)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building a Game with Unity and Blender"</a></p>
