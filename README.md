@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [COVID-19 Booster Doses Are Coming, But Not for Everybody](https://lifehacker.com/covid-19-booster-doses-are-coming-but-not-for-everybod-1847698747)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building a Game with Unity and Blender"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785282140/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
