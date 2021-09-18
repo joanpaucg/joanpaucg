@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [COVID-19 Booster Doses Are Coming, But Not for Everybody](https://lifehacker.com/covid-19-booster-doses-are-coming-but-not-for-everybod-1847698747)
+- latest article: [How to Get Your Suction Cups to Stick Again](https://lifehacker.com/use-petroleum-jelly-to-get-suction-cups-to-stay-put-1847700316)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Serverless Microservices in Python"</a></p>
