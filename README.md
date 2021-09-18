@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get Your Suction Cups to Stick Again](https://lifehacker.com/use-petroleum-jelly-to-get-suction-cups-to-stay-put-1847700316)
+- latest article: [Why You Should Keep Your Fresh Flowers Away From Your Fruit Bowl](https://lifehacker.com/why-you-should-keep-your-fresh-flowers-away-from-your-f-1847701716)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Serverless Microservices in Python"</a></p>
