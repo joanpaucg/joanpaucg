@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How the Pick the Best Curtains for Any Room](https://lifehacker.com/how-the-pick-the-best-curtains-for-any-room-1847702009)
+- latest article: [The Difference Between Secrecy and Privacy and How Each Can Impact Your Relationships](https://lifehacker.com/the-difference-between-secrecy-and-privacy-and-how-each-1847702076)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with R - Second Edition"</a></p>
