@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stream the 2021 Emmys (and What to Know About This Year's Show)](https://lifehacker.com/how-to-stream-the-2021-emmys-and-what-to-know-about-th-1847701859)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Serverless Microservices in Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789535297/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with R - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788393720/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
