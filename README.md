@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Maple Candied Bacon in Your Air Fryer](https://lifehacker.com/how-to-make-maple-candied-bacon-in-your-air-fryer-1847708488)
+- latest article: [What to Do With Mushy Bananas If You're Tired of Banana Bread](https://lifehacker.com/what-to-do-with-mushy-bananas-if-youre-tired-of-banana-1847710429)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi Programming Projects"</a></p>
