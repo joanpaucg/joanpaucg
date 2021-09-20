@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use Shaving Cream to Keep Your Bathroom Mirror Fog-Free](https://lifehacker.com/use-shaving-cream-to-keep-your-bathroom-mirror-fog-free-1847702039)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with R - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788393720/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi Programming Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789130553/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
