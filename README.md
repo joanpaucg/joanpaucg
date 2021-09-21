@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Borrow iCloud Storage for Free to Transfer Data to Your New iPhone](https://lifehacker.com/how-to-borrow-icloud-storage-for-free-to-transfer-data-1847717103)
+- latest article: [Do Instagram Hashtags Belong In the Caption or Comments?](https://lifehacker.com/do-instagram-hashtags-belong-in-the-caption-or-comments-1847718462)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Dynamics 365 Business Central Development Quick Start Guide"</a></p>
