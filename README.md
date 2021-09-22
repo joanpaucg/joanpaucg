@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use ‘Dark Reader’ to Force All Websites Into Dark Mode in iOS 15](https://lifehacker.com/use-dark-reader-to-force-all-websites-into-dark-mode-1847721424)
+- latest article: [How to Convince Your Boss That You Should Work From Home Forever](https://lifehacker.com/how-to-convince-your-boss-that-you-should-work-from-hom-1847724938)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Frank Kane's Taming Big Data with Apache Spark and Python"</a></p>
