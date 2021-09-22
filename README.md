@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Do Instagram Hashtags Belong In the Caption or Comments?](https://lifehacker.com/do-instagram-hashtags-belong-in-the-caption-or-comments-1847718462)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Dynamics 365 Business Central Development Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789347463/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Frank Kane's Taming Big Data with Apache Spark and Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787287945/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
