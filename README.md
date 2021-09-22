@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do Instagram Hashtags Belong In the Caption or Comments?](https://lifehacker.com/do-instagram-hashtags-belong-in-the-caption-or-comments-1847718462)
+- latest article: [Why the iPhone XS Is the Best Used iPhone Right Now](https://lifehacker.com/why-the-iphone-xs-is-the-best-used-iphone-right-now-1847716907)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Frank Kane's Taming Big Data with Apache Spark and Python"</a></p>
