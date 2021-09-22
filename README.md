@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why the iPhone XS Is the Best Used iPhone Right Now](https://lifehacker.com/why-the-iphone-xs-is-the-best-used-iphone-right-now-1847716907)
+- latest article: [How to Install and Enable Safari Extensions on iPhone or iPad](https://lifehacker.com/how-to-install-and-enable-safari-extensions-on-iphone-o-1847713855)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Frank Kane's Taming Big Data with Apache Spark and Python"</a></p>
