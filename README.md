@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Scaring Them Back Isn’t Funny, and Other Things Haunted House Performers Want You to Know](https://lifehacker.com/scaring-them-back-isn-t-funny-and-other-things-haunted-1847733342)
+- latest article: [Drop These Phrases From Your Vocabulary If You Want to Sound More Confident](https://lifehacker.com/drop-these-phrases-from-your-vocabulary-if-you-want-to-1847732017)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with MariaDB - Second Edition"</a></p>
