@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Convince Your Boss That You Should Work From Home Forever](https://lifehacker.com/how-to-convince-your-boss-that-you-should-work-from-hom-1847724938)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Frank Kane's Taming Big Data with Apache Spark and Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787287945/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with MariaDB - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785284120/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
