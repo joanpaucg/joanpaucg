@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Drop These Phrases From Your Vocabulary If You Want to Sound More Confident](https://lifehacker.com/drop-these-phrases-from-your-vocabulary-if-you-want-to-1847732017)
+- latest article: [This Site Can Tell You If Anyone Else Has Taken Pictures With Your Camera](https://lifehacker.com/this-site-can-tell-you-if-anyone-else-has-taken-picture-1847724703)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with MariaDB - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785284120/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Agile Software Development with JIRA"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789532135/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
