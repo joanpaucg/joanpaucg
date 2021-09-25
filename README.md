@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Smart Scale Probably Isn’t Accurate Enough to Be Useful](https://lifehacker.com/your-smart-scale-probably-isn-t-accurate-enough-to-be-u-1847742279)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Agile Software Development with JIRA"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789532135/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-on Full-Stack Web Development with GraphQL and React"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789134520/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
