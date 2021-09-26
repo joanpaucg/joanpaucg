@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean an Outdoor Rug Before Putting It Away for the Season](https://lifehacker.com/how-to-clean-an-outdoor-rug-before-putting-it-away-for-1847744161)
+- latest article: [Move These Outdoor Potted Plants Indoors If You Want Them to Survive the Winter](https://lifehacker.com/move-these-outdoor-potted-plants-indoors-if-you-want-th-1847745480)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development with WebAssembly"</a></p>
