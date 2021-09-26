@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean an Outdoor Rug Before Putting It Away for the Season](https://lifehacker.com/how-to-clean-an-outdoor-rug-before-putting-it-away-for-1847744161)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-on Full-Stack Web Development with GraphQL and React"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789134520/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development with WebAssembly"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838644659/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
