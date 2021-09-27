@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Does Salt Have an Expiration Date?](https://lifehacker.com/why-does-salt-have-an-expiration-date-1847752971)
+- latest article: [14 Hidden Apple Watch Features You Need to Know About](https://lifehacker.com/14-hidden-apple-watch-features-you-need-to-know-about-1847752680)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Proxmox - Third Edition"</a></p>
