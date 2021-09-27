@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stage the Attic When You're Trying to Sell Your House](https://lifehacker.com/how-to-stage-the-attic-when-youre-trying-to-sell-your-h-1847745488)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Game Development with WebAssembly"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838644659/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Proxmox - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788397605/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
