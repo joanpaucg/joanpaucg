@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Skrt, Cheugy, and All the Other 'Gen Z' Slang You Might Need Help Decoding](https://lifehacker.com/skrt-cheugy-and-all-the-other-gen-z-slang-you-might-n-1847742654)
+- latest article: [Why Does Salt Have an Expiration Date?](https://lifehacker.com/why-does-salt-have-an-expiration-date-1847752971)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Proxmox - Third Edition"</a></p>
