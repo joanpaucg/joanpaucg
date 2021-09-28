@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Create Custom Keyboard Shortcuts for Any App on Your Mac](https://lifehacker.com/how-to-create-custom-keyboard-shortcuts-for-any-app-on-1847758408)
+- latest article: [How to Salvage Your Frayed Charging Cables](https://lifehacker.com/how-to-salvage-your-frayed-charging-cables-1847761687)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Projects for Kids - Second Edition"</a></p>
