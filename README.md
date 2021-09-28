@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Figure Out Your Kid's Clothing Size When the Sizes Make No Sense](https://lifehacker.com/how-to-figure-out-your-kids-clothing-size-when-the-size-1847753869)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Proxmox - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788397605/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Projects for Kids - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785281525/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
