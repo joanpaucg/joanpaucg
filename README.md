@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [20 Horror Podcasts That Will Scare the Bejesus Out of You](https://lifehacker.com/20-horror-podcasts-that-will-scare-the-bejesus-out-of-y-1847754202)
+- latest article: [Your Broccoli Stems Can Make a Tasty Tart](https://lifehacker.com/your-broccoli-stems-would-make-a-tasty-tart-1847755673)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Projects for Kids - Second Edition"</a></p>
