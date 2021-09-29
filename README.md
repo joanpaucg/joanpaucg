@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: ['Every Day' vs. 'Everyday' (and Other Homonyms You’re Probably Mixing Up All the Time)](https://lifehacker.com/every-day-vs-everyday-and-other-homonyms-you-re-proba-1847763401)
+- latest article: [For the Last Time: No One Is Trying to Give Your Kid Edibles](https://lifehacker.com/for-the-last-time-no-one-is-trying-to-give-your-kid-ed-1847763377)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ROS Robotics By Example - Second Edition"</a></p>
