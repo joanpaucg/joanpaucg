@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Salvage Your Frayed Charging Cables](https://lifehacker.com/how-to-salvage-your-frayed-charging-cables-1847761687)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Projects for Kids - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785281525/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ROS Robotics By Example - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788479592/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
