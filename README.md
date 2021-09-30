@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is Your Credit Card Annual Fee Refundable?](https://lifehacker.com/is-your-credit-card-annual-fee-refundable-1847768878)
+- latest article: [Prepare Your Closets for Fall Like a Goddamned Adult](https://lifehacker.com/prepare-your-closets-for-fall-like-a-goddamned-adult-1847768530)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ROS Robotics By Example - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788479592/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Data Center Design Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789801514/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
