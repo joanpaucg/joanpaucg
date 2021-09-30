@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [If You're Pregnant and Haven't Gotten a COVID Vaccine Yet, You Really Should](https://lifehacker.com/if-youre-pregnant-and-havent-gotten-a-covid-vaccine-yet-1847775967)
+- latest article: [What's New on Paramount Plus in October 2021](https://lifehacker.com/whats-new-on-paramount-plus-in-october-2021-1847776767)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Data Center Design Cookbook - Third Edition"</a></p>
