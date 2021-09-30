@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 Netflix Settings Everyone Should Know About](https://lifehacker.com/11-netflix-settings-everyone-should-know-about-1847765500)
+- latest article: [Can AirTags Be Hacked?](https://lifehacker.com/can-airtags-be-hacked-1847774227)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Data Center Design Cookbook - Third Edition"</a></p>
