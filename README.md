@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 Effortlessly Cool Anime You Should Watch Before Netflix's Cowboy Bebop Comes Out](https://lifehacker.com/10-effortlessly-cool-anime-you-should-watch-before-netf-1847722207)
+- latest article: [The Three Types of Perfectionists (and How to Channel Your Perfectionism for Good)](https://lifehacker.com/the-three-types-of-perfectionists-and-how-to-channel-y-1847712803)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced TypeScript 3 Programming Projects"</a></p>
