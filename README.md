@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Paramount Plus in October 2021](https://lifehacker.com/whats-new-on-paramount-plus-in-october-2021-1847776767)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 6.7 Data Center Design Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789801514/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced TypeScript 3 Programming Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789133042/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
