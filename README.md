@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Do the Most ‘You’ Thing When You Travel (Instead of the Most ‘Touristy’ Thing)](https://lifehacker.com/do-the-most-you-thing-when-you-travel-instead-of-the-1847782091)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced TypeScript 3 Programming Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789133042/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Atlassian Confluence 5 Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849689526/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
