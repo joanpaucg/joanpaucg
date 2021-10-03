@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How You Should Structure (Not Schedule) Your Downtime](https://lifehacker.com/how-you-should-structure-not-schedule-your-downtime-1847784139)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Atlassian Confluence 5 Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849689526/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789804935/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
