@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Pathological and Compulsive Lying (and Why It Matters)](https://lifehacker.com/the-difference-between-pathological-and-compulsive-lyin-1847787451)
+- latest article: [How to Paint Your Old Lampshades (and Why You Should)](https://lifehacker.com/how-to-paint-your-old-lampshades-and-why-you-should-1847787457)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
