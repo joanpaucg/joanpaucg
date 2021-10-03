@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How You Should Structure (Not Schedule) Your Downtime](https://lifehacker.com/how-you-should-structure-not-schedule-your-downtime-1847784139)
+- latest article: [How to Prep Your Pool for Winter](https://lifehacker.com/how-to-prep-your-pool-for-winter-1847787454)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
