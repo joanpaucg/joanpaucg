@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Paint Your Old Lampshades (and Why You Should)](https://lifehacker.com/how-to-paint-your-old-lampshades-and-why-you-should-1847787457)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Automated Testing in Microsoft Dynamics 365 Business Central"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789804935/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Deep Learning Algorithms with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789344158/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
