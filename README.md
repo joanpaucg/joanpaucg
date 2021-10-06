@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Your Toaster the Right Way](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning for Algorithmic Trading"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789346411/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787124677/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
