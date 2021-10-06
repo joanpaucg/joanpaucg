@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Install the Latest macOS on an Unsupported Mac](https://lifehacker.com/how-to-install-the-latest-macos-on-an-unsupported-mac-1847802771)
+- latest article: [Can a Microwave Really Sanitize Your Dirty Sponges?](https://lifehacker.com/can-a-microwave-really-sanitize-your-dirty-sponges-1847806658)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
