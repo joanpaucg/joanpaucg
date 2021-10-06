@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is Functional Fitness, Anyway?](https://lifehacker.com/what-is-functional-fitness-anyway-1847812334)
+- latest article: [You Should Eat Salads for Breakfast (Wait, Don’t Leave)](https://lifehacker.com/you-should-eat-salads-for-breakfast-wait-don-t-leave-1847812444)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
