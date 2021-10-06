@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Clean Your Toaster the Right Way](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
+- latest article: [Don’t Shower During a Thunderstorm, and Other ‘Myths’ That Are Actually True](https://lifehacker.com/don-t-shower-during-a-thunderstorm-and-other-myths-t-1847804733)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
