@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Can a Microwave Really Sanitize Your Dirty Sponges?](https://lifehacker.com/can-a-microwave-really-sanitize-your-dirty-sponges-1847806658)
+- latest article: [How to Block JavaScript on Your iPhone or Android (and When You Should)](https://lifehacker.com/how-to-block-javascript-on-your-iphone-or-android-and-1847810908)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
