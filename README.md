@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Apple Can Read Your Encrypted Messages](https://lifehacker.com/apple-can-read-your-encrypted-messages-1847811684)
+- latest article: [Why You Should Fill Out the FAFSA, Even If You Don’t Think It’s for You](https://lifehacker.com/why-you-should-fill-out-the-fafsa-even-if-you-don-t-th-1847817897)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SaltStack - Second Edition"</a></p>
