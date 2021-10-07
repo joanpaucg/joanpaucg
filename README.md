@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Eat Salads for Breakfast (Wait, Don’t Leave)](https://lifehacker.com/you-should-eat-salads-for-breakfast-wait-don-t-leave-1847812444)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Lightning Application Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787124677/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SaltStack - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786467393/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
