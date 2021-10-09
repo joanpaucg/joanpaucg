@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [11 Trans Comedians to Watch If You're Tired of Dave Chappelle](https://lifehacker.com/11-trans-comedians-to-watch-if-youre-tired-of-dave-chap-1847829184)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Matplotlib 3.0 Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789135718/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Puppet 5 Beginner's Guide - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788472906/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
