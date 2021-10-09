@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 Trans Comedians to Watch If You're Tired of Dave Chappelle](https://lifehacker.com/11-trans-comedians-to-watch-if-youre-tired-of-dave-chap-1847829184)
+- latest article: [How to Use Transitional Objects as a Way to Process Grief](https://lifehacker.com/how-to-use-transitional-objects-as-a-way-to-process-gri-1847829394)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Puppet 5 Beginner's Guide - Third Edition"</a></p>
