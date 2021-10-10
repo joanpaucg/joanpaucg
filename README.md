@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Renew Your TSA PreCheck for Free](https://lifehacker.com/how-to-renew-your-tsa-precheck-for-free-1847829366)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Puppet 5 Beginner's Guide - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788472906/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SharePoint Development with the SharePoint Framework"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787121430/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
