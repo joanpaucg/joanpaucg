@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is It Imposter Syndrome, or Does Your Company Suck?](https://lifehacker.com/is-it-imposter-syndrome-or-does-your-company-suck-1847837166)
+- latest article: [What Is a Parasocial Relationship (and How to Know If You’re in One)?](https://lifehacker.com/what-is-a-parasocial-relationship-and-how-to-know-if-y-1847801339)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The JavaScript Workshop"</a></p>
