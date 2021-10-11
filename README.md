@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between LCD and OLED Screens (and Why It Matters for Your iPhone)](https://lifehacker.com/the-difference-between-lcd-and-oled-screens-and-why-it-1847838536)
+- latest article: [How to Make a Killer Haunted House in Your Garage](https://lifehacker.com/how-to-make-a-killer-haunted-house-in-your-garage-1847840935)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The JavaScript Workshop"</a></p>
