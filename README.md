@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Prepare Your Chimney for the Winter (and Why You Should)](https://lifehacker.com/how-to-prepare-your-chimney-for-the-winter-and-why-you-1847832654)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SharePoint Development with the SharePoint Framework"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787121430/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The JavaScript Workshop"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838641917/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
