@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's the Difference Between Type 1 and Type 2 Diabetes?](https://lifehacker.com/whats-the-difference-between-type-1-and-type-2-diabetes-1847841098)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The JavaScript Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838641917/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Presentation Foundation Development Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788399807/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
