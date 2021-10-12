@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's the Difference Between Type 1 and Type 2 Diabetes?](https://lifehacker.com/whats-the-difference-between-type-1-and-type-2-diabetes-1847841098)
+- latest article: [I'm Not Sure Who Flamin' Hot Mountain Dew Is For](https://lifehacker.com/im-not-sure-who-flamin-hot-mountain-dew-is-for-1847841618)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Presentation Foundation Development Cookbook"</a></p>
