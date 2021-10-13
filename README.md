@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Airbnb Isn't Worth All Those Fees, According to Reddit](https://lifehacker.com/why-airbnb-isnt-worth-all-those-fees-according-to-redd-1847849823)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Presentation Foundation Development Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788399807/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apex Design Patterns"</a></p>
+<img src="https://static.packt-cdn.com/products/9781782173656/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
