@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 Google Calendar Features You Aren't Using But Should Be](https://lifehacker.com/9-google-calendar-features-you-arent-using-but-should-b-1847848162)
+- latest article: [17 Unscary 'Horror' Movies For Halloween Wimps](https://lifehacker.com/17-unscary-horror-movies-for-halloween-wimps-1847850850)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apex Design Patterns"</a></p>
