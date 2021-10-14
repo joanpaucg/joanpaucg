@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Finally Stop Changing Twitter From Light to Dark Mode Yourself](https://lifehacker.com/you-can-finally-stop-changing-twitter-from-light-to-dar-1847864838)
+- latest article: [9 of the Best Apps to 'Gamify' Your Life (and Why You Should)](https://lifehacker.com/9-of-the-best-apps-to-gamify-your-life-and-why-you-sho-1847864443)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Google Cloud Platform Solutions"</a></p>
