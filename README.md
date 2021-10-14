@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Microwave Leftover Pasta and Rice Without Drying It Out](https://lifehacker.com/how-to-microwave-leftover-pasta-and-rice-without-drying-1847861699)
+- latest article: [Take Your Crackling or Staticky AirPods Pro Straight to Apple](https://lifehacker.com/take-your-crackling-or-staticky-airpods-pro-straight-to-1847862861)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Google Cloud Platform Solutions"</a></p>
