@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I'm Begging You to Reduce the Waste You Throw Away This Halloween](https://lifehacker.com/im-begging-you-to-reduce-the-waste-you-throw-away-this-1847855977)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apex Design Patterns"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782173656/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Google Cloud Platform Solutions"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838647438/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
