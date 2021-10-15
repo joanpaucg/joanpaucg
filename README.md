@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [9 of the Best Apps to 'Gamify' Your Life (and Why You Should)](https://lifehacker.com/9-of-the-best-apps-to-gamify-your-life-and-why-you-sho-1847864443)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Google Cloud Platform Solutions"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838647438/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Minecraft Server Modifications - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785883026/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
