@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 of the Best Apps to 'Gamify' Your Life (and Why You Should)](https://lifehacker.com/9-of-the-best-apps-to-gamify-your-life-and-why-you-sho-1847864443)
+- latest article: [13 Beloved ‘Traditions’ That Are Really Just Marketing](https://lifehacker.com/13-beloved-traditions-that-are-really-just-marketing-1847851112)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Minecraft Server Modifications - Second Edition"</a></p>
