@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell Someone You’re Only Interested in Sex Without Sounding Like a jerk](https://lifehacker.com/how-to-tell-someone-you-re-only-interested-in-sex-witho-1847849579)
+- latest article: [Can a 30-Year-Old Book Teach a 40-Year-Old How to Skate?](https://lifehacker.com/can-a-30-year-old-book-teach-a-40-year-old-how-to-skate-1847872553)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Minecraft Server Modifications - Second Edition"</a></p>
