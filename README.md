@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's Next for Booster Doses?](https://lifehacker.com/whats-next-for-booster-doses-1847873633)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Minecraft Server Modifications - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785883026/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Elasticsearch 7.0 Cookbook - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789956504/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
