@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do (and Avoid) When Your Dog Gets the Zoomies](https://lifehacker.com/what-to-do-and-avoid-when-your-dog-gets-the-zoomies-1847875090)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Elasticsearch 7.0 Cookbook - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789956504/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Application Development in Go"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138412/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
