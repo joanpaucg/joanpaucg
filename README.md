@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is Bottled Water Just Tap Water?](https://lifehacker.com/is-bottled-water-just-tap-water-1847887241)
+- latest article: [This Digital Library Contains Answers to All the Mysteries of the Universe, If You Can Find Them](https://lifehacker.com/this-digital-library-contains-answers-to-all-the-myster-1847886319)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning for Cybersecurity"</a></p>
