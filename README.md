@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop a Couch from Sagging](https://lifehacker.com/how-to-stop-a-couch-from-sagging-1847874711)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GUI Application Development in Go"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138412/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning for Cybersecurity"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992282/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
