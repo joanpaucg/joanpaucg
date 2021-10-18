@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Could Be Getting More Accurate Workout Data From Your Apple Watch](https://lifehacker.com/you-could-be-getting-more-accurate-workout-data-from-yo-1847883872)
+- latest article: [13 Books That Are as Unsettling as ‘Squid Game’](https://lifehacker.com/13-books-that-are-as-unsettling-as-squid-game-1847885327)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning for Cybersecurity"</a></p>
