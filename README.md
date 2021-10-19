@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Digital Library Contains Answers to All the Mysteries of the Universe, If You Can Find Them](https://lifehacker.com/this-digital-library-contains-answers-to-all-the-myster-1847886319)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning for Cybersecurity"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992282/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Mobile and Embedded Development with Qt 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789614817/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
