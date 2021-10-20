@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Choose the Right Weight When You Try a New Exercise](https://lifehacker.com/how-to-choose-the-right-weight-when-you-try-a-new-exerc-1847895752)
+- latest article: [How to Slow the Hell Down While You're Eating (and Why You Should)](https://lifehacker.com/how-to-slow-the-hell-down-while-youre-eating-and-why-y-1847895667)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Motion Graphics with Adobe After Effects CC"</a></p>
