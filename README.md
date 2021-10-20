@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Choose the Right Weight When You Try a New Exercise](https://lifehacker.com/how-to-choose-the-right-weight-when-you-try-a-new-exerc-1847895752)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Motion Graphics with Adobe After Effects CC"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789345155/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
