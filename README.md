@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Stir in Circles or Straight Lines?](https://lifehacker.com/should-you-stir-in-circles-or-straight-lines-1847902434)
+- latest article: [Is Google's Pixel Pass Worth Its Subscription Cost?](https://lifehacker.com/is-googles-pixel-pass-worth-its-subscription-cost-1847902222)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Motion Graphics with Adobe After Effects CC"</a></p>
