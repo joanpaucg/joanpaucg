@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Is Google's Pixel Pass Worth Its Subscription Cost?](https://lifehacker.com/is-googles-pixel-pass-worth-its-subscription-cost-1847902222)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Motion Graphics with Adobe After Effects CC"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789345155/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IBM SPSS Modeler Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788291118/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
