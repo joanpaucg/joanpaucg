@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When to Book Your Hotel Room to Actually Get the Best Rates](https://lifehacker.com/when-to-book-your-hotel-room-to-actually-get-the-best-r-1847905398)
+- latest article: [How to Get Rid of Those Annoying App Banners in Safari](https://lifehacker.com/how-to-get-rid-of-those-annoying-app-banners-in-safari-1847900915)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IBM SPSS Modeler Essentials"</a></p>
