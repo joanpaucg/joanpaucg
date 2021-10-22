@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Please Stop Using These Common Ageist Phrases](https://lifehacker.com/please-stop-using-these-common-ageist-phrases-1847911858)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IBM SPSS Modeler Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788291118/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ceph - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789610703/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
