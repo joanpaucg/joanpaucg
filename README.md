@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's New on Paramount Plus in November 2021](https://lifehacker.com/whats-new-on-paramount-plus-in-november-2021-1847918683)
+- latest article: [12 of the Best Couch Co-op Games to Play With Real Live Friends](https://lifehacker.com/12-of-the-best-couch-co-op-games-to-play-with-real-live-1847919876)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ceph - Second Edition"</a></p>
