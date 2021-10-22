@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Please Stop Using These Common Ageist Phrases](https://lifehacker.com/please-stop-using-these-common-ageist-phrases-1847911858)
+- latest article: [What Generic Items Aren't Worth the Savings?](https://lifehacker.com/what-generic-items-arent-worth-the-savings-1847912826)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ceph - Second Edition"</a></p>
