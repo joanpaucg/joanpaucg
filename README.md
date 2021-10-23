@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [12 of the Best Couch Co-op Games to Play With Real Live Friends](https://lifehacker.com/12-of-the-best-couch-co-op-games-to-play-with-real-live-1847919876)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ceph - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789610703/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing Fundamentals"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789954043/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
