@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Which Household Items to Buy (and Avoid) at the Dollar Store](https://lifehacker.com/which-household-items-to-buy-and-avoid-at-the-dollar-1847923564)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Mining Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789800265/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redis Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784392451/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
