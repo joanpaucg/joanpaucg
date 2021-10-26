@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Amazon Prime Video in November 2021](https://lifehacker.com/whats-new-on-amazon-prime-video-in-november-2021-1847932572)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redis Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784392451/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Design Patterns - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788471305/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
