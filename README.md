@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When Do Butter and Eggs Absolutely Have to Be Room Temperature?](https://lifehacker.com/when-do-butter-and-eggs-absolutely-have-to-be-room-temp-1847938409)
+- latest article: [Where to Stash Your Down Payment If You’re Waiting for the Housing Market to Crash](https://lifehacker.com/where-to-stash-your-down-payment-if-you-re-waiting-for-1847938805)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Design Patterns - Second Edition"</a></p>
