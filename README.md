@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Turn Any Vague Concept Into a Sexy Halloween Costume](https://lifehacker.com/how-to-turn-any-vague-concept-into-a-sexy-halloween-cos-1847931359)
+- latest article: [COVID Costumes Aren't Funny, and Other Dress-Up Faux Pas to Avoid This Halloween](https://lifehacker.com/covid-costumes-arent-funny-and-other-dress-up-faux-pas-1847933022)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Design Patterns - Second Edition"</a></p>
