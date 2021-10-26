@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Use Leftover Fireplace Ashes in Your Garden](https://lifehacker.com/you-should-use-leftover-fireplace-ashes-in-your-garden-1847934982)
+- latest article: [When Do Butter and Eggs Absolutely Have to Be Room Temperature?](https://lifehacker.com/when-do-butter-and-eggs-absolutely-have-to-be-room-temp-1847938409)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Design Patterns - Second Edition"</a></p>
