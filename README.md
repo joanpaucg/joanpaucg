@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [We Are This Close to Kids Getting a COVID Vaccine](https://lifehacker.com/we-are-this-close-to-kids-getting-a-covid-vaccine-1847940936)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Design Patterns - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788471305/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Statistics for Machine Learning"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788295758/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
