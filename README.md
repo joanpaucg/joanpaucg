@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot Counterfeit Money Like a Secret Service Agent](https://lifehacker.com/how-to-spot-counterfeit-money-like-a-secret-service-age-1847947969)
+- latest article: [Hashtags Don't Work, and Other TikTok Myths That Need Debunking](https://lifehacker.com/hashtags-dont-work-and-other-tiktok-myths-that-need-de-1847944414)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Application Development Blueprints - Second Edition"</a></p>
