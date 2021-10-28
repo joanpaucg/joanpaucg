@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Spot Counterfeit Money Like a Secret Service Agent](https://lifehacker.com/how-to-spot-counterfeit-money-like-a-secret-service-age-1847947969)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Statistics for Machine Learning"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788295758/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Application Development Blueprints - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788837460/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
