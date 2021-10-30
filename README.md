@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot Monarch Butterflies on Their Annual Migration](https://lifehacker.com/how-to-spot-monarch-butterflies-on-their-annual-migrati-1847959861)
+- latest article: [How to Quiet Creaky Floors in an Older House](https://lifehacker.com/how-to-quiet-creaky-floors-in-an-older-house-1847959921)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 2018 Shaders and Effects Cookbook - Third Edition"</a></p>
