@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 of the Worst Things That Can Happen to You While Eating, According to Reddit (and How to Avoid Them)](https://lifehacker.com/10-of-the-worst-things-that-can-happen-to-you-while-eat-1847964376)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Application Development Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788622301/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 2018 Shaders and Effects Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788396233/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
