@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Get Paid $1,000 To Binge-Watch Space Movies](https://lifehacker.com/get-paid-1-000-to-binge-watch-space-movies-1847967098)
+- latest article: [How to Choose the Right Storage Unit Size so You Don't Overpay](https://lifehacker.com/how-to-choose-the-right-storage-unit-size-so-you-dont-o-1847967101)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 2018 Shaders and Effects Cookbook - Third Edition"</a></p>
