@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Prune These Shrubs in the Fall](https://lifehacker.com/dont-prune-these-shrubs-in-the-fall-1847967113)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 2018 Shaders and Effects Cookbook - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788396233/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure for Architects - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789614503/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
