@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Kinds of Candy You Can Freeze (and What Kinds You Shouldn’t)](https://lifehacker.com/what-kinds-of-candy-you-can-freeze-and-what-kinds-you-1847976553)
+- latest article: [18 Features That Prove Snapchat Is for More Than Sending Disappearing Nudes](https://lifehacker.com/18-features-that-prove-snapchat-is-for-more-than-sendin-1847974069)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure for Architects - Second Edition"</a></p>
