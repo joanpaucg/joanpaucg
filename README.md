@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [18 Features That Prove Snapchat Is for More Than Sending Disappearing Nudes](https://lifehacker.com/18-features-that-prove-snapchat-is-for-more-than-sendin-1847974069)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure for Architects - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789614503/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analysis with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789955286/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
