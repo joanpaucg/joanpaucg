@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Your Impulse Spending in Check](https://lifehacker.com/how-to-keep-your-impulse-spending-in-check-1847985655)
+- latest article: [Why You Should Always Try the Demo Before Buying a Game](https://lifehacker.com/why-you-should-always-try-the-demo-before-buying-a-game-1847988653)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Bug Bounty Hunting Essentials"</a></p>
