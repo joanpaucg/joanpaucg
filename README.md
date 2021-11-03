@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [COVID Vaccines Are Finally Being Recommended for Kids Ages 5-11](https://lifehacker.com/covid-vaccines-are-finally-being-recommended-for-kids-a-1847985067)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analysis with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789955286/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Bug Bounty Hunting Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788626897/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
