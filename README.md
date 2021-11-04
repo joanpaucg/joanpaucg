@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Roasted Stalk of Brussels Sprouts Is a Thanksgiving Scene Stealer](https://lifehacker.com/this-roasted-stalk-of-brussels-sprouts-is-a-thanksgivin-1847998079)
+- latest article: [Why a 401(k) Might Not Be Enough for Retirement (and What Else You Should Do)](https://lifehacker.com/why-a-401-k-might-not-be-enough-for-retirement-and-w-1847998747)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Effective DevOps with AWS - Second Edition"</a></p>
