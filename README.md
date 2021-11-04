@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Ferment Some Cranberries in Honey Immediately](https://lifehacker.com/you-should-ferment-some-cranberries-in-honey-immediatel-1847991936)
+- latest article: [Make Your Very Good Dog Their Own Tool Bag](https://lifehacker.com/make-your-very-good-dog-their-own-tool-bag-1847948366)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Effective DevOps with AWS - Second Edition"</a></p>
