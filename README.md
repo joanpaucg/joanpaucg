@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why a 401(k) Might Not Be Enough for Retirement (and What Else You Should Do)](https://lifehacker.com/why-a-401-k-might-not-be-enough-for-retirement-and-w-1847998747)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Effective DevOps with AWS - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789539974/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Tableau 2019.2 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838553067/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
