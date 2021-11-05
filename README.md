@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between 'Stuffing' and 'Dressing'](https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886)
+- latest article: [The Out-of-Touch Adults' Guide To Kid Culture: Are Swingers Really Hooking Up on TikTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-swing-1847999879)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Tableau 2019.2 - Second Edition"</a></p>
