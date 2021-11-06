@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 Reasons You're Tired and Sore All the Time After Working Out](https://lifehacker.com/9-reasons-youre-tired-and-sore-all-the-time-after-worki-1848006094)
+- latest article: [The Advantages (and Disadvantages) of Buying a Home With a Dark Past](https://lifehacker.com/the-advantages-and-disadvantages-of-buying-a-home-wit-1847997887)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Application Penetration Testing with Burp Suite"</a></p>
