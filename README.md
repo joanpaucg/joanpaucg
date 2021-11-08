@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Use a Metal, Glass, or Cast-Iron Pie Pan?](https://lifehacker.com/should-you-use-a-metal-glass-or-cast-iron-pie-pan-1848015432)
+- latest article: [How to Stop Your Pixel 6 From Randomly Calling People](https://lifehacker.com/how-to-stop-your-pixel-6-from-randomly-calling-people-1848015447)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Software Architecture with Golang"</a></p>
