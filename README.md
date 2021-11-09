@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Have One Week Left to Claim Your $1,800 Advance Child Tax Benefit](https://lifehacker.com/you-have-one-week-left-to-claim-your-1-800-advance-chi-1848016871)
+- latest article: [What Thanksgiving Sides Are Non-Negotiable?](https://lifehacker.com/what-thanksgiving-sides-are-non-negotiable-1848020123)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Improving Your Splunk Skills"</a></p>
