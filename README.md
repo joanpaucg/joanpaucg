@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How 'Microwork' Preys on the Desperate (and Other Reasons to Avoid It)](https://lifehacker.com/how-microwork-preys-on-the-desperate-and-other-reasons-1848028846)
+- latest article: [You Can Customize 'Low Power Mode' on Your iPhone](https://lifehacker.com/you-can-customize-low-power-mode-on-your-iphone-1848030354)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Information Security Handbook"</a></p>
