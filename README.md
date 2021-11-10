@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Need 'Cycling Shoes' to Ride a Spin Bike (and How to Pick Them Out)](https://lifehacker.com/why-you-need-cycling-shoes-to-ride-a-spin-bike-and-how-1848026622)
+- latest article: [How to Keep People Out of Your Kitchen on Thanksgiving](https://lifehacker.com/how-to-keep-people-out-of-your-kitchen-on-thanksgiving-1848025488)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Improving Your Splunk Skills"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838981747/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Information Security Handbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788478830/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
