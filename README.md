@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Kick People Out After Thanksgiving Dinner (Politely)](https://lifehacker.com/how-to-kick-people-out-after-thanksgiving-dinner-polit-1848033776)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Information Security Handbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788478830/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Fundamentals"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789801736/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
