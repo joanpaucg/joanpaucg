@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Bring (and What to Leave at Home) When You're Using a 'Fully Stocked' Kitchen](https://lifehacker.com/what-to-bring-and-what-to-leave-at-home-when-youre-us-1848039336)
+- latest article: [Stop Buying Cheap Tech](https://lifehacker.com/stop-buying-cheap-tech-1848039043)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Fundamentals"</a></p>
