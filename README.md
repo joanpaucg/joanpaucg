@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: Why Is Everyone Getting Medusa Tattoos?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1848048963)
+- latest article: [What to Do When Typical Parenting Strategies Don’t Help Your Explosive, Inflexible Child](https://lifehacker.com/what-to-do-when-typical-parenting-strategies-don-t-help-1848013351)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira Software Essentials - Second Edition"</a></p>
