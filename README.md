@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Do When Typical Parenting Strategies Don’t Help Your Explosive, Inflexible Child](https://lifehacker.com/what-to-do-when-typical-parenting-strategies-don-t-help-1848013351)
+- latest article: [The Ultimate Adele/Taylor Swift Breakup Song Compilation](https://lifehacker.com/the-ultimate-adele-taylor-swift-breakup-song-compilatio-1848049514)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Jira Software Essentials - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788833516/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Cybersecurity Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789614671/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
