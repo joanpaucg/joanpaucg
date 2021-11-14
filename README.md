@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fill Holes Around the Pipes Under Your Kitchen Sink](https://lifehacker.com/how-to-fill-holes-around-the-pipes-under-your-kitchen-s-1848044256)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Cybersecurity Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789614671/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Blockchain - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839044/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
