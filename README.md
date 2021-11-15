@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Pay Better Attention, With Neuroscientist Dr. Amishi Jha](https://lifehacker.com/how-to-pay-better-attention-with-neuroscientist-dr-am-1848058714)
+- latest article: [The Meaning and Etymology of 'This Guy F***s'](https://lifehacker.com/the-meaning-and-etymology-of-this-guy-fucks-1848059211)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Regular Expressions"</a></p>
