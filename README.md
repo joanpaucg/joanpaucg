@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Please Get Rid of This Boob Light Fixture in Your Apartment](https://lifehacker.com/please-get-rid-of-this-boob-light-fixture-in-your-apart-1848052539)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Blockchain - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839044/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Regular Expressions"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783283156/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
