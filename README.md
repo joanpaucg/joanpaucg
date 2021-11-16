@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Really Need to Set Up Shortcuts on Your Mac](https://lifehacker.com/you-really-need-to-set-up-shortcuts-on-your-mac-1848064831)
+- latest article: [How Many Warmup Sets Is Enough?](https://lifehacker.com/how-many-warmup-sets-is-enough-1848069150)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow - Second Edition"</a></p>
