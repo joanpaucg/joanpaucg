@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Timpano Should Be a Thanksgiving Staple](https://lifehacker.com/timpano-should-be-a-thanksgiving-staple-1848058750)
+- latest article: [Why You Should Encrypt Your WhatsApp Backups in iCloud](https://lifehacker.com/why-you-should-encrypt-your-whatsapp-backups-in-icloud-1848064313)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow - Second Edition"</a></p>
