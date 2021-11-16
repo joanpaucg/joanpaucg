@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Buy Whoop or an Oura Ring Subscription?](https://lifehacker.com/should-you-buy-whoop-or-an-oura-ring-subscription-1848060780)
+- latest article: [What Are Heart Rate Zones, and How Can You Find Yours?](https://lifehacker.com/what-are-heart-rate-zones-and-how-can-you-find-yours-1848061616)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Regular Expressions"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783283156/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786465955/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
