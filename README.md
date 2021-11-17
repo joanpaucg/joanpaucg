@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Many Warmup Sets Is Enough?](https://lifehacker.com/how-many-warmup-sets-is-enough-1848069150)
+- latest article: [How to Avoid the Next Batch of Malware-Infected Android Apps](https://lifehacker.com/how-to-avoid-the-next-batch-of-malware-infected-android-1848068318)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Tableau 2019.1 - Second Edition"</a></p>
