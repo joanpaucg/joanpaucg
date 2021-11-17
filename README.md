@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Bake Smaller Batches of Your Favorite Holiday Desserts Without Ruining the Recipe](https://lifehacker.com/how-to-bake-smaller-batches-of-your-favorite-holiday-de-1848071699)
+- latest article: [How Learning to Make Eggs Taught Me to Cook](https://lifehacker.com/how-learning-to-make-eggs-taught-me-to-cook-1848070097)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Tableau 2019.1 - Second Edition"</a></p>
