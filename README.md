@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Many Warmup Sets Is Enough?](https://lifehacker.com/how-many-warmup-sets-is-enough-1848069150)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ServiceNow - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786465955/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Tableau 2019.1 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789533880/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
