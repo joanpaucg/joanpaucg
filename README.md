@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Was Stolen in the Robinhood Data Breach (and What You Should Do Now) [Updated]](https://lifehacker.com/what-was-stolen-in-the-robinhood-data-breach-and-what-1848024447)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Tableau 2019.1 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789533880/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nginx HTTP Server - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623551/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
