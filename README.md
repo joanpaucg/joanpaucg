@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How (and Why) to Do Two Workouts a Day](https://lifehacker.com/how-and-why-to-do-two-workouts-a-day-1848085429)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nginx HTTP Server - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623551/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Raspberry Pi - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787126138/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
