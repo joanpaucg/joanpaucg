@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is the Worst Christmas Gift You've Ever Received?](https://lifehacker.com/what-is-the-worst-christmas-gift-youve-ever-received-1848085069)
+- latest article: [You Can Finally Download Amazon Prime Video Movies and TV Shows on Desktop](https://lifehacker.com/you-can-finally-download-amazon-prime-video-movies-and-1848088507)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Raspberry Pi - Second Edition"</a></p>
