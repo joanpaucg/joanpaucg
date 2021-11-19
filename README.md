@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Finally Download Amazon Prime Video Movies and TV Shows on Desktop](https://lifehacker.com/you-can-finally-download-amazon-prime-video-movies-and-1848088507)
+- latest article: [How to Lock Your Secrets in the Notes App (and Why You Should)](https://lifehacker.com/how-to-lock-your-secrets-in-the-notes-app-and-why-you-1848087825)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Raspberry Pi - Second Edition"</a></p>
