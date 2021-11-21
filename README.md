@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Remove Scratches from Glass Windows](https://lifehacker.com/how-to-remove-scratches-from-glass-windows-1848084784)
+- latest article: [Why You Need to Clean Your Gas Fireplace (and How to Do It)](https://lifehacker.com/why-you-need-to-clean-your-gas-fireplace-and-how-to-do-1848086322)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt5 Python GUI Programming Cookbook"</a></p>
