@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Scratches from Glass Windows](https://lifehacker.com/how-to-remove-scratches-from-glass-windows-1848084784)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python 3 Object Oriented Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849511261/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt5 Python GUI Programming Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831000/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
