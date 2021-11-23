@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Choose Between HIIT and Steady Cardio Workouts](https://lifehacker.com/how-to-choose-between-hiit-and-steady-cardio-workouts-1848105482)
+- latest article: [How to Recognize the Weasley, Smarmy, and Otherwise Loaded Language That People Use Against You](https://lifehacker.com/how-to-recognize-the-weasley-smarmy-and-otherwise-loa-1848105669)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Server 2016 Administration Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789135930/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538779/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
