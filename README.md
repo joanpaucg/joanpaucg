@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Recognize the Weasley, Smarmy, and Otherwise Loaded Language That People Use Against You](https://lifehacker.com/how-to-recognize-the-weasley-smarmy-and-otherwise-loa-1848105669)
+- latest article: [The Best Thanksgiving Guests Bring Toilet Paper](https://lifehacker.com/the-best-thanksgiving-guests-bring-toilet-paper-1848105840)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with R"</a></p>
