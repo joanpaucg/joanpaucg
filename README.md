@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Still Have Great Sex When You Don't Feel Very Sexy](https://lifehacker.com/how-to-still-have-great-sex-when-you-dont-feel-very-sex-1848030478)
+- latest article: [How to Set a Formal Thanksgiving Table Like a Sophisticated Adult](https://lifehacker.com/how-to-set-a-formal-thanksgiving-table-like-a-sophistic-1848113001)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538779/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789956399/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
