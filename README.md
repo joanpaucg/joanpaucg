@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Everyone Secretly Hates 'Do-Gooders'](https://lifehacker.com/why-everyone-secretly-hates-do-gooders-1848114786)
+- latest article: [Our Favorite Home Improvements You Can Make for Less Than $100](https://lifehacker.com/our-favorite-home-improvements-you-can-make-for-less-th-1848115216)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with R"</a></p>
