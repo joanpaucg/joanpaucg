@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Please Don't Bring These Things Up at the Thanksgiving Table](https://lifehacker.com/please-dont-bring-these-things-up-at-the-thanksgiving-t-1848119290)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789956399/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Bash Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538830/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
