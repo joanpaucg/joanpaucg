@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Decide Whether to Board or Bring Your Pet on a Holiday Road Trip](https://lifehacker.com/how-to-decide-whether-to-board-or-bring-your-pet-on-a-h-1848117313)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Bash Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538830/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender for Video Production Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789804959/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
