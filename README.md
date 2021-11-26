@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot Fake Brand-Name Tools Sold Online](https://lifehacker.com/how-to-spot-fake-brand-name-tools-sold-online-1848122667)
+- latest article: [The Difference Between Hard Water and Soft Water (and Why It Matters)](https://lifehacker.com/the-difference-between-hard-water-and-soft-water-and-w-1848122651)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender for Video Production Quick Start Guide"</a></p>
