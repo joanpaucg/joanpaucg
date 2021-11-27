@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This Converter to Calculate the Height of Mt. Everest (or Anything Else) in Danny DeVitos](https://lifehacker.com/use-this-converter-to-calculate-the-height-of-mt-evere-1848124951)
+- latest article: [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blueprints Visual Scripting for Unreal Engine"</a></p>
