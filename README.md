@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
+- latest article: [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blueprints Visual Scripting for Unreal Engine"</a></p>
