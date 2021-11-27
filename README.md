@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Decorate a Room With Christmas Greenery Without a Whole Tree](https://lifehacker.com/how-to-decorate-a-room-with-christmas-greenery-without-1848122659)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender for Video Production Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789804959/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blueprints Visual Scripting for Unreal Engine"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785286018/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
