@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blueprints Visual Scripting for Unreal Engine"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785286018/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Science for Marketing Analytics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789959413/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
