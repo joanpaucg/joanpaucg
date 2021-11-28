@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
+- latest article: [Don't Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Science for Marketing Analytics"</a></p>
