@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Right Way to Install a Simple Floating Shelf](https://lifehacker.com/the-right-way-to-install-a-simple-floating-shelf-1848129875)
+- latest article: [You Should Start This Ornament Tradition With Your Kids](https://lifehacker.com/why-you-should-start-this-ornament-tradition-with-your-1848131382)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Essentials"</a></p>
