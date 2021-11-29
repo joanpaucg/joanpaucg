@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Science for Marketing Analytics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789959413/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783982363/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
