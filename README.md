@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What is 'Web3' and Why Should You Care?](https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783982363/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain with Hyperledger"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788994521/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
