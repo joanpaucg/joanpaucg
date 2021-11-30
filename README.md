@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Your Poinsettias Alive Until Christmas](https://lifehacker.com/how-to-keep-your-poinsettias-alive-until-christmas-1848133974)
+- latest article: [Why You Should Replace Your Old Christmas Lights With LED Lights](https://lifehacker.com/why-you-should-replace-your-old-christmas-lights-with-l-1848137005)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain with Hyperledger"</a></p>
