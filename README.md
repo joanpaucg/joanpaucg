@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [21 Times Celebrity Voiceover Stunt Casting Paid Off](https://lifehacker.com/21-times-celebrity-voiceover-stunt-casting-paid-off-1848122527)
+- latest article: [When You Should Donate Anonymously (and When You Shouldn't)](https://lifehacker.com/when-you-should-donate-anonymously-and-when-you-should-1848139001)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Blockchain with Hyperledger"</a></p>
