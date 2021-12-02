@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's the Best Way to Tell Your Kids the Truth About Santa?](https://lifehacker.com/whats-the-best-way-to-tell-your-kids-the-truth-about-sa-1848144818)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Cryptography with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789534443/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Warehousing with Azure Data Factory"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789137620/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
