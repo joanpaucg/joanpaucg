@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get Your Solar Panels Ready for Winter](https://lifehacker.com/how-to-get-your-solar-panels-ready-for-winter-1848155353)
+- latest article: [30 of the Best Movies of 2021 You Can Watch at Home Right Now](https://lifehacker.com/30-of-the-best-movies-of-2021-you-can-watch-at-home-rig-1848154310)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Generative Adversarial Networks with PyTorch 1.x"</a></p>
