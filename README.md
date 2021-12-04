@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What You Need to Know About the Omicron Variant](https://lifehacker.com/what-you-need-to-know-about-the-omicron-variant-1848158084)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Generative Adversarial Networks with PyTorch 1.x"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789530513/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning LEGO MINDSTORMS EV3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783985029/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
