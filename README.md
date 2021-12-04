@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Figure Out if Wood Has Been Pressure-Treated, and Why It Matters](https://lifehacker.com/how-to-figure-out-if-wood-has-been-pressure-treated-an-1848156635)
+- latest article: [Don't Ignore These Less-Obvious Signs of Verbal Abuse](https://lifehacker.com/dont-ignore-these-less-obvious-signs-of-verbal-abuse-1848156652)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning LEGO MINDSTORMS EV3"</a></p>
