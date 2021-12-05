@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Ignore These Less-Obvious Signs of Verbal Abuse](https://lifehacker.com/dont-ignore-these-less-obvious-signs-of-verbal-abuse-1848156652)
+- latest article: [Why You Should Use a Quarter to Test Tire Tread Instead of a Penny](https://lifehacker.com/why-you-should-use-a-quarter-to-test-tire-tread-instead-1848161093)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microservices with Java - Third Edition"</a></p>
