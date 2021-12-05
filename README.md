@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Ignore These Less-Obvious Signs of Verbal Abuse](https://lifehacker.com/dont-ignore-these-less-obvious-signs-of-verbal-abuse-1848156652)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning LEGO MINDSTORMS EV3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783985029/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microservices with Java - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789530728/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
