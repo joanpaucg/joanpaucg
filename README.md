@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell the Difference Between a Thanksgiving Cactus and a Christmas Cactus, and Why It Matters](https://lifehacker.com/how-to-tell-the-difference-between-a-thanksgiving-cactu-1848161107)
+- latest article: [15 Discontinued Fast-Food Items That Must Return, According to Lifehacker Readers](https://lifehacker.com/15-discontinued-fast-food-items-that-must-return-accor-1848157164)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning"</a></p>
