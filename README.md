@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [15 Discontinued Fast-Food Items That Must Return, According to Lifehacker Readers](https://lifehacker.com/15-discontinued-fast-food-items-that-must-return-accor-1848157164)
+- latest article: [How to Unlock Halo Infinite's Hidden Multiplayer Modes Before Microsoft Takes Them Down](https://lifehacker.com/how-to-unlock-halo-infinites-hidden-multiplayer-modes-b-1848165514)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning"</a></p>
