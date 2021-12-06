@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell the Difference Between a Thanksgiving Cactus and a Christmas Cactus, and Why It Matters](https://lifehacker.com/how-to-tell-the-difference-between-a-thanksgiving-cactu-1848161107)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microservices with Java - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789530728/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783555130/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
