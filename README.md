@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Stir Leftover Gravy Into Soups and Stews](https://lifehacker.com/you-should-stir-leftover-gravy-into-soups-and-stews-1848170201)
+- latest article: [How to Avoid Getting Flagged By the TSA, According to the TS-Mother-F'ing-A](https://lifehacker.com/how-to-avoid-getting-flagged-by-the-tsa-according-to-t-1848171516)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Robotics Projects"</a></p>
