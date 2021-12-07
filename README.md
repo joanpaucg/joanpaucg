@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make All Your WhatsApp Messages Disappear Automatically](https://lifehacker.com/how-to-make-all-your-whatsapp-messages-disappear-automa-1848173060)
+- latest article: [All the Delightful New Pixel Features Worth Checking Out](https://lifehacker.com/all-the-delightful-new-pixel-features-worth-checking-ou-1848173319)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Robotics Projects"</a></p>
