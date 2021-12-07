@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid Getting Flagged By the TSA, According to the TS-Mother-F'ing-A](https://lifehacker.com/how-to-avoid-getting-flagged-by-the-tsa-according-to-t-1848171516)
+- latest article: [How to Make All Your WhatsApp Messages Disappear Automatically](https://lifehacker.com/how-to-make-all-your-whatsapp-messages-disappear-automa-1848173060)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Robotics Projects"</a></p>
