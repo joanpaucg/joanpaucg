@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Be Wary When Sending Your Pixel or iPhone in for Repairs](https://lifehacker.com/why-you-should-be-wary-when-sending-your-pixel-or-iphon-1848168903)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783555130/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Robotics Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788832922/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
