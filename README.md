@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Spot a Shady Landlord (Before It’s Too Late)](https://lifehacker.com/how-to-spot-a-shady-landlord-before-it-s-too-late-1848136583)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Robotics Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788832922/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React.js Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783551620/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
