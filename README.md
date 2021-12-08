@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stop Verizon, AT&T, and T-Mobile From Collecting Your Phone Data to Sell Ads](https://lifehacker.com/how-to-stop-verizon-at-t-and-t-mobile-from-collecting-1848180422)
+- latest article: [Chores You Only Need to Do Once a Year (Thank God)](https://lifehacker.com/chores-you-only-need-to-do-once-a-year-thank-god-1848180807)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React.js Essentials"</a></p>
