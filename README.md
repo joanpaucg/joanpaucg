@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Reinstall Microsoft Teams Before You Need to Dial 911](https://lifehacker.com/reinstall-microsoft-teams-before-you-need-to-dial-911-1848186174)
+- latest article: [Why Now Is the Perfect Time to Get Your Booster](https://lifehacker.com/why-now-is-the-perfect-time-to-get-your-booster-1848186058)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-World SRE"</a></p>
