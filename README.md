@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Chores You Only Need to Do Once a Year (Thank God)](https://lifehacker.com/chores-you-only-need-to-do-once-a-year-thank-god-1848180807)
+- latest article: [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-World SRE"</a></p>
