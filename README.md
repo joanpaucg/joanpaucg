@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Chores You Only Need to Do Once a Year (Thank God)](https://lifehacker.com/chores-you-only-need-to-do-once-a-year-thank-god-1848180807)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React.js Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783551620/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-World SRE"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788628884/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
