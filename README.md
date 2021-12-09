@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Switching From iPhone to Android Suck Less (and Vice Versa)](https://lifehacker.com/make-switching-from-iphone-to-android-suck-less-and-vi-1848151166)
+- latest article: [Reinstall Microsoft Teams Before You Need to Dial 911](https://lifehacker.com/reinstall-microsoft-teams-before-you-need-to-dial-911-1848186174)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-World SRE"</a></p>
