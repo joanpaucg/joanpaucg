@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here's (Almost) All The Free Stuff You Can Get on an Airplane](https://lifehacker.com/heres-almost-all-the-free-stuff-you-can-get-on-an-air-1848187647)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Real-World SRE"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788628884/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Regression Analysis with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785286315/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
