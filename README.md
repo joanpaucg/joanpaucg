@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Rid of a Bunch of Jerk Pigeons](https://lifehacker.com/how-to-get-rid-of-a-bunch-of-asshole-pigeons-1848189704)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Regression Analysis with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785286315/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reinforcement Learning Algorithms with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789131116/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
