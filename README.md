@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Improve Your Garden Soil Quality Over the Winter](https://lifehacker.com/how-to-improve-your-garden-soil-quality-over-the-winter-1848197329)
+- latest article: [Use This Interactive Map to Find the Best Holiday Lights in Your Area](https://lifehacker.com/use-this-interactive-map-to-find-the-best-holiday-light-1848197353)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reinforcement Learning Algorithms with Python"</a></p>
