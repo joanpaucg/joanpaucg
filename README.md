@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use This Interactive Map to Find the Best Holiday Lights in Your Area](https://lifehacker.com/use-this-interactive-map-to-find-the-best-holiday-light-1848197353)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Reinforcement Learning Algorithms with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789131116/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SFML Game Development By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785287343/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
