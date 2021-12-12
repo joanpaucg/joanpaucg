@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Prune Outdoor Evergreens Without Ruining Them](https://lifehacker.com/how-to-prune-outdoor-evergreens-without-ruining-them-1848199276)
+- latest article: [How to Fix a Broken String of Christmas Lights](https://lifehacker.com/how-to-fix-a-broken-string-of-christmas-lights-1848199279)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SFML Game Development By Example"</a></p>
