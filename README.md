@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix a Broken String of Christmas Lights](https://lifehacker.com/how-to-fix-a-broken-string-of-christmas-lights-1848199279)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SFML Game Development By Example"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785287343/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Java Workshop"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838986698/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
