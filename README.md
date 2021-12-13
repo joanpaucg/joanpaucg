@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 of the Best Christmas Plants That Aren't Poinsettias](https://lifehacker.com/11-of-the-best-christmas-plants-that-arent-poinsettias-1848204518)
+- latest article: [Don't Drink These Coke, Sprite, and Minute Maid Cans That May Be Contaminated With Metal](https://lifehacker.com/dont-drink-these-coke-sprite-and-minute-maid-cans-tha-1848204539)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Java Workshop"</a></p>
