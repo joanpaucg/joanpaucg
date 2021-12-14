@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Stop Using the Phrase 'Master Bedroom'](https://lifehacker.com/why-you-should-stop-using-the-phrase-master-bedroom-1848204457)
+- latest article: [What to Do When Someone's Having a Heart Attack, so You're Not Carrie Bradshaw](https://lifehacker.com/what-to-do-when-someones-having-a-heart-attack-so-your-1848215254)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Voicebot and Chatbot Design"</a></p>
