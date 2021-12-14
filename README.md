@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [We Present to You a Ridiculous Number of Ways to Use Old Socks (Other Than That One, You Perv)](https://lifehacker.com/we-present-to-you-a-ridiculous-number-of-ways-to-use-ol-1848207919)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Java Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838986698/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Voicebot and Chatbot Design"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789139624/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
