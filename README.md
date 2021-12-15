@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do When Someone's Having a Heart Attack, so You're Not Carrie Bradshaw](https://lifehacker.com/what-to-do-when-someones-having-a-heart-attack-so-your-1848215254)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Voicebot and Chatbot Design"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789139624/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Certified Advanced Networking - Specialty Exam Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789952315/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
