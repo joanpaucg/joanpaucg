@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [14 Gifts That Will Delight the Cocktail Enthusiast in Your Life](https://lifehacker.com/14-gifts-that-will-delight-the-cocktail-enthusiast-in-y-1848218596)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Certified Advanced Networking - Specialty Exam Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789952315/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Becoming the Hacker"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627962/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
