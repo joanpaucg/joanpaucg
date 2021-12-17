@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Should You Try 'Mindful Drinking'?](https://lifehacker.com/should-you-try-mindful-drinking-1848193908)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Becoming the Hacker"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627962/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Basics Beginner's Guide Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783984909/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
