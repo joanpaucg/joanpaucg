@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Actually, Maybe You Shouldn't Rush to Buy the Latest Next-Gen Console](https://lifehacker.com/actually-maybe-you-shouldnt-rush-to-buy-the-latest-nex-1848234482)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Basics Beginner's Guide Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783984909/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Learning Quick Reference"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788837996/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
