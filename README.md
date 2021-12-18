@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Throw Out These Procter & Gamble Hair Care Products With Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/throw-out-these-procter-gamble-hair-care-products-wit-1848238126)
+- latest article: [Cover Your Christmas Tree Water, and Other Ways to Protect Your Pet Over the Holidays](https://lifehacker.com/cover-your-christmas-tree-water-and-other-ways-to-prot-1848235901)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Learning Quick Reference"</a></p>
