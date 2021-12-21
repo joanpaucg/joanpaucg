@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Distracting Yourself Is Better Than 'Positive Thinking'](https://lifehacker.com/why-distraction-is-better-than-positive-thinking-1848252199)
+- latest article: [How to Spot ‘Coordinated Inauthentic Behavior’ on Facebook, According to Snopes](https://lifehacker.com/how-to-spot-coordinated-inauthentic-behavior-on-faceb-1848253059)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IPython Interactive Computing and Visualization Cookbook - Second Edition"</a></p>
