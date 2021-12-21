@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Paramount Plus in January 2022](https://lifehacker.com/whats-new-on-paramount-plus-in-january-2022-1848247730)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Embedded Programming with C++17"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629300/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IPython Interactive Computing and Visualization Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785888632/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
