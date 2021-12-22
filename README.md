@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Spot ‘Coordinated Inauthentic Behavior’ on Facebook, According to Snopes](https://lifehacker.com/how-to-spot-coordinated-inauthentic-behavior-on-faceb-1848253059)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IPython Interactive Computing and Visualization Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785888632/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Social Engineering"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788837927/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
