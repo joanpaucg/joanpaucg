@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Actually Detach Yourself From Work Over the Holidays](https://lifehacker.com/how-to-actually-detach-yourself-from-work-over-the-holi-1848105298)
+- latest article: [How Much Light Do You Really Need While Reading?](https://lifehacker.com/how-much-light-do-you-really-need-while-reading-1848197735)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Social Engineering"</a></p>
