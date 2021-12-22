@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Much Light Do You Really Need While Reading?](https://lifehacker.com/how-much-light-do-you-really-need-while-reading-1848197735)
+- latest article: [Yes, Your Cat Is an Actual Psychopath (and How to Deal With It)](https://lifehacker.com/yes-your-cat-is-an-actual-psychopath-and-how-to-deal-1848245043)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Social Engineering"</a></p>
