@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do You Want a Double-Height Monitor?](https://lifehacker.com/do-you-want-a-double-height-monitor-1848261537)
+- latest article: [9 Useful Features for Anyone Who Takes Screenshots on Their iPhone](https://lifehacker.com/9-useful-features-for-anyone-who-takes-screenshots-on-t-1848264725)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LLVM Essentials"</a></p>
