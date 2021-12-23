@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Watch the Launch of the James Webb Space Telescope (and Why It’s Big Deal)](https://lifehacker.com/how-to-watch-the-launch-of-the-james-webb-space-telesco-1848260246)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Social Engineering"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788837927/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LLVM Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785280801/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
