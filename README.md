@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Watch the Launch of the James Webb Space Telescope (and Why It’s Big Deal)](https://lifehacker.com/how-to-watch-the-launch-of-the-james-webb-space-telesco-1848260246)
+- latest article: [Last-Minute Gift Ideas If Your Only Option Is the Drug Store](https://lifehacker.com/last-minute-gift-ideas-if-your-only-option-is-the-drug-1848090638)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LLVM Essentials"</a></p>
