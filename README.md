@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Live Subtitles on Your FaceTime Calls](https://lifehacker.com/how-to-get-live-subtitles-on-your-facetime-calls-1848265431)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LLVM Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785280801/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with R - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784393908/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
