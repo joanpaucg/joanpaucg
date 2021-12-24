@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If eBay, Amazon, and Facebook Marketplace Items Are Stolen](https://lifehacker.com/how-to-tell-if-ebay-amazon-and-facebook-marketplace-i-1848267211)
+- latest article: [How to Respond to Your Family's Annual Holiday Inquisition on Why You Don't Have Kids](https://lifehacker.com/how-to-respond-to-your-familys-annual-holiday-inquisiti-1848267012)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with R - Second Edition"</a></p>
