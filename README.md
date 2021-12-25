@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Respond to Your Family's Annual Holiday Inquisition on Why You Don't Have Kids](https://lifehacker.com/how-to-respond-to-your-familys-annual-holiday-inquisiti-1848267012)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with R - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784393908/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Drupal 8"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785885976/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
