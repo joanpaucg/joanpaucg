@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Holiday Returns Are Different This Year](https://lifehacker.com/holiday-returns-are-different-this-year-1848268977)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Drupal 8"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785885976/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ethereum"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531374/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
