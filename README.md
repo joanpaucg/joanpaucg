@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Remove Rust Stains With Stuff That's Already in Your Home](https://lifehacker.com/how-to-remove-rust-stains-with-stuff-thats-already-in-y-1848269438)
+- latest article: [How to Add More Natural Light to a Home Without Much of It](https://lifehacker.com/how-to-add-more-natural-light-to-a-home-without-much-of-1848269441)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ethereum"</a></p>
