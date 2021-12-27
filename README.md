@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Add More Natural Light to a Home Without Much of It](https://lifehacker.com/how-to-add-more-natural-light-to-a-home-without-much-of-1848269441)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Ethereum"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531374/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Mobile Forensics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785287817/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
