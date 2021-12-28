@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why It's Smart to Be 10 Years Behind in Gaming](https://lifehacker.com/why-its-smart-to-be-10-years-behind-in-gaming-1848226775)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Mobile Forensics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785287817/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering pandas - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343236/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
