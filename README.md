@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering pandas - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789343236/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Programming with Rust"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788624893/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
