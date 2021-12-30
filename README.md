@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Programming with Rust"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788624893/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Pocket CIO - The Guide to Successful IT Asset Management"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783001002/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
