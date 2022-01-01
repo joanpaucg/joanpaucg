@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix a Sagging Mattress When Replacing It Isn't an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PostgreSQL 11 Administration Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537581/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python For Offensive PenTest"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788838979/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
