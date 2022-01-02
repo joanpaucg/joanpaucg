@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python For Offensive PenTest"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788838979/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Microservices Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785881114/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
