@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Test (and Increase) Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Microservices Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785881114/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Material-UI Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789615227/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
