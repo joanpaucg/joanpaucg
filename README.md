@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
+- latest article: [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Native Cookbook - Second Edition"</a></p>
