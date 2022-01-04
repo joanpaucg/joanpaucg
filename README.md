@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Material-UI Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789615227/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Native Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788991926/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
