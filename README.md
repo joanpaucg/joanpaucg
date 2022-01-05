@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
+- latest article: [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - User Experience Mapping"</a></p>
