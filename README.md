@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
+- latest article: [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - User Experience Mapping"</a></p>
