@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fold Towels Like You're at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - React Native Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788991926/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - User Experience Mapping"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787123502/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
