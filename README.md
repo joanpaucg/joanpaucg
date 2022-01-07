@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Finder Won't Let You Eject Disk Images (and How to Fix It)](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
+- latest article: [What Is 'Flurona,' and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WordPress Plugin Development Cookbook - Second Edition"</a></p>
