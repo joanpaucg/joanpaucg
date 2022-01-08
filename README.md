@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Are the 'Optimal' Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
+- latest article: [How Cold is 'Cold' for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android 9 Development Cookbook - Third Edition"</a></p>
