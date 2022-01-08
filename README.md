@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WordPress Plugin Development Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788291187/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android 9 Development Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788991216/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
