@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Take Winter Photos That Aren't White and Blurry (Unless That's the Point)](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
+- latest article: [These Are the 'Optimal' Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android 9 Development Cookbook - Third Edition"</a></p>
