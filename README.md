@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
+- latest article: [All the Things You Didn't Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Drones with ESP8266 and Arduino"</a></p>
