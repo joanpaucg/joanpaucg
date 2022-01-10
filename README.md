@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786464392/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Drones with ESP8266 and Arduino"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788477512/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
