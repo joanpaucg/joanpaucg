@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Things You Didn't Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
+- latest article: [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? (And How to Stop Them)](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# and .NET Core Test Driven Development"</a></p>
