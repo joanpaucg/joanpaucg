@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All the Things You Didn't Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Drones with ESP8266 and Arduino"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788477512/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# and .NET Core Test Driven Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788292481/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
