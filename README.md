@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# and .NET Core Test Driven Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788292481/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CentOS 7 Linux Server Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785887284/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
