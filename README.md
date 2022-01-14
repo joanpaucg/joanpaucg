@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Permanently Delete Your Reddit Account (or Your Old, Embarrassing Posts)](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
+- latest article: [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Augmented Reality Projects"</a></p>
