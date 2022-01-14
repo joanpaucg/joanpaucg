@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Continuous Delivery with Docker and Jenkins"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125230/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Augmented Reality Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789807400/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
