@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Dashboard Development with Shiny"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789611557/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Software Engineering with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788622011/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
