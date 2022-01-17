@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use This Tool to Find Out Where You Can Work Remotely on Your Team's Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Software Engineering with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788622011/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn pfSense 2.4"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343113/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
