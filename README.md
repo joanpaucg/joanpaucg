@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Beat Social Media Algorithms (and Why You Should Try)](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn pfSense 2.4"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789343113/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning OpenStack Networking - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788392495/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
