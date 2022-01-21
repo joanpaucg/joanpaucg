@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What Does 'Pushing P' Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848395423)
+- latest article: [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Linux Security and Hardening"</a></p>
