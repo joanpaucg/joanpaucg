@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Microsoft Dynamics 365 Customer Engagement - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788990226/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Node.js - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785888960/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
