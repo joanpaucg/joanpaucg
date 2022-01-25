@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Pornhub's 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Node.js - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785888960/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle 3 Administration - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783289714/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
