@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
+- latest article: [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Shellcode"</a></p>
