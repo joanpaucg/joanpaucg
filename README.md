@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Saying You 'Helped' on Your Resume (and Use These Verbs Instead)](https://lifehacker.com/stop-saying-you-helped-on-your-resume-and-use-these-ve-1848425106)
+- latest article: [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Shellcode"</a></p>
