@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle 3 Administration - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783289714/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Shellcode"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788473736/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
