@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Penetration Testing with Shellcode"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788473736/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Mobile Forensics - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839198/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
