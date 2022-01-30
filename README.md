@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Need to Change How You Think About Being 'Lazy'](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PyTorch 1.x Reinforcement Learning Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838551964/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi 3 Cookbook for Python Programmers - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788629874/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
