@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi 3 Cookbook for Python Programmers - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629874/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Platform Developer I Certification Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789802078/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
