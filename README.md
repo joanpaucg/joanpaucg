@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Are Your Partner's Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Platform Developer I Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789802078/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7.x Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531091/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
