@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
+- latest article: [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow Reinforcement Learning Quick Start Guide"</a></p>
