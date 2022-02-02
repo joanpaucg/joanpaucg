@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [17 of the Best Time Loop Movies and TV Shows That Aren't 'Groundhog Day'](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
+- latest article: [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow Reinforcement Learning Quick Start Guide"</a></p>
