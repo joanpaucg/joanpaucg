@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Turn Old Soap Slivers Into 'New' Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk 7.x Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531091/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow Reinforcement Learning Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789533583/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
