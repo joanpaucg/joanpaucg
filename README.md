@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Stop Giving Valentine’s Day Flowers (and What to Give Instead)](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow Reinforcement Learning Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789533583/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Wireframing Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849698542/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
