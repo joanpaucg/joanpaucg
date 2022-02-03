@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
+- latest article: [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Wireframing Essentials"</a></p>
