@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Wireframing Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849698542/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Beginning Data Science with Python and Jupyter"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789532029/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
