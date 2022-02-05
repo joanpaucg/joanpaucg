@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Beginning Data Science with Python and Jupyter"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789532029/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Digital Forensics and Incident Response"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787288683/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
