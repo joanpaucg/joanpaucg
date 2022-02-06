@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Split Ends at Home When You Can't Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Digital Forensics and Incident Response"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787288683/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Chatbots and Conversational UI Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788294669/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
