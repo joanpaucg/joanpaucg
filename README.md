@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Measure Ice Accumulation (Because It's Different From Snow)](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
+- latest article: [How to Add Perlite to Your Soil (and When You Should)](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Chatbots and Conversational UI Development"</a></p>
