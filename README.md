@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
+- latest article: [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C# and .NET Core"</a></p>
