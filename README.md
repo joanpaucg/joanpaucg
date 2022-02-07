@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Add Perlite to Your Soil (and When You Should)](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Chatbots and Conversational UI Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788294669/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C# and .NET Core"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789133646/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
