@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
+- latest article: [What Are 'Smishing Attacks'? (And How to Avoid Them)](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On SAS for Data Analysis"</a></p>
