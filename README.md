@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here’s How Much Sex (and What Kind) Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C# and .NET Core"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789133646/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On SAS for Data Analysis"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839822/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
