@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stencil Your Ceiling (and Why You Should)](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
+- latest article: [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Cloud Design Patterns for AWS"</a></p>
