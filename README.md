@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Lock in Amazon Prime at the Old Rate (at Least for a Year or Two)](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Cloud Design Patterns for AWS"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782177340/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux CTF Blueprints"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783985982/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
