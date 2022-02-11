@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
+- latest article: [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KVM Virtualization Cookbook"</a></p>
