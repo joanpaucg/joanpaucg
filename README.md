@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Live With Regret (and Learn From It)](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Ansible"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788998758/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn OpenGL"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789340365/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
