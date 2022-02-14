@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Don't Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn OpenGL"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789340365/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Jupyter 5 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789137408/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
