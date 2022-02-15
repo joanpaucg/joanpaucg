@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Prepare for a Volcanic Eruption (and Possibly Survive One, Too)](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
+- latest article: [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Pixelmator"</a></p>
