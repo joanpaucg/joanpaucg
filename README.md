@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Force Microsoft Office to Save Files Directly to Your Computer (Instead of OneDrive)](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
+- latest article: [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Pixelmator"</a></p>
