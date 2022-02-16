@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Pixelmator"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849694681/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Qlik Sense: The Official Guide - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785887161/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
