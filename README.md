@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [11 ‘Successful’ People Who Were Actually Huge Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
+- latest article: [The Difference Between a Lager and an Ale (Because You're Probably Getting It Wrong)](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Qlik Sense: The Official Guide - Second Edition"</a></p>
