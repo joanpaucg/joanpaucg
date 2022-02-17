@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Windows 11 PC Can Finally Run (Some) Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Qlik Sense: The Official Guide - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785887161/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for OpenCV 4 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536300/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
