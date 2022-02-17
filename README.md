@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Cook on an Electric Stove When You're Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
+- latest article: [Does Having Too Many Tabs Open Really Slow Down Your Browser?](https://lifehacker.com/does-having-too-many-tabs-open-really-slow-down-your-br-1848554140)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for OpenCV 4 - Second Edition"</a></p>
