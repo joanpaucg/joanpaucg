@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
+- latest article: [Join the Cool Kids' Club With a Dark 'n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning in Java - Second Edition"</a></p>
