@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for OpenCV 4 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789536300/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning in Java - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788474399/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
