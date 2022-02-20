@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Magento 2 Developer's Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785886584/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Azure Serverless Computing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789951226/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
