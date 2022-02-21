@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Azure Serverless Computing"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789951226/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering PHP 7"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785882814/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
