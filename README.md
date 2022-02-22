@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Contact the Manufacturer Directly (and How to Do It)](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
+- latest article: [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering RStudio - Develop, Communicate, and Collaborate with R"</a></p>
