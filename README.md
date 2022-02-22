@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Contact the Manufacturer Directly (and How to Do It)](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering PHP 7"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785882814/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering RStudio - Develop, Communicate, and Collaborate with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783982547/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
