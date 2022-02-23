@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering RStudio - Develop, Communicate, and Collaborate with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783982547/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MySQL 8 Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788395809/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
