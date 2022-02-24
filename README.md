@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You're Not Washing Your Throw Blankets Enough (and It's Gross)](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
+- latest article: [How to Transform Your Shower Into a Spa-Like Oasis (on the Cheap)](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Network Automation - Second Edition"</a></p>
