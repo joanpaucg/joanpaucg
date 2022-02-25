@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Network Automation - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789955651/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - RESTful Java Web Services - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788294041/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
