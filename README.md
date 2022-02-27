@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Security with Go"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627917/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Modern C++ Challenge"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788993869/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
