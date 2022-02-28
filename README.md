@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Decode Building Codes (and Why You Should Care)](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Modern C++ Challenge"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788993869/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Programming by Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627481/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
