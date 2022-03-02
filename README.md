@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Data Science with Python and Jupyter"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789958171/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Incredible Machines"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785282010/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
