@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building RESTful Web Services with Spring 5 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788475891/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Data Structures and Algorithm Design Principles"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838828844/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
