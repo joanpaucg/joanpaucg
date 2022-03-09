@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
+- latest article: [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Programming Blueprints - Second Edition"</a></p>
