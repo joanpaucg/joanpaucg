@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Programming using Qt 5 Beginner's Guide - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788399999/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Programming Blueprints - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468949/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
