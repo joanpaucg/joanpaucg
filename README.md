@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
+- latest article: [How to Use Zillow's New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Programming Blueprints - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468949/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence on Amazon Web Services"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789534146/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
