@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid-Culture: What Exactly Is 'Elden Ring'?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
+- latest article: [Why Hotels Are Quitting Room Service (and You Should Too)](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with Java"</a></p>
