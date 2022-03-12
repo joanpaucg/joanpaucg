@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
+- latest article: [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Serverless Applications with Go"</a></p>
