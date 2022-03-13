@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use These Household Products and Items to Clean and Polish Brass (Because They're Not the Same Thing)](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
+- latest article: [The Easiest Ways to (Properly) Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Microsoft Dynamics 365 Business Central On-Premise - Fourth Edition"</a></p>
