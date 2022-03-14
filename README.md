@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [16 Super Grimdark Genre Movies That Aren't 'The Batman'](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
+- latest article: [Why Resetting Your iPhone Could Dial 911 (and How to Avoid It)](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia 1.0 Programming Complete Reference Guide"</a></p>
