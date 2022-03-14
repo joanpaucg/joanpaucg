@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [7 Frustrating New Features in Windows 11 (and How to Fix Them)](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
+- latest article: [16 Super Grimdark Genre Movies That Aren't 'The Batman'](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia 1.0 Programming Complete Reference Guide"</a></p>
