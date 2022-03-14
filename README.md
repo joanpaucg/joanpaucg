@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Easiest Ways to (Properly) Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Microsoft Dynamics 365 Business Central On-Premise - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789133936/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia 1.0 Programming Complete Reference Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838822248/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
