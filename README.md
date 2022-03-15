@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
+- latest article: [17 of the Most Underrated Squats You Should Try](https://lifehacker.com/17-of-the-most-underrated-squats-you-should-try-1848651673)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy - Interactive Applications and Games in Python - Second Edition"</a></p>
