@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia 1.0 Programming Complete Reference Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838822248/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy - Interactive Applications and Games in Python - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785286926/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
