@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy - Interactive Applications and Games in Python - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785286926/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Penetration Testing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838640163/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
