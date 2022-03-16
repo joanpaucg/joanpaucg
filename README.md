@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Is Costco Really Better Than Sam's Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
+- latest article: [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Penetration Testing"</a></p>
