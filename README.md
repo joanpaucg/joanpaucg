@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Adding Banana Peels to Your Plants (and Do This Instead)](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
+- latest article: [What's New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Continuous Integration with Jenkins - Second Edition"</a></p>
