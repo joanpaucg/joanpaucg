@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Care for (and Reduce the Appearance of) a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Selenium"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838983048/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Continuous Integration with Jenkins - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788479356/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
