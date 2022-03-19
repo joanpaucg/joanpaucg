@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Continuous Integration with Jenkins - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788479356/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Pentaho Data Integration 8 CE - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788292436/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
