@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Rust Off Your Tools (and Prevent It From Coming Back)](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Pentaho Data Integration 8 CE - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788292436/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ArcGIS Enterprise Administration"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788297493/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
