@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Quickly Hide What You've Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
+- latest article: [5 of the Best Budget Smartphones of 2022](https://lifehacker.com/5-of-the-best-budget-smartphones-of-2022-1848680437)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Bootstrap 4 - Second Edition"</a></p>
