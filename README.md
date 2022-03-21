@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ArcGIS Enterprise Administration"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788297493/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Bootstrap 4 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834902/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
