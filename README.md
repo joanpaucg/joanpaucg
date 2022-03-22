@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix 'Elden Ring' When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Bootstrap 4 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788834902/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Analysis with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788293334/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
