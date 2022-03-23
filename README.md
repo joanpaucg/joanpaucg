@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Geospatial Analysis with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788293334/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering JavaFX 10"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788293822/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
