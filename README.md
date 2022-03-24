@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [30 Movies Nominated for Oscars in 2022 (and Where to Stream Them)](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering JavaFX 10"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788293822/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Jenkins"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784390891/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
