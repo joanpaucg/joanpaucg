@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 Enduring Myths About American History (and What We Can Learn From Them)](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
+- latest article: [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Jenkins"</a></p>
