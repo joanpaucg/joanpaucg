@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Jenkins"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784390891/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SQL Server 2017"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838983208/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
