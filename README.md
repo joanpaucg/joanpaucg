@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SQL Server 2017"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838983208/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Unity Scripting"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784390655/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
