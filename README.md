@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
+- latest article: [What to Do (and Not Do) When You're Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Exchange Server 2016 PowerShell Cookbook - Fourth Edition"</a></p>
