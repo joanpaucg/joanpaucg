@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering VMware Horizon 7.8 - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789802375/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Exchange Server 2016 PowerShell Cookbook - Fourth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787126930/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
