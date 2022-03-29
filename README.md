@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
+- latest article: [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Multimedia Programming Using Max/MSP and TouchDesigner"</a></p>
