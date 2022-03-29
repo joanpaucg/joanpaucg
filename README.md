@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Exchange Server 2016 PowerShell Cookbook - Fourth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787126930/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Multimedia Programming Using Max/MSP and TouchDesigner"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849699716/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
