@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Multimedia Programming Using Max/MSP and TouchDesigner"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849699716/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PowerShell for SQL Server Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784391492/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
