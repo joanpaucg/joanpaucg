@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Know About Aphasia (Besides That It Affects Your Speech)](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PowerShell for SQL Server Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784391492/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python: Advanced Guide to Artificial Intelligence"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789957211/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
