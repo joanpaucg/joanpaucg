@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Know About Aphasia (Besides That It Affects Your Speech)](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
+- latest article: [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python: Advanced Guide to Artificial Intelligence"</a></p>
