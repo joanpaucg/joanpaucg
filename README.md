@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
+- latest article: [Don't Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Super Cluster"</a></p>
