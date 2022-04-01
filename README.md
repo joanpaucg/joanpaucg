@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python: Advanced Guide to Artificial Intelligence"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789957211/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Super Cluster"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783286195/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
