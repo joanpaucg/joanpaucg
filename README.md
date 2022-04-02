@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Super Cluster"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783286195/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Responsive Web Design with HTML5 and CSS3 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784398934/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
