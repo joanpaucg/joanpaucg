@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Smartest Ways to Watch Your Car's Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Responsive Web Design with HTML5 and CSS3 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784398934/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Kubernetes Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838647346/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
