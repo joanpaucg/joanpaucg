@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Edibles Taste Less (or More) Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
+- latest article: [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The SQL Workshop"</a></p>
