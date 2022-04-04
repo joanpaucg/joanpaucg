@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Kubernetes Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838647346/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The SQL Workshop"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838642358/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
