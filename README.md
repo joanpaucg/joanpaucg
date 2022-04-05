@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The SQL Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838642358/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Xamarin.Forms Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789537505/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
