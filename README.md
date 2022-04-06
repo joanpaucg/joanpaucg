@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
+- latest article: [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent (and Why it Matters)](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - 3D Printing with SketchUp"</a></p>
