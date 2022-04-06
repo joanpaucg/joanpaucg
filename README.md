@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Relive the '90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Xamarin.Forms Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537505/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - 3D Printing with SketchUp"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783284573/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
