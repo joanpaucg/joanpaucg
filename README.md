@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - 3D Printing with SketchUp"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783284573/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced JavaScript"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789800104/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
