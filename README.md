@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Use SMS Automatically When RCS or iMessage Don't Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
+- latest article: [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - arc42 by Example"</a></p>
