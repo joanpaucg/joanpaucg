@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
+- latest article: [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - arc42 by Example"</a></p>
