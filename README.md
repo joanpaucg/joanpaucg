@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced JavaScript"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789800104/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - arc42 by Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839214356/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
