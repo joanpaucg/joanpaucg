@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
+- latest article: [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Angular Applications with Redux, RxJS, and NgRx"</a></p>
