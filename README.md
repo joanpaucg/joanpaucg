@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - arc42 by Example"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839214356/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Angular Applications with Redux, RxJS, and NgRx"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787122406/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
