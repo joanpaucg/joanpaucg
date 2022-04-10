@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Architecting Angular Applications with Redux, RxJS, and NgRx"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787122406/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure PowerShell Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789614954/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
