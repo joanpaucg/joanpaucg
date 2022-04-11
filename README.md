@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure PowerShell Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789614954/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Resource Manager Templates Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789803235/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
