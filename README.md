@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
+- latest article: [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Resource Manager Templates Quick Start Guide"</a></p>
