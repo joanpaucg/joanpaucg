@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
+- latest article: [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Resource Manager Templates Quick Start Guide"</a></p>
