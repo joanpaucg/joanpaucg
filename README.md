@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is the New Social Media App ‘BeReal’ (and Do You Really Want to Be Real)?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
+- latest article: [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with R"</a></p>
