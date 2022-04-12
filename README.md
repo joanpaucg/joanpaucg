@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure Resource Manager Templates Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789803235/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786466457/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
