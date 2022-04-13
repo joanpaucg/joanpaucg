@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
+- latest article: [Why Your Dog Eats Poop (and How to Get Them to Stop)](https://lifehacker.com/why-your-dog-eats-shit-and-how-to-get-them-to-stop-1848788585)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender Quick Start Guide"</a></p>
