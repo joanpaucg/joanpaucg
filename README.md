@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786466457/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789619478/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
