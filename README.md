@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Boost.Asio C++ Network Programming Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783986545/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Microservices with Go"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468666/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
