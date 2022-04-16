@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [14 Video Games to Play When You're Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
+- latest article: [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Homes with Raspberry Pi Zero"</a></p>
