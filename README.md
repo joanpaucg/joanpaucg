@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get a (Temporary) New York Public Library Card, Even If You Don't Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
+- latest article: [Two Half Baths Don't Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Homes with Raspberry Pi Zero"</a></p>
