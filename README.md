@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [14 Video Games to Play When You're Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Microservices with Go"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468666/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Homes with Raspberry Pi Zero"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786466952/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
