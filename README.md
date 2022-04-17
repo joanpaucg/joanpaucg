@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Two Half Baths Don't Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart Homes with Raspberry Pi Zero"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786466952/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cybersecurity - Attack and Defense Strategies"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788475297/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
