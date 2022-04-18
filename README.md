@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Often You Need to Wash Your Dog's Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cybersecurity - Attack and Defense Strategies"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788475297/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi High Performance"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788625456/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
