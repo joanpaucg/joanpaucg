@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Often You Need to Wash Your Dog's Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
+- latest article: [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi High Performance"</a></p>
