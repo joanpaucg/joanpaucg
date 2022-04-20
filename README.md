@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [10 Flowers That Deer Won't Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Electron Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838552206/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Everyday Data Structures"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787121041/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
