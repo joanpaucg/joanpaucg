@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 Flowers That Deer Won't Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
+- latest article: [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Everyday Data Structures"</a></p>
