@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Insure Any of Your Body Parts?](https://lifehacker.com/should-you-insure-any-of-your-body-parts-1848820759)
+- latest article: [The Difference Between a Coach, Mentor, and Therapist (and When You Need Them)](https://lifehacker.com/the-difference-between-a-coach-mentor-and-therapist-1848817429)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - FreeCAD"</a></p>
