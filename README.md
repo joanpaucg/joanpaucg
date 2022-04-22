@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Graphics Card Prices Are Dropping (and How Much They Cost Now)](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
+- latest article: [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Cloud-Native Applications with Java and Quarkus"</a></p>
