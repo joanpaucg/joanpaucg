@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - FreeCAD"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849518864/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Cloud-Native Applications with Java and Quarkus"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838821470/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
