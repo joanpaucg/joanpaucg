@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Cloud-Native Applications with Java and Quarkus"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838821470/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Continuous Integration and Delivery"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789130485/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
