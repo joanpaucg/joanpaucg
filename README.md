@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Continuous Integration and Delivery"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789130485/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with React Native"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788994460/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
