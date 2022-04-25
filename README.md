@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with React Native"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788994460/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Parallel Programming with C# 8 and .NET Core 3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789132410/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
