@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
+- latest article: [The Difference Between Composite and Wood Decking (and How to Choose)](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Parallel Programming with C# 8 and .NET Core 3"</a></p>
