@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is 'Period Flu' and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Parallel Programming with C# 8 and .NET Core 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789132410/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Test Management with Jira"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789954524/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
