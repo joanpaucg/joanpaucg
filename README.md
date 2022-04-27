@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
+- latest article: [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Transfer Learning with Python"</a></p>
