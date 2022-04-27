@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Test Management with Jira"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789954524/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Transfer Learning with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831307/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
