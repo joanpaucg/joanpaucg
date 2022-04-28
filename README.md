@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
+- latest article: [Why Safe Drug Disposal Matters (and How to Do It)](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with Arduino Cookbook"</a></p>
