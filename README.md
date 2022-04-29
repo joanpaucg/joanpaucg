@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Safe Drug Disposal Matters (and How to Do It)](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with Arduino Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785286582/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lean Mobile App Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786467041/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
