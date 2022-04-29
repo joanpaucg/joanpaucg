@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Safe Drug Disposal Matters (and How to Do It)](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
+- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What Does 'This is Miyamoto' Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lean Mobile App Development"</a></p>
