@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lean Mobile App Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786467041/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Odoo"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536898/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
