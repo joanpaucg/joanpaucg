@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Odoo"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789536898/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn to Create WordPress Themes by Building 5 Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787286641/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
