@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PostgreSQL 11 - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789535464/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Redux"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786462398/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
