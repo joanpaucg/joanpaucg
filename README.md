@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [FFS, Sunscreen Isn't Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
+- latest article: [Don't Make These Common Mistakes When You're in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Modern Web Penetration Testing"</a></p>
