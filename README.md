@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Redux"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786462398/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Modern Web Penetration Testing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785284588/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
