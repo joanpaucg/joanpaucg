@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Make These Common Mistakes When You're in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
+- latest article: [Here Are the Signs You Might Have Adult Dyslexia (and What to Do About It)](https://lifehacker.com/here-are-the-signs-you-might-have-adult-dyslexia-and-w-1848868925)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ROS for Robotics Programming - Second Edition"</a></p>
