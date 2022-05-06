@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering ROS for Robotics Programming - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788478953/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Software Testing with JUnit 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787285736/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
