@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
+- latest article: [You Need to Move Your Bethesda Launcher Games and Save Data to Steam](https://lifehacker.com/you-need-to-move-your-bethesda-launcher-games-and-save-1848887077)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Software Testing with JUnit 5"</a></p>
