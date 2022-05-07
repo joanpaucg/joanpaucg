@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Software Testing with JUnit 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787285736/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering UI Development with Unity"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787125520/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
