@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering UI Development with Unity"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125520/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Migrating Applications to the Cloud with Azure"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839217470/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
