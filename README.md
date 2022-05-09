@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Migrating Applications to the Cloud with Azure"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839217470/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing and Computational Linguistics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788838535/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
