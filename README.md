@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
+- latest article: [Does Sex Position Matter When You're Trying to Get Pregnant?](https://lifehacker.com/does-sex-position-matter-when-youre-trying-to-get-pregn-1848839836)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing and Computational Linguistics"</a></p>
