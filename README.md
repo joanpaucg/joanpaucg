@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Make and Freeze a Whole Bunch of Caramelized Onions](https://lifehacker.com/you-should-make-and-freeze-a-whole-bunch-of-caramelized-1848901284)
+- latest article: [There's No Such Thing As a 'Clean' Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing with TensorFlow"</a></p>
