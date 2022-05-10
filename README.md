@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing and Computational Linguistics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788838535/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Natural Language Processing with TensorFlow"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788478311/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
