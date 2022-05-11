@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If You Qualify for Discounted Internet From the Government](https://lifehacker.com/how-to-tell-if-you-qualify-for-discounted-internet-from-1848911370)
+- latest article: [The Best French Toast Sticks Are Made With Stale Hot Dog Buns](https://lifehacker.com/the-best-french-toast-sticks-are-made-with-stale-hot-do-1848912873)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nginx HTTP Server - Third Edition"</a></p>
