@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Navigate Air Travel When You're Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
+- latest article: [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Programming for Arduino"</a></p>
