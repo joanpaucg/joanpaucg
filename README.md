@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Navigate Air Travel When You're Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nginx HTTP Server - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785280337/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Programming for Arduino"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783285938/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
