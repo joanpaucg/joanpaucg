@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Use Your Android Phone's Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
+- latest article: [12 Myths About Sunscreen You Need to Stop Believing](https://lifehacker.com/12-myths-about-sunscreen-you-need-to-stop-believing-1848916363)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Reinforcement Learning"</a></p>
