@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Use Your Android Phone's Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Programming for Arduino"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783285938/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Reinforcement Learning"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838649777/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
