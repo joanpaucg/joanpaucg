@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
+- latest article: [Get 'Girl Drink Drunk' With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Reinforcement Learning"</a></p>
