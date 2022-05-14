@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Hula Hooping for Fitness Is a Thing (and Why You Should Try It)](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Reinforcement Learning"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838649777/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Web Scraping Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787285217/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
