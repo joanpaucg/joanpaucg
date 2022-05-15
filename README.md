@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do (and What Not to Do) With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Web Scraping Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787285217/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SketchBook Pro Digital Painting Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849698207/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
