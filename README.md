@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow Machine Learning Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789132212/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Art of CRM"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789538922/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
