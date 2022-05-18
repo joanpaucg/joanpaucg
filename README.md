@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
+- latest article: [Why We 'Choke' Under Pressure (and How to Avoid It)](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows 10 for Enterprise Administrators"</a></p>
