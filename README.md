@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Art of CRM"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789538922/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows 10 for Enterprise Administrators"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786462824/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
