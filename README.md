@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
+- latest article: [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Server 2016 Security, Certificates, and Remote Access Cookbook"</a></p>
