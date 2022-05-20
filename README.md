@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
+- latest article: [11 of the Worst Pieces of "Practical" Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Server 2016 Security, Certificates, and Remote Access Cookbook"</a></p>
