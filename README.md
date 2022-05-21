@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Server 2016 Security, Certificates, and Remote Access Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789137675/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Kafka Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788997829/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
