@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
+- latest article: [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Kafka Quick Start Guide"</a></p>
