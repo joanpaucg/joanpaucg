@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apache Kafka Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788997829/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Automation Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788394925/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
