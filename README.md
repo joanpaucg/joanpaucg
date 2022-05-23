@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Automation Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788394925/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Certified Solutions Architect - Associate Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789130669/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
