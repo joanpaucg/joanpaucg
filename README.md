@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Chicken Thighs Are 'Healthy,' Too](https://lifehacker.com/chicken-thighs-are-healthy-too-1848954478)
+- latest article: [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Certified Solutions Architect - Associate Guide"</a></p>
