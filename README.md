@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
+- latest article: [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - AWS Certified Solutions Architect - Associate Guide"</a></p>
