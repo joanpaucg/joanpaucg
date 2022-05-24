@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
+- latest article: [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with Hadoop 3"</a></p>
