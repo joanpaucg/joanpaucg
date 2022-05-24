@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Banish Squirrels From Your Garden Without Chemicals, Poison, or Traps](https://lifehacker.com/banish-squirrels-from-your-garden-without-chemicals-po-1848967074)
+- latest article: [How to Know If You’re in a Codependent Relationship (and What to Do About It)](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with Hadoop 3"</a></p>
