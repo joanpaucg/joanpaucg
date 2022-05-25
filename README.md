@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with Hadoop 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788628846/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blackboard Essentials for Teachers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849692922/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
