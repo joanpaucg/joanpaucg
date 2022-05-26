@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
+- latest article: [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Network+ Certification Guide"</a></p>
