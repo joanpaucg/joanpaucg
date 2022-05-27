@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your 'Fresh' Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Network+ Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789340501/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker and Kubernetes for Java Developers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468390/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
