@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker and Kubernetes for Java Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468390/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Drupal 8 Module Development - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789612363/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
