@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
+- latest article: [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Talend Open Studio for Data Integration"</a></p>
