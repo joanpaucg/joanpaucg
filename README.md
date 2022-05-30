@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Five of the Most Overrated US Tourist Destinations (and Where to Go Instead)](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
+- latest article: [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Talend Open Studio for Data Integration"</a></p>
