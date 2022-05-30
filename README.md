@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GameMaker Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784396121/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Talend Open Studio for Data Integration"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849514729/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
