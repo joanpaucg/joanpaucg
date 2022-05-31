@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Mat and Reformer Pilates (and Why It Matters)](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
+- latest article: [What to Do (and Not Do) If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Git Version Control Cookbook - Second Edition"</a></p>
