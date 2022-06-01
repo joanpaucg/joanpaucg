@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
+- latest article: [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hacking Android"</a></p>
