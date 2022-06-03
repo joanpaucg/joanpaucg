@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Embedded Programming with QT"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789952063/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Functional Programming in RUST"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839358/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
