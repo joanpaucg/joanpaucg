@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
+- latest article: [What Your Sexts (or Lack Thereof) Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Functional Programming in RUST"</a></p>
