@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Your Sexts (or Lack Thereof) Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Functional Programming in RUST"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839358/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On High Performance Programming with Qt 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531244/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
