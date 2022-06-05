@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On High Performance Programming with Qt 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531244/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Intelligent Mobile Projects with TensorFlow"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834544/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
