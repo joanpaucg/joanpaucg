@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
+- latest article: [How to Tell If Your Child Has Binge Eating Disorder (and What to Do About It)](https://lifehacker.com/how-to-tell-if-your-child-has-binge-eating-disorder-an-1849008247)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IoT Penetration Testing Cookbook"</a></p>
