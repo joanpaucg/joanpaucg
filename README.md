@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Intelligent Mobile Projects with TensorFlow"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788834544/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IoT Penetration Testing Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787280571/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
