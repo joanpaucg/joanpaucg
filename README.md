@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
+- latest article: [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Application Development"</a></p>
