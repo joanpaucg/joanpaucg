@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
+- latest article: [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kibana 7 Quick Start Guide"</a></p>
