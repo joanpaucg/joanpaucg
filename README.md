@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Application Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788293679/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kibana 7 Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789804034/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
