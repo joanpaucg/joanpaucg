@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kibana 7 Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789804034/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Web Development with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789953299/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
