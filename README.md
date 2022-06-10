@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Web Development with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789953299/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning JavaScript Data Structures and Algorithms - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623872/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
