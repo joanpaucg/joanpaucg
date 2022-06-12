@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What 'UL Listed' Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Neo4j 3.x - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786466143/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning R for Geospatial Analysis"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783984367/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
