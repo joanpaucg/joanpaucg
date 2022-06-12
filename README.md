@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Consider a AAA Membership, Even If You Don't Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
+- latest article: [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning R for Geospatial Analysis"</a></p>
