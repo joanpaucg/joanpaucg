@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What 'UL Listed' Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
+- latest article: [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning R for Geospatial Analysis"</a></p>
