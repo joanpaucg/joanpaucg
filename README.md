@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Escape the 'Grind Mentality' and Stop Saving Every Single Penny](https://lifehacker.com/escape-the-grind-mentality-and-stop-saving-every-fuck-1849044866)
+- latest article: [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SaltStack - Second Edition"</a></p>
