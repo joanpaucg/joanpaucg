@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SaltStack - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785881909/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning WebRTC"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783983667/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
