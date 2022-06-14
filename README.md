@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
+- latest article: [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning WebRTC"</a></p>
