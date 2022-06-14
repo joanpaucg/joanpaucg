@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
+- latest article: [Why the 'PACMAN' Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning WebRTC"</a></p>
