@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why the 'PACMAN' Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning WebRTC"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783983667/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Linux Kernel Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785883057/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
