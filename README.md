@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [8 of the Most Consequential Bear Markets in U.S. History (and What We Can Learn From Them)](https://lifehacker.com/8-of-the-most-consequential-bear-markets-in-u-s-histor-1849068363)
+- latest article: [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering PostgreSQL 11 - Second Edition"</a></p>
