@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Linux Kernel Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785883057/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering PostgreSQL 11 - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789537819/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
