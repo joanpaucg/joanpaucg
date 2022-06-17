@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering PostgreSQL 11 - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537819/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Puppet 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831864/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
