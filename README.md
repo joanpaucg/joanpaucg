@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Puppet 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788831864/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering QGIS - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786460370/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
