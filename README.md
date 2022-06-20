@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Yes, Your Dog Can Drink Too Much Water (and How to Tell)](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
+- latest article: [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Cookbook - Third Edition"</a></p>
