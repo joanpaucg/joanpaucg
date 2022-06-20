@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MicroStrategy Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789136241/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Odoo 12 Development Cookbook - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789618921/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
