@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [10 Ways Listening to Your Health Apps Can Backfire](https://lifehacker.com/10-ways-listening-to-your-health-apps-can-backfire-1849090828)
+- latest article: [Why You Shouldn’t Call Your Partner 'Needy'](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PostGIS Cookbook - Second Edition"</a></p>
