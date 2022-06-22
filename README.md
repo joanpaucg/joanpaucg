@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn’t Call Your Partner 'Needy'](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
+- latest article: [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PostGIS Cookbook - Second Edition"</a></p>
