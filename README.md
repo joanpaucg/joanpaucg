@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The States With the Highest Home Vacancy Rates (and Why It Matters)](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
+- latest article: [How to Do Your Own Basic Bike Maintenance](https://lifehacker.com/how-to-do-your-own-basic-bike-maintenance-1849097471)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Internet of Things Security - Second Edition"</a></p>
