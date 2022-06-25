@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Web Penetration Testing"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788624039/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Windows Forensics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783554096/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
