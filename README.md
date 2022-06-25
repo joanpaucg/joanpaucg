@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Plant a Tapestry Lawn (and Why You Should)](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
+- latest article: [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Windows Forensics"</a></p>
