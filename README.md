@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
+- latest article: [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Windows Forensics"</a></p>
