@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Windows Forensics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783554096/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming in C#: Exam 70-483 (MCSD) Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536577/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
