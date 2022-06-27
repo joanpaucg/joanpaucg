@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming in C#: Exam 70-483 (MCSD) Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789536577/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PySpark Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835367/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
