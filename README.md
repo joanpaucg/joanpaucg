@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PySpark Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788835367/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - RESTful Web API Design with Node.js 10 - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623322/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
