@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - RESTful Web API Design with Node.js 10 - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623322/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robotic Process Automation with Blue Prism Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789610444/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
