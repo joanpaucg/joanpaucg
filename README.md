@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Buy These Adapters Instead of Apple's $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
+- latest article: [The Most Common Relationship Money Conflicts (and How to Avoid Them)](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robotic Process Automation with Blue Prism Quick Start Guide"</a></p>
