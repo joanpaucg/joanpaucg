@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
+- latest article: [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robotic Process Automation with Blue Prism Quick Start Guide"</a></p>
