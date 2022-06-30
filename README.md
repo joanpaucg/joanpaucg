@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robotic Process Automation with Blue Prism Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789610444/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scientific Computing with Python 3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786463517/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
