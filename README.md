@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scientific Computing with Python 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463517/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architecture with Spring 5.0"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992992/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
