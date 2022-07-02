@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architecture with Spring 5.0"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992992/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SQL Server 2017 Integration Services Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786461827/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
