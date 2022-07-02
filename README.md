@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
+- latest article: [How to Prevent Swimmer's Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SQL Server 2017 Integration Services Cookbook"</a></p>
