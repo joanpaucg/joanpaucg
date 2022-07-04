@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WiX 3.6: A Developer's Guide to Windows Installer XML"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782160427/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Keras"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788629416/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
