@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Deep Learning with Keras"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788629416/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Applications with Spring 5 and Vue.js 2"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788836968/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
