@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
+- latest article: [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Applications with Spring 5 and Vue.js 2"</a></p>
