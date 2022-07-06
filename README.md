@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Your Kitchen Scale's "Fluid Ounces" Setting Is a Lie](https://lifehacker.com/your-kitchen-scales-fluid-ounces-setting-is-a-lie-1849147616)
+- latest article: [What to Do When There's an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Wireless Sensor Networks Using Arduino"</a></p>
