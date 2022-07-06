@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Do When There's an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
+- latest article: [You Should Download 'The Matrix Awakens' Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Wireless Sensor Networks Using Arduino"</a></p>
