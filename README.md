@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Applications with Spring 5 and Vue.js 2"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788836968/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Wireless Sensor Networks Using Arduino"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784395582/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
