@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Download 'The Matrix Awakens' Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Wireless Sensor Networks Using Arduino"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784395582/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++17 STL Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787120495/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
