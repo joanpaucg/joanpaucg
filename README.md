@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Amazon Prime Benefits You Don't Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++17 STL Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787120495/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Server+ Certification Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789534818/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
