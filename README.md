@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: Why Are 'Gentleminions' Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
+- latest article: [Don't Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Server+ Certification Guide"</a></p>
