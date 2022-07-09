@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CompTIA Server+ Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789534818/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Designing Purpose-Built Drones for Ardupilot Pixhawk 2.1"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786469168/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
