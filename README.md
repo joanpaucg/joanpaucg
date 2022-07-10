@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
+- latest article: [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Developer, Advocate!"</a></p>
