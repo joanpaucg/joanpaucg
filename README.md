@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Designing Purpose-Built Drones for Ardupilot Pixhawk 2.1"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786469168/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Developer, Advocate!"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138740/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
