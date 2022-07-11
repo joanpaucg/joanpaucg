@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
+- latest article: [These COVID 'Facts' Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Feature Engineering Made Easy"</a></p>
