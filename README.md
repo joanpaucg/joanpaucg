@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These COVID 'Facts' Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
+- latest article: [Why Pistol Squats Are So Hard (and How to Do Them Anyway)](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Feature Engineering Made Easy"</a></p>
