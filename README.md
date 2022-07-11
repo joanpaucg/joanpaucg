@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Developer, Advocate!"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138740/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Feature Engineering Made Easy"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787287600/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
