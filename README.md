@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When to Choose Frequent Flyer Miles Over Rewards Points](https://lifehacker.com/when-to-choose-frequent-flyer-miles-over-rewards-points-1849163378)
+- latest article: [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - From Voices to Results - Voice of Customer Questions, Tools and Analysis"</a></p>
