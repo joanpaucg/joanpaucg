@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Pistol Squats Are So Hard (and How to Do Them Anyway)](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Feature Engineering Made Easy"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787287600/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - From Voices to Results - Voice of Customer Questions, Tools and Analysis"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783001446/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
