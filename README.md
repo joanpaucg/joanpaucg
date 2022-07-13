@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - From Voices to Results - Voice of Customer Questions, Tools and Analysis"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783001446/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Full-Stack Vue.js 2 and Laravel 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788299589/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
