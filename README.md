@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Use Your Roku's 'Private Listening' Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Full-Stack Vue.js 2 and Laravel 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788299589/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Physics Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787123663/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
