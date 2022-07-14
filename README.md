@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
+- latest article: [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Physics Cookbook"</a></p>
