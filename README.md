@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You're Wrong About 'Beer Before Liquor'](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting started with JUCE"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783283316/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Cloud Platform for Architects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834308/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
