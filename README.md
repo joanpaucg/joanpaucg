@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Deep Learning for IoT"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789616132/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with Delphi"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343243/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
