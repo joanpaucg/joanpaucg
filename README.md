@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On MQTT Programming with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138542/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn QT 5"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788478854/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
