@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn QT 5"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788478854/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning C# 7 By Developing Games with Unity 2017 - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788478922/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
