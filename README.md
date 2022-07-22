@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Ways You Can Customize Your iPhone’s Lock Screen in iOS 16](https://lifehacker.com/all-the-ways-you-can-customize-your-iphone-s-lock-scree-1849310427)
+- latest article: [How to Tell If Your Friend Has a Crush on You](https://lifehacker.com/how-to-tell-if-your-friend-has-a-crush-on-you-1849316415)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning C# 7 By Developing Games with Unity 2017 - Third Edition"</a></p>
