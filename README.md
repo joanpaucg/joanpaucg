@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
+- latest article: [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Predictive Analytics with Python"</a></p>
