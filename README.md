@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning C# 7 By Developing Games with Unity 2017 - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788478922/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Predictive Analytics with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783983261/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
