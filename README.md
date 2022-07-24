@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Predictive Analytics with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783983261/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Shell Scripting with Zsh"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783282937/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
