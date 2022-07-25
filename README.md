@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
+- latest article: [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Social Media Analytics with R"</a></p>
