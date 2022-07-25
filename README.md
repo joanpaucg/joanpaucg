@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Shell Scripting with Zsh"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783282937/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Social Media Analytics with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787127524/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
