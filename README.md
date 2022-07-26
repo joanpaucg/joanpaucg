@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Most Clever Ways to Use Honey (Besides Eating It)](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
+- latest article: [How Much Do Small, Daily Purchases Really Affect Your Long-Term Finances?](https://lifehacker.com/how-much-do-small-daily-purchases-really-affect-your-l-1849328048)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Finance"</a></p>
