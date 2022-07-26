@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Clever Ways to Use Honey (Besides Eating It)](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Social Media Analytics with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787127524/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Finance"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789136364/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
