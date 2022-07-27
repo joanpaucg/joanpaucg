@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Never Use This TikTok Travel 'Hack'](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning for Finance"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789136364/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Active Directory"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787289352/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
