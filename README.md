@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is a 'Feeling Memory' (and How Do You Know You're Having One)?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
+- latest article: [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering pfSense - Second Edition"</a></p>
