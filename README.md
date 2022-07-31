@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Predictive Analytics with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783982806/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Predictive Analytics with R - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787121393/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
