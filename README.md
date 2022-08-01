@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Predictive Analytics with R - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787121393/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Networking - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789135992/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
