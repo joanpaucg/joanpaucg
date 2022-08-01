@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
+- latest article: [The iPhone's 'Focus Filters' Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Networking - Second Edition"</a></p>
