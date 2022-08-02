@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
+- latest article: [How to Improve Your Spatial Awareness (and Stop Bumping Into Stuff)](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering R for Quantitative Finance"</a></p>
