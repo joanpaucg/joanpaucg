@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Repair Water Damage in Your Home (and When to Panic About It)](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
+- latest article: [A Bunch of Oat Milks and Coffee Drinks Are Part of a Major Recall](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering R for Quantitative Finance"</a></p>
