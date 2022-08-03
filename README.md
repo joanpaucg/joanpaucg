@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
+- latest article: [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern JavaScript Web Development Cookbook"</a></p>
