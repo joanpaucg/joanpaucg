@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
+- latest article: [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern JavaScript Web Development Cookbook"</a></p>
