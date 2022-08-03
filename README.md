@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
+- latest article: [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern JavaScript Web Development Cookbook"</a></p>
