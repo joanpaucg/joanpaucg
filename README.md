@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Hidden Way to Monitor Your Mac's Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern JavaScript Web Development Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992749/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Security with pfSense"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789532975/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
