@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [A Countertop Dishwasher Is Absolutely Worth It](https://lifehacker.com/a-countertop-dishwasher-is-absolutely-worth-it-1849368569)
+- latest article: [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Security with pfSense"</a></p>
