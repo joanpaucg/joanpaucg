@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [It's Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Node.js Design Patterns - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785885587/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Pandas Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784393878/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
