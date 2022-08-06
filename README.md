@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
+- latest article: [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Pandas Cookbook"</a></p>
