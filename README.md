@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Change Your Mac's Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)
+- latest article: [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Automation Cookbook"</a></p>
