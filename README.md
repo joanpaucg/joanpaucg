@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Linux Security Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138399/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Automation Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789133806/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
