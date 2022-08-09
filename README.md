@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
+- latest article: [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Science Essentials - Third Edition"</a></p>
