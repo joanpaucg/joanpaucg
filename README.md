@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Science Essentials - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789537864/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Game Programming By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785281532/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
