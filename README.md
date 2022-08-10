@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Everything Worth Knowing About WhatsApp's Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
+- latest article: [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Game Programming By Example"</a></p>
