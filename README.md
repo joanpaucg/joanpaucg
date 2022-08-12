@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
+- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt 5 and OpenCV 4 Computer Vision Projects"</a></p>
