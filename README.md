@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
+- latest article: [How to Donate Your Organs (or Your Whole Body) When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt 5 and OpenCV 4 Computer Vision Projects"</a></p>
