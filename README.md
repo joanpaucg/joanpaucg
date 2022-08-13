@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Donate Your Organs (or Your Whole Body) When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Qt 5 and OpenCV 4 Computer Vision Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789532586/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Web Scraping Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138733/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
