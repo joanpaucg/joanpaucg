@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Web Scraping Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138733/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Red Hat Enterprise Linux Troubleshooting Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785283550/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
