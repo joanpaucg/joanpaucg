@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Red Hat Enterprise Linux Troubleshooting Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785283550/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redis 4.x Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783988167/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
