@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get Early Check-In at Your Hotel (and What to Do If You Can't)](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
+- latest article: [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Regression Analysis with R"</a></p>
