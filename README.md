@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redis 4.x Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783988167/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Regression Analysis with R"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627306/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
