@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Regression Analysis with R"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627306/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SolarWinds Orion Network Performance Monitor"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849688482/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
