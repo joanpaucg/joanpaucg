@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
+- latest article: [How to Save Money by 'Churning' Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SolarWinds Orion Network Performance Monitor"</a></p>
