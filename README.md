@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
+- latest article: [Why Chemists Rinse Their Glassware Three Times (and Why You Should, Too)](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Game Development - Third Edition"</a></p>
