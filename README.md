@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SolarWinds Orion Network Performance Monitor"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849688482/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Game Development - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788471152/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
