@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
+- latest article: [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Game Development - Third Edition"</a></p>
