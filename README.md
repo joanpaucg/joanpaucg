@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift Game Development - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788471152/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Oracle PL/SQL Developer's Guide - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785284809/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
