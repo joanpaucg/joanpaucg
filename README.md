@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
+- latest article: [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Oracle PL/SQL Developer's Guide - Second Edition"</a></p>
