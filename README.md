@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Is When It’s Supposed to Get Cold This Fall (It’s Earlier Than You Think)](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ARM® Cortex® M4 Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782176503/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence and Machine Learning Fundamentals"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789801651/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
