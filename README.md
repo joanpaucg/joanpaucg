@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If There’s Mold in Your Air Conditioner, (and What to Do About It)](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
+- latest article: [How to Make a Bed With 'Hospital Corners'](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence and Machine Learning Fundamentals"</a></p>
