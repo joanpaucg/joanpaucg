@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Don't Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
+- latest article: [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence for Robotics"</a></p>
