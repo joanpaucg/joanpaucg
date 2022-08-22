@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make a Bed With 'Hospital Corners'](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence and Machine Learning Fundamentals"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789801651/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence for Robotics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835442/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
