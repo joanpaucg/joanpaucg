@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Artificial Intelligence for Robotics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788835442/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Augmented Reality for Developers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787286436/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
