@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Augmented Reality for Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787286436/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783984886/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
