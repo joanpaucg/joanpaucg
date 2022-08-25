@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
+- latest article: [Why You're Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart LEGO MINDSTORMS EV3 Robots"</a></p>
