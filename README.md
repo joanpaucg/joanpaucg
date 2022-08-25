@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Tolkien Elvish, Na'Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
+- latest article: [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart LEGO MINDSTORMS EV3 Robots"</a></p>
