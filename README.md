@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You're Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Smart LEGO MINDSTORMS EV3 Robots"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788471565/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native programming with Golang"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787125988/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
