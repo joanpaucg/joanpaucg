@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You're Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
+- latest article: [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native programming with Golang"</a></p>
