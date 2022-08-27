@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cloud Native programming with Golang"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125988/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cognitive Computing with IBM Watson"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788478298/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
