@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cognitive Computing with IBM Watson"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788478298/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Daniel Arbuckle's Mastering Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787283695/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
