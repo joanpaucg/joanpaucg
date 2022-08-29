@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Daniel Arbuckle's Mastering Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787283695/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Amazon Web Services"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788626507/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
