@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker on Amazon Web Services"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788626507/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - EVE Online: ISK Strategy Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849693745/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
