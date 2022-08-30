@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
+- latest article: [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - EVE Online: ISK Strategy Guide"</a></p>
