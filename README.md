@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - EVE Online: ISK Strategy Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849693745/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - FreeSWITCH 1.8"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785889134/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
