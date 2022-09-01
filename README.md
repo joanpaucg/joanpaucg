@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
+- latest article: [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Simulink"</a></p>
