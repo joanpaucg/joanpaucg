@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Cloud Platform for Developers"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788837675/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
