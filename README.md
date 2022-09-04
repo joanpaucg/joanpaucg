@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Cloud Platform for Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788837675/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
