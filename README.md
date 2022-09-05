@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
+- latest article: [How to Apply for a Redress Number (and How to Know If You Need One)](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Analysis with NumPy and Pandas"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789530797/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
