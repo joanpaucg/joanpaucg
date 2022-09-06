@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Analysis with NumPy and Pandas"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789530797/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Science and Python Machine Learning"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787280748/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
