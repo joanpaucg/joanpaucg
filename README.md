@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
+- latest article: [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On DevOps with Vagrant"</a></p>
