@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
+- latest article: [6 Ways to Know If You're the Toxic One in a Relationship (and What to Do About It)](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On DevOps with Vagrant"</a></p>
