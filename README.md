@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
+- latest article: [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning with TensorFlow.js"</a></p>
