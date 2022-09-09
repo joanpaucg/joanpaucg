@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Ensemble Learning with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789612851/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning with TensorFlow.js"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838821739/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
