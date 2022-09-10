@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Grasshoppers and Crickets (and How to Prevent Both From Invading Your Home This Fall)](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
+- latest article: [How to Clean Faucet Aerators (and Why You Should)](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Markov Models with Python"</a></p>
