@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning with TensorFlow.js"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838821739/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Markov Models with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788625449/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
