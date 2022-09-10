@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
+- latest article: [The Difference Between Grasshoppers and Crickets (and How to Prevent Both From Invading Your Home This Fall)](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Markov Models with Python"</a></p>
