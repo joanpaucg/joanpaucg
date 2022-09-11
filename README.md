@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Faucet Aerators (and Why You Should)](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Markov Models with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788625449/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Kotlin"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788471459/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
