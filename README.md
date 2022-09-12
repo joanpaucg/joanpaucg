@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Mold From Books (and Prevent It From Coming Back)](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Microservices with Kotlin"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788471459/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Penetration Testing with Kali NetHunter"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995177/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
