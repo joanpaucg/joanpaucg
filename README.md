@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When You Can (and Can't) Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
+- latest article: [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IntelliJ IDEA Essentials"</a></p>
