@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IntelliJ IDEA Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784396930/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with Raspberry Pi 3"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788627405/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
