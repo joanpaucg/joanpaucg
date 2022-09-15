@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with Raspberry Pi 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788627405/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Deep Learning Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788997454/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
