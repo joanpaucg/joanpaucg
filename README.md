@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Network Scanning Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787287907/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Magento 2 Administration"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783288250/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
