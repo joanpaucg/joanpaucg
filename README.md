@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Do Laundry Without Irritating Your Skin (Besides Switching Detergents)](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Magento 2 Administration"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783288250/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python Web Penetration Testing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789533972/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
