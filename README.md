@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Do Laundry Without Irritating Your Skin (Besides Switching Detergents)](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
+- latest article: [How to Find the Ideal Humidity Level for Your Home (and Why It Matters)](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python Web Penetration Testing"</a></p>
