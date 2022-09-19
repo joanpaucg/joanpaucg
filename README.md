@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Haggle When You're Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python Web Penetration Testing"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789533972/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Vulkan"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786469809/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
