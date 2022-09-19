@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked 'Grand Theft Auto VI'?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
+- latest article: [The Difference Between a Monopsony and a Monopoly (and Why It Matters for Your Favorite TV Show)](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Vulkan"</a></p>
