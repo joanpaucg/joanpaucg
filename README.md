@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: ["The Little Mermaid," and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
+- latest article: [Why You Should Never Make (or Even Buy) a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Administration Cookbook"</a></p>
