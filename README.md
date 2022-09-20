@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
+- latest article: ["The Little Mermaid," and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Administration Cookbook"</a></p>
