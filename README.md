@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between a Monopsony and a Monopoly (and Why It Matters for Your Favorite TV Show)](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Vulkan"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786469809/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Administration Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789342529/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
