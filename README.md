@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between a Monopsony and a Monopoly (and Why It Matters for Your Favorite TV Show)](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
+- latest article: [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Administration Cookbook"</a></p>
