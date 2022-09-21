@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
+- latest article: [How ‘Retroactive Jealousy’ Can Ruin a Relationship (and What to Do About It)](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Assembly Programming"</a></p>
