@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How ‘Retroactive Jealousy’ Can Ruin a Relationship (and What to Do About It)](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
+- latest article: [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Assembly Programming"</a></p>
