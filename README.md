@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Being Kind at Work (to Others and Yourself) Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
+- latest article: [How (and Why) to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering AWS Security"</a></p>
