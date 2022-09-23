@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How (and Why) to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering AWS Security"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788293723/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python for Networking and Security"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992510/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
