@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Negotiate With Debt Collectors (and Why You Always Should)](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
+- latest article: [Why Your Wifi Router Needs a 'Guest Mode'](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python for Networking and Security"</a></p>
