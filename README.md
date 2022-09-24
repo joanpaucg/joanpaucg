@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Your Wifi Router Needs a 'Guest Mode'](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python for Networking and Security"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788992510/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Scripting for System Administrators"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789133226/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
