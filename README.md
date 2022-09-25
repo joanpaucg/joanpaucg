@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Python Scripting for System Administrators"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789133226/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering TypeScript 3 - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789536706/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
