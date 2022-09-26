@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
+- latest article: [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Unity 2D Game Development - Second Edition"</a></p>
