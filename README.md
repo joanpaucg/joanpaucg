@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What's New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Unity 2D Game Development - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463456/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Zendesk"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786461049/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
