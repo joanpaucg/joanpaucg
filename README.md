@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Stages of Grief After a Breakup (and How to Survive Each One)](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
+- latest article: [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics GP 2016 Cookbook"</a></p>
