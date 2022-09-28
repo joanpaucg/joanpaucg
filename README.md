@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
+- latest article: [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics GP 2016 Cookbook"</a></p>
