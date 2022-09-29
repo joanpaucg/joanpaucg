@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
+- latest article: [No One Is Luring Kids With 'Rainbow Fentanyl'](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MongoDB 4 Quick Start Guide"</a></p>
