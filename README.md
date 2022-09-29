@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics GP 2016 Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463401/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MongoDB 4 Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789343533/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
