@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MongoDB 4 Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789343533/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle Course Design Best Practices - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789348606/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
