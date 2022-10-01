@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle Course Design Best Practices - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789348606/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Multimedia Programming with Pure Data"</a></p>
+<img src="https://static.packt-cdn.com/products/9781782164647/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
