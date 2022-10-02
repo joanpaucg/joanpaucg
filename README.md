@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Multimedia Programming with Pure Data"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782164647/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Next.js Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788993661/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
