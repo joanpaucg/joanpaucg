@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between a Buyer's Market and a Seller's Market (and How to Take Advantage of Both)](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
+- latest article: [How to Clean Paint Brushes and Rollers (So You Can Actually Reuse Them)](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Next.js Quick Start Guide"</a></p>
