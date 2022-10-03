@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
+- latest article: [Your Child's Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Digital Forensics"</a></p>
