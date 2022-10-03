@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Next.js Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788993661/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Digital Forensics"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785887109/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
