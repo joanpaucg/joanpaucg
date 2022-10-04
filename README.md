@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Digital Forensics"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785887109/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Programming Blueprints"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468161/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
