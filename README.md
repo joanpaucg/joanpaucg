@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Programming Blueprints"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468161/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Robotic Projects - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786467966/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
