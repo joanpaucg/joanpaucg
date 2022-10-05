@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
+- latest article: [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Robotic Projects - Third Edition"</a></p>
