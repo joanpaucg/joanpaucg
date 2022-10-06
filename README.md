@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
+- latest article: [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redux Quick Start Guide"</a></p>
