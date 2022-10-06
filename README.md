@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Robotic Projects - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786467966/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redux Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789610086/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
