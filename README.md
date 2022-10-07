@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Pull Off the 'Hidden Kitchen' Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
+- latest article: [The Overlooked (but Serious) Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robot Framework Test Automation"</a></p>
