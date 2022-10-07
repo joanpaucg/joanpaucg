@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn't Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
+- latest article: [Five Things You're Not Cleaning in Your Washing Machine (but Should Be)](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robot Framework Test Automation"</a></p>
