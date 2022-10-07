@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redux Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789610086/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robot Framework Test Automation"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783283033/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
