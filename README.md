@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Robot Framework Test Automation"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783283033/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Lightning Reporting and Dashboards"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788297387/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
