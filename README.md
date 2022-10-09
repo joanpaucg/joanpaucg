@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If a Detergent is Actually 'Mild' Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Lightning Reporting and Dashboards"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788297387/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Security Automation with Ansible 2"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788394512/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
