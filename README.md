@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Security Automation with Ansible 2"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788394512/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium Framework Design in Data-Driven Testing"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788473576/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
