@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
+- latest article: [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium Testing Tools Cookbook - Second Edition"</a></p>
