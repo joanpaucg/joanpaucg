@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
+- latest article: [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium WebDriver 3 Practical Guide - Second Edition"</a></p>
