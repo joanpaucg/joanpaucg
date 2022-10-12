@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium Testing Tools Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784392512/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium WebDriver 3 Practical Guide - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788999762/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
