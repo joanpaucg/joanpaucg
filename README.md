@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Programming Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623797/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Edition - Software Engineering for Real-Time Systems"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839216589/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
