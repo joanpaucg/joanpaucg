@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use These 'Boundary Phrases' During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
+- latest article: [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Edition - Software Engineering for Real-Time Systems"</a></p>
