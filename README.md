@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What the Hell is 'Don't Hug Me I'm Scared?'](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
+- latest article: [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Game Development Essentials"</a></p>
