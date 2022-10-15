@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What the Hell is 'Don't Hug Me I'm Scared?'](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Edition - Software Engineering for Real-Time Systems"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839216589/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Game Development Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784391966/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
