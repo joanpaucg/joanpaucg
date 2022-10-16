@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Involve Teens in Basic Family Caregiving (and Why You Should)](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4 Game Development Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784391966/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Forensics Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784390495/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
