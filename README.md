@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
+- latest article: [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Angular Design Patterns"</a></p>
