@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Forensics Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784390495/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Angular Design Patterns"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786461728/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
