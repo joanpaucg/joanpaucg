@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
+- latest article: [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
