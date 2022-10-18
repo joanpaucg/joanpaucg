@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Beware the Costs of 'Lifestyle Creep'](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
+- latest article: [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789952292/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
