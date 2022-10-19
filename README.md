@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Unsupervised Learning with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789952292/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCNA Cyber Ops : SECOPS - Certification Guide 210-255"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838559861/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
