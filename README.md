@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
+- latest article: [15 Horror Movies Based on True Events (More or Less)](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCNA Cyber Ops : SECOPS - Certification Guide 210-255"</a></p>
