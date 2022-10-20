@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Change Yourself from a Night Person Into a Morning Person (Maybe)](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
+- latest article: [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cisco ACI Cookbook"</a></p>
