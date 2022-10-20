@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCNA Cyber Ops : SECOPS - Certification Guide 210-255"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838559861/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cisco ACI Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787129214/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
