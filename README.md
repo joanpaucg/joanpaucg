@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Play 'The Sims 4' for Free Right Now (and Forever)](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cisco ACI Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787129214/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ensemble Machine Learning Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789136609/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
