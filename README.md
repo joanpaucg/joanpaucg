@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ensemble Machine Learning Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789136609/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Cloud Security and Governance"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788299558/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
