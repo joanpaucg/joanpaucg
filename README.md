@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Cloud Security and Governance"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788299558/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Extending SaltStack"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785888618/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
