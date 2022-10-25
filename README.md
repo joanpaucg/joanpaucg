@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
+- latest article: [You Should Be 'Textually Compatible' With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Development with Three.js"</a></p>
