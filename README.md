@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
+- latest article: [What's New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Development with Three.js"</a></p>
