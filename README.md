@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)
+- latest article: [Use 'Lock Launcher' to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with C++ Audio Programming for Game Development"</a></p>
