@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with C++ Audio Programming for Game Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849699099/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Microsoft System Center Operations Manager"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785289743/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
