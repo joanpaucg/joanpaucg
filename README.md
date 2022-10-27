@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Apple’s ‘Driving Focus' Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
+- latest article: [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Microsoft System Center Operations Manager"</a></p>
