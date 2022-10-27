@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
+- latest article: [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Microsoft System Center Operations Manager"</a></p>
