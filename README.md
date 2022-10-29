@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
+- latest article: [Don't Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Functional Programming with TypeScript"</a></p>
