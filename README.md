@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Need to Know About 'Recovery' Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On UX Design for Developers"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788626699/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Image Processing with ImageJ - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785889837/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
