@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Pros (and a Few Cons) of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
+- latest article: [Easy Ways to Make Your Laundry Smell Good (Without Harsh Detergents)](https://lifehacker.com/easy-ways-to-make-your-laundry-smell-good-without-hars-1849733422)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Image Processing with ImageJ - Second Edition"</a></p>
