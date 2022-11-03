@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here’s How to Snag a 55" TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Image Processing with ImageJ - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785889837/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing AWS: Design, Build, and Manage your Infrastructure"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788835770/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
