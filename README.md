@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Everything You Didn't Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PHP 7 Data Structures and Algorithms"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463890/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Microsoft Dynamics 365 for Finance and Operations"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787283336/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
