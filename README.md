@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Microsoft Dynamics 365 for Finance and Operations"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787283336/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Oracle Integration Cloud Service"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786460721/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
