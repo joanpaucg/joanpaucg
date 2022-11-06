@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Oracle Integration Cloud Service"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786460721/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy Blueprints"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783987849/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
