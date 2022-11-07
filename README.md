@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy Blueprints"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783987849/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Articulate Storyline"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849694223/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
