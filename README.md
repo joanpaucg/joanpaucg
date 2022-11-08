@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Change These 'God of War: Ragnarok' Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
+- latest article: [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nmap: Network Exploration and Security Auditing Cookbook - Second Edition"</a></p>
