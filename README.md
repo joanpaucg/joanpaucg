@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
+- latest article: [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nmap: Network Exploration and Security Auditing Cookbook - Second Edition"</a></p>
