@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
+- latest article: [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Mobile Forensics - Third Edition"</a></p>
