@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
+- latest article: [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nmap: Network Exploration and Security Auditing Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786467454/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Mobile Forensics - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839198/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
