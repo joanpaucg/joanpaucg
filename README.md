@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787125933/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Internet of Things with MQTT"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789341782/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
