@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MicroPython Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838649951/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Django Design Patterns and Best Practices - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831345/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
