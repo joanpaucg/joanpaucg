@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
+- latest article: [Pick a Ceiling Fan Based on a Room's Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Django Design Patterns and Best Practices - Second Edition"</a></p>
