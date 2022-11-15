@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Babies and Toddlers Echo Your Words (and What to Do If It Goes on Too Long)](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
+- latest article: [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Fundamentals"</a></p>
