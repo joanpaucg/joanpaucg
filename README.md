@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn C Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789349917/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python 3 Object-Oriented Programming - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789615852/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
