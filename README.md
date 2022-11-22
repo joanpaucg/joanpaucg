@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Python Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781839218859/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Malware Analysis"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788392501/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
