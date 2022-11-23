@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
+- latest article: [Never Put Essential Oils in Your Humidifier Water (but Do This Instead)](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architect's Handbook"</a></p>
