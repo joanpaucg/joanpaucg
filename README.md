@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
+- latest article: [Don't Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architect's Handbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788624060/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cybersecurity: The Beginner's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789616194/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
