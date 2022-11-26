@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Microsoft PowerApps"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789805826/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce CRM - The Definitive Admin Handbook - Fifth Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789619782/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
