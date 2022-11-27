@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce CRM - The Definitive Admin Handbook - Fifth Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789619782/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Ethereum"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789954111/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
