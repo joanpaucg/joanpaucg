@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Ethereum"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789954111/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C++"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788832564/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
