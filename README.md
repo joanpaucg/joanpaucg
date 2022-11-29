@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
+- latest article: [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Computer Programming for Absolute Beginners"</a></p>
