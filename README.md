@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get a Refund on 'Pokémon Scarlet' and 'Violet'](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
+- latest article: [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Design Patterns with C++"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788832564/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Computer Programming for Absolute Beginners"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839216862/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
