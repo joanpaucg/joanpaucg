@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Python Programming - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789808896/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Penetration Testing Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784399771/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
