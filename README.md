@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Penetration Testing Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784399771/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Deep Learning Essentials - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788992893/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
