@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
+- latest article: [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Seven NoSQL Databases in a Week"</a></p>
