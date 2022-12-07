@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
+- latest article: [10 'Digital' Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Seven NoSQL Databases in a Week"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787288867/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk Essentials - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785889462/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
