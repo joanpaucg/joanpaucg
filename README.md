@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)
+- latest article: [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Splunk Essentials - Second Edition"</a></p>
