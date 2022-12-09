@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spring 5.0 Projects"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788390415/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SQL Server 2016 Developer's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786465344/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
