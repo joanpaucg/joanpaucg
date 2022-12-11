@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Agile Developer's Handbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787280205/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Zabbix 4 Network Monitoring - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789340266/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
