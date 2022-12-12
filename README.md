@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
+- latest article: [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced C++"</a></p>
