@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Make These Mistakes As a Guest in Someone's House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Zabbix 4 Network Monitoring - Third Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789340266/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced C++"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838821135/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
