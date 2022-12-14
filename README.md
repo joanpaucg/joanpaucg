@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
+- latest article: [22 of the Best Movies of 2022 That Won't Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apple Motion 5 Cookbook"</a></p>
