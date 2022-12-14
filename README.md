@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
+- latest article: [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Apple Motion 5 Cookbook"</a></p>
