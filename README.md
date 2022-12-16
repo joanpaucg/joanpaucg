@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
+- latest article: [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Printing Essentials"</a></p>
