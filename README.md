@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
+- latest article: [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D Printing Essentials"</a></p>
