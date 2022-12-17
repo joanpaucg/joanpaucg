@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
+- latest article: [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with Kotlin"</a></p>
