@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Build Supercomputers with Raspberry Pi 3"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787282582/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Machine Learning Systems with Python - Third Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623223/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
