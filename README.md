@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Lifehacker's 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C# 8 and .NET Core 3 Projects Using Azure - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789612080/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - C++ Reactive Programming"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788629775/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
