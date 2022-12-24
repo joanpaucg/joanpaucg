@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Create React App 2 Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789952766/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Lake for Enterprises"</a></p>
+<img src="https://static.packt-cdn.com/products/9781787281349/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
