@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Lake for Enterprises"</a></p>
-<img src="https://static.packt-cdn.com/products/9781787281349/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Design Patterns and Best Practices in Java"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786463593/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
