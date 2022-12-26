@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Design Patterns and Best Practices in Java"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463593/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Digital Forensics with Kali Linux"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788625005/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
