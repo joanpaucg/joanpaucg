@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Digital Forensics with Kali Linux"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788625005/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Application Architecture with .NET Core"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468888/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
