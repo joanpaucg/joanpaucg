@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
+- latest article: [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Cube Development with SSAS Multidimensional Models"</a></p>
