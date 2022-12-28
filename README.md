@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Enterprise Application Architecture with .NET Core"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468888/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Cube Development with SSAS Multidimensional Models"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849689908/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
