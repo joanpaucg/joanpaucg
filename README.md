@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
+- latest article: [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Cube Development with SSAS Multidimensional Models"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849689908/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Delphi"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786460165/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
