@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Make an 'Old Year's Resolution' Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Delphi"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786460165/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Firebase Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788296335/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
