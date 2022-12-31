@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Get In on Wesson's $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Firebase Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788296335/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gamification with Moodle"</a></p>
+<img src="https://static.packt-cdn.com/products/9781782173076/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
