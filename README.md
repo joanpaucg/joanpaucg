@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['Koselig' Isn't the Same as 'Hygge'](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gamification with Moodle"</a></p>
-<img src="https://static.packt-cdn.com/products/9781782173076/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Terraform - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623537/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
