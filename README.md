@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Terraform - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623537/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GitHub Essentials - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789138337/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
