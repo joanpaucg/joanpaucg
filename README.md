@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GitHub Essentials - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789138337/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Machine Learning Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788993401/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
