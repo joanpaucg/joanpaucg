@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 (So Far)](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
+- latest article: [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Apps Script for Beginners"</a></p>
