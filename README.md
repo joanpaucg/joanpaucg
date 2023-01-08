@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Analysis with Scala"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789346114/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Science with Anaconda"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788831192/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
