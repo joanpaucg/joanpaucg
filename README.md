@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
+- latest article: [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Science with R"</a></p>
