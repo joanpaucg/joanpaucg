@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
+- latest article: [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hyperledger Cookbook"</a></p>
