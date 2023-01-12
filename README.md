@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This 'Breath of the Wild' Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
+- latest article: [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hyperledger Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789534887/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786464965/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
