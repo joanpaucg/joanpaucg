@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
+- latest article: [11 of the Best Home Improvement Shows (and Where to Stream Them)](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition"</a></p>
