@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If You Got a ‘Quiet Promotion’ (and Why That’s Not a Good Thing)](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)
+- latest article: [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with ESP8266"</a></p>
