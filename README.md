@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
+- latest article: [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786464965/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Internet of Things with ESP8266"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786468024/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
