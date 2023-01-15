@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Get $200 Off Amtrak's Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IoT Projects with Bluetooth Low Energy"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788399449/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Deep Learning Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788995207/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
