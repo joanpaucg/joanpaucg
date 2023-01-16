@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Deep Learning Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788995207/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Design Patterns and Best Practices"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788830621/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
