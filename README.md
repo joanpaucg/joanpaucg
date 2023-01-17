@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java EE 8 Design Patterns and Best Practices"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788830621/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Programming in Python with Cody Jackson"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531947/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
