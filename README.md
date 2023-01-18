@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How 'SECURE 2.0' Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Programming in Python with Cody Jackson"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531947/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn WebAssembly"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788997379/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
