@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
+- latest article: [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning JavaScript Data Structures and Algorithms - Second Edition"</a></p>
