@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Consider Painting Old Wood Floors (Hear Me Out)](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)
+- latest article: [When It Is (and Isn’t) OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning JavaScript Data Structures and Algorithms - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785285493/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python Networking - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789958096/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
