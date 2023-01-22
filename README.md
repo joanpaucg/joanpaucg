@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How (and Where) to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
+- latest article: ['Knolling' Is 'Kondoing' for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SciPy for Numerical and Scientific Computing - Second Edition"</a></p>
