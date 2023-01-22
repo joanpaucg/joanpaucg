@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python Networking - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789958096/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SciPy for Numerical and Scientific Computing - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783987702/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
