@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['Knolling' Is 'Kondoing' for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SciPy for Numerical and Scientific Computing - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783987702/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning ServiceNow"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785883323/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
