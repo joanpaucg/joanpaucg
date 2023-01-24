@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: ['The Last of Us,' and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
+- latest article: [Make Better Boxed Mac & Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Vue.js 2"</a></p>
