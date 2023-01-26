@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
+- latest article: [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with Spark - Second Edition"</a></p>
