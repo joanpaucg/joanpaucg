@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
+- latest article: [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MariaDB Essentials"</a></p>
