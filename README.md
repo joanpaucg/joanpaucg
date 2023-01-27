@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
+- latest article: [Fix Your Switch's 'Goldeneye' Controls to Be More Like Xbox's](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MariaDB Essentials"</a></p>
