@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Way to Clean Your Laptop's Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Data Visualization with Microsoft Visio Professional 2016"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785882661/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Gephi Network Visualization"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783987344/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
