@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Gephi Network Visualization"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783987344/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Julia"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783553310/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
