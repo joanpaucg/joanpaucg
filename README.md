@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
+- latest article: [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering KVM Virtualization"</a></p>
