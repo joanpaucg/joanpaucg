@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [7 Common Messes From Beauty Products (and How to Clean Them)](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SQL Queries for SAP Business One"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849682367/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Game Development"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849696821/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
