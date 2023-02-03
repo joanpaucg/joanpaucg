@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
+- latest article: [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Game Development"</a></p>
