@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Here's How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
+- latest article: [Why There Are Dots All Over Your Smartphone Photos (and How to Fix It)](https://lifehacker.com/why-there-are-dots-all-over-your-smartphone-photos-and-1850072094)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Game Development"</a></p>
