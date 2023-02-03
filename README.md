@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
+- latest article: [7 Common Messes From Beauty Products (and How to Clean Them)](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Redis"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783988181/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering SQL Queries for SAP Business One"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849682367/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
