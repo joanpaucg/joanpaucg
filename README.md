@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why There Are Dots All Over Your Smartphone Photos (and How to Fix It)](https://lifehacker.com/why-there-are-dots-all-over-your-smartphone-photos-and-1850072094)
+- latest article: [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Game Development"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849696821/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Enterprise Edition - Financial Management (Third Edition)"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839297/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
