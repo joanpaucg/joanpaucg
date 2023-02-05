@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Don't Buy These Houseplants That You'll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Dynamics 365 Enterprise Edition - Financial Management (Third Edition)"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839297/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - openFrameworks Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781784396145/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
