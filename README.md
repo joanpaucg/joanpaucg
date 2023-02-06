@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Expect a 'Soggy, Shivery Spring' This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - openFrameworks Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781784396145/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MobX Quick Start Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789344837/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
