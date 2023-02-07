@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
+- latest article: [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenVPN Cookbook - Second Edition"</a></p>
