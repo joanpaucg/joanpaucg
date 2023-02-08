@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
+- latest article: [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle GoldenGate 12c Implementer's Guide"</a></p>
