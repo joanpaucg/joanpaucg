@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Say to Someone Pushing Crypto at You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
+- latest article: [Don't Fall for These Scam 'Notifications' on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenVPN Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786463128/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle GoldenGate 12c Implementer's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785280474/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
