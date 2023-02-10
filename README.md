@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
+- latest article: [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Microsoft Dynamics NAV - Fifth Edition"</a></p>
