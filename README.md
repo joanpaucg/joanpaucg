@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Valentine's Day Gifts That Have Been Impacted Most (and Least) By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Deep Learning - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789348460/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Web Scraping - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781786462589/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
