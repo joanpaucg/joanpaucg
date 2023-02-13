@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
+- latest article: [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PyTorch Deep Learning Hands-On"</a></p>
