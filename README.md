@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Web Scraping - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786462589/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PyTorch Deep Learning Hands-On"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788834131/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
