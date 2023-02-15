@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R High Performance Programming"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783989263/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Machine Learning Projects"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789807943/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
