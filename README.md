@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Ways You Can Use Bar Keepers Friend (but Aren't)](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
+- latest article: ['General Delivery' Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Machine Learning Projects"</a></p>
