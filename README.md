@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
+- latest article: [How Samsung’s New ‘Message Guard’ Protects Your Phone From 'Zero-Click' Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Remote Usability Testing"</a></p>
