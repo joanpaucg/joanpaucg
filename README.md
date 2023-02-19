@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Quick Start Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789616705/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Standard Library Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788623926/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
