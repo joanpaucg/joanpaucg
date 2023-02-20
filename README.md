@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Standard Library Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788623926/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala for Data Science"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785281372/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
