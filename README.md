@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
+- latest article: [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spatial Analytics with ArcGIS"</a></p>
