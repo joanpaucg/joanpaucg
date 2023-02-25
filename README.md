@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
+- latest article: [How to Remove Blood From Fabrics and Surfaces (and What Not to Do)](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Teaching with Google Classroom"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786466280/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Guide to DAZ Studio 4"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849694087/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
