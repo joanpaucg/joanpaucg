@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Complete Guide to DAZ Studio 4"</a></p>
-<img src="https://static.packt-cdn.com/products/9781849694087/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The PHP Workshop"</a></p>
+<img src="https://static.packt-cdn.com/products/9781838648916/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
