@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The PHP Workshop"</a></p>
-<img src="https://static.packt-cdn.com/products/9781838648916/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - The Professional ScrumMaster's Handbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781849688024/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
