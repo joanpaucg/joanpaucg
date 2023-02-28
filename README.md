@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
+- latest article: [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tkinter GUI Application Development Blueprints"</a></p>
