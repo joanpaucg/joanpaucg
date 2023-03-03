@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
+- latest article: [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4.X By Example"</a></p>
