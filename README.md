@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ubuntu Server Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785883064/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine 4.X By Example"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785885532/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
