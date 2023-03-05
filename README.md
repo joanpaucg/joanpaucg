@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Remove Built-Up Corrosion on Your Car's Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Vue.js 2 Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781786468093/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WebRTC Integrator's Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781783981267/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
