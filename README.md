@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WebRTC Integrator's Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783981267/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Yocto for Raspberry Pi"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785281952/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
