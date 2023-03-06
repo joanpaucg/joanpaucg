@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
+- latest article: [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Yocto for Raspberry Pi"</a></p>
