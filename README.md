@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
+- latest article: [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - App Inventor 2 Essentials"</a></p>
