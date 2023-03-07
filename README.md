@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
+- latest article: [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - App Inventor 2 Essentials"</a></p>
