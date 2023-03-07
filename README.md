@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Yocto for Raspberry Pi"</a></p>
-<img src="https://static.packt-cdn.com/products/9781785281952/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - App Inventor 2 Essentials"</a></p>
+<img src="https://static.packt-cdn.com/products/9781785281105/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
