@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
+- latest article: [You Can Try DuckDuckGo's AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Supervised Learning with Python"</a></p>
