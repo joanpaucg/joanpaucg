@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Try DuckDuckGo's AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Supervised Learning with Python"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789954920/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ArcGIS Pro 2.x Cookbook"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788299039/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
