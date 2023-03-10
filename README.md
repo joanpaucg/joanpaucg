@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [No, Celebrities Don't Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ArcGIS Pro 2.x Cookbook"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788299039/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure DevOps Server 2019 Cookbook - Second Edition"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788839259/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
