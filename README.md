@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Don't Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Azure DevOps Server 2019 Cookbook - Second Edition"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788839259/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Become a Python Data Analyst"</a></p>
+<img src="https://static.packt-cdn.com/products/9781789531701/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
