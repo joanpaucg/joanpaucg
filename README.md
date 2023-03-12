@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Polish Your Car (and Why You Should)](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Become a Python Data Analyst"</a></p>
-<img src="https://static.packt-cdn.com/products/9781789531701/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Forms with Vue.js"</a></p>
+<img src="https://static.packt-cdn.com/products/9781839213335/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
