@@ -56,6 +56,6 @@ const joanpau = {
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCENT/CCNA: ICND1 100-105 Certification Guide"</a></p>
-<img src="https://static.packt-cdn.com/products/9781788621434/cover/smaller" width="300">
+<img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
