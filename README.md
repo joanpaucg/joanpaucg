@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Burp Suite Essentials"</a></p>
-<img src="https://static.packt-cdn.com/products/9781783550111/cover/smaller" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCENT/CCNA: ICND1 100-105 Certification Guide"</a></p>
+<img src="https://static.packt-cdn.com/products/9781788621434/cover/smaller" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
