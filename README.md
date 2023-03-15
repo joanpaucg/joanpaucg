@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CCENT/CCNA: ICND1 100-105 Certification Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CentOS Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
