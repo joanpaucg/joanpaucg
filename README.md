@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['SpaceEngine' Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Containerization with LXC"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Django RESTful Web Services"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
