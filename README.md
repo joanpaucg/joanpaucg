@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
+- latest article: [Here Is Your Car's Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Chatbot Development with Alexa Skills and Amazon Lex"</a></p>
