@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
+- latest article: [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Chatbot Development with Alexa Skills and Amazon Lex"</a></p>
