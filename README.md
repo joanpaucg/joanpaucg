@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
+- latest article: [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Cybersecurity with Blockchain"</a></p>
