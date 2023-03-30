@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Spot the Worst Tourist Traps (and When to Just Give in and Visit Them)](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
+- latest article: [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - IBM DB2 11.1 Certification Guide"</a></p>
