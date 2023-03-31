@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
+- latest article: [Why You Shouldn't Gloat (Even When It Feels Good)](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Cloud Design Patterns for AWS - Second Edition"</a></p>
