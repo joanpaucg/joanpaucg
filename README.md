@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Shouldn't Gloat (Even When It Feels Good)](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java 9 Concurrency Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux 2 - Assuring Security by Penetration Testing - Third Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
