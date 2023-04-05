@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux 2018: Assuring Security by Penetration Testing - Fourth Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kubernetes for Developers"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
