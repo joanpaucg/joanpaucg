@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Where to Stuff Your Face With Free (or Cheap) Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kubernetes for Developers"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kubernetes on AWS"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
