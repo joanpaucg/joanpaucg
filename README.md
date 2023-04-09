@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
+- latest article: [How to Attract Bats to Your Yard (and Why You'd Want To)](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning AWK Programming"</a></p>
