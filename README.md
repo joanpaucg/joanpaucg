@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Your Vacuum Smells Bad (and How to Fix It)](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning AWK Programming"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Concurrent Programming in Scala - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
