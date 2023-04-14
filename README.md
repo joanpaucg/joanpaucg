@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
+- latest article: [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - L÷VE for Lua Game Programming"</a></p>
