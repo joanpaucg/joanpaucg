@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best (and Worst) Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - L÷VE for Lua Game Programming"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with scikit-learn Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
