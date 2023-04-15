@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best (and Worst) Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
+- latest article: [The Most (and Least) Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with scikit-learn Quick Start Guide"</a></p>
