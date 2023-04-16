@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
+- latest article: [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mapping with ArcGIS Pro"</a></p>
