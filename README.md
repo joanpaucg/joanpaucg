@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
+- latest article: [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mapping with ArcGIS Pro"</a></p>
