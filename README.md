@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
+- latest article: [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Apache Cassandra 3.x - Third Edition"</a></p>
