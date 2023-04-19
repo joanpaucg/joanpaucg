@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
+- latest article: [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Machine Learning for Penetration Testing"</a></p>
