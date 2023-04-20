@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
+- latest article: [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Machine Learning with R - Third Edition"</a></p>
