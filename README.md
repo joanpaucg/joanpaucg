@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Netflix Is Officially Ending Free Password Sharing (Here’s How to Do It Anyway)](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
+- latest article: [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Machine Learning with R - Third Edition"</a></p>
