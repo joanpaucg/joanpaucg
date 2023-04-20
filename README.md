@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
+- latest article: [What to Say (and Not Say) When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Machine Learning with R - Third Edition"</a></p>
