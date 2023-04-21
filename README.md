@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Machine Learning with R - Third Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering NGINX - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
