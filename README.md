@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
+- latest article: [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Spring Boot 2.0"</a></p>
