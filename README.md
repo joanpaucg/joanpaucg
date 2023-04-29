@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Best Teacher Appreciation Day Deals (and the Absolute Least We Can Do As a Society)](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MEAN Web Development - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft IIS 10.0 Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
