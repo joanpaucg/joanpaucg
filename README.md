@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
+- latest article: [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - pfSense 2.x Cookbook - Second Edition"</a></p>
