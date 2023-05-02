@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - pfSense 2.x Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PHP 7 Programming Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
