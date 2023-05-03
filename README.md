@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PHP 7 Programming Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Big Data Analytics"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
