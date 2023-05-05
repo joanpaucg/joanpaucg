@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Attract Ground-Dwelling Bees to Your Garden (and Why You Should)](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
+- latest article: [Here's What's New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical Maya Programming with Python"</a></p>
