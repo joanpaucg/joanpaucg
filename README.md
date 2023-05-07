@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Shrubs and Bushes (and Why It Matters)](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
+- latest article: [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python for Finance - Second Edition"</a></p>
