@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Practical UX Design"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python for Finance - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
