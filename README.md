@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell Your Frozen Food Has Gone Bad (Without Tasting It)](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
+- latest article: [New AI Features, the Pixel Fold, and More Updates From This Year's Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Programming Cookbook"</a></p>
