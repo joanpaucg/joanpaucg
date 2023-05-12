@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
+- latest article: [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Trados Studio - A Practical Guide"</a></p>
