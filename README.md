@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SAP BusinessObjects Reporting Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Trados Studio - A Practical Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
