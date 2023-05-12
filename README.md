@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
+- latest article: [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Trados Studio - A Practical Guide"</a></p>
