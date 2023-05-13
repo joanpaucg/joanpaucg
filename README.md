@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [It's Safe to Scan QR Codes (If You're Careful)](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SDL Trados Studio - A Practical Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Integration Design Patterns with Azure"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
