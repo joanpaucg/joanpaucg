@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [A 'National Housing Market' Doesn't Exist (and Why That Matters)](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
+- latest article: [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architecture with Python"</a></p>
