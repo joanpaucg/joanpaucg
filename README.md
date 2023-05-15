@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Software Architecture with Python"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spring MVC: Beginner's Guide - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
