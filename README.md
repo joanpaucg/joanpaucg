@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
+- latest article: [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spring MVC: Beginner's Guide - Second Edition"</a></p>
