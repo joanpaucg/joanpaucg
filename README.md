@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spring MVC: Beginner's Guide - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SQL Server 2017 Developer's Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
