@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent (and Why You Should)](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
+- latest article: [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Serverless Architectures with Microsoft Azure"</a></p>
