@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
+- latest article: [Think Twice Before Using 'Apple Pay Later'](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Applied Supervised Learning with R"</a></p>
