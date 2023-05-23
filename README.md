@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
+- latest article: [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blender 3D By Example"</a></p>
