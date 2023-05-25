@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
+- latest article: [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blockchain Quick Start Guide"</a></p>
