@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Maybe Don't Update 'Tears of the Kingdom'](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building a Recommendation System with R"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Enterprise JavaScript Applications"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
