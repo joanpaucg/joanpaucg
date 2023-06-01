@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Save the Fatty Bits From Your Steak and Make 'Lazy Tallow'](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
+- latest article: [The Difference Between Wet Brines, Dry Brines, and Marinades (and How to Use Them)](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Creating your MySQL Database: Practical Design Tips and Techniques"</a></p>
