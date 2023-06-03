@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Should Stop Feeling Guilty About Your Kid's Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Cross-platform Desktop Application Development: Electron, Node, NW.js, and React"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Visualization with D3 4.x Cookbook - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
