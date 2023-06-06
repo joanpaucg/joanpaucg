@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Drupal 8 Development Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Embedded Linux Development using Yocto Projects - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
