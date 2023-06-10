@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Try 'Task Batching' for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Functional C#"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Geospatial Data Science Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
