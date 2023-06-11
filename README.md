@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Best Father's Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Geospatial Data Science Quick Start Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gephi Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
