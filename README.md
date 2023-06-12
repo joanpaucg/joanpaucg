@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When to See the Next Two Solar Eclipses in the U.S. (and Where to Watch Them)](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
+- latest article: [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Beautiful Soup"</a></p>
