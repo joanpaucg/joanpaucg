@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
+- latest article: [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - gnuplot Cookbook"</a></p>
