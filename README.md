@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What It Means to Be "Unbanked" (and What It Costs You)](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
+- latest article: [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Web Scraping Quick Start Guide"</a></p>
