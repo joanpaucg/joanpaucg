@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
+- latest article: [What It Means to Be "Unbanked" (and What It Costs You)](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Web Scraping Quick Start Guide"</a></p>
