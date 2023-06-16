@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I Tried Hanging Out With My Son in VR for Father's Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Cloud Platform Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Dependency Management"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
