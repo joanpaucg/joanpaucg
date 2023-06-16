@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
+- latest article: [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Dependency Management"</a></p>
