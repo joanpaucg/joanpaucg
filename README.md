@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Most Common Reasons Your Driveway Is Sinking (and How to Fix Them)](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
+- latest article: [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Convolutional Neural Networks with TensorFlow"</a></p>
