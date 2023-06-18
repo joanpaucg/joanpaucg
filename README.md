@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
+- latest article: [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Convolutional Neural Networks with TensorFlow"</a></p>
