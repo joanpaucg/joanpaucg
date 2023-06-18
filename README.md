@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Common Reasons Your Driveway Is Sinking (and How to Fix Them)](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence with Java for Beginners"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Convolutional Neural Networks with TensorFlow"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
