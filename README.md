@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Convolutional Neural Networks with TensorFlow"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Science with the Command Line"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
