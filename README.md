@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do If You Become a Victim of 'Sextortion'](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Visualization with Bokeh"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Deep Learning with Apache Spark"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
