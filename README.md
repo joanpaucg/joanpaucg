@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
+- latest article: [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Enterprise Application Development with Python"</a></p>
