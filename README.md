@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Natural Language Processing with Python"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
