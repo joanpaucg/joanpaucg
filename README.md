@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
+- latest article: [How to Scoop a Quenelle Like a Freakin' Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Neural Networks with TensorFlow 2.0"</a></p>
