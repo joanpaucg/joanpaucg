@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What Is ‘Roof Ponding’ (and What Can You Do About It)?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
+- latest article: [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - HLSL Development Cookbook"</a></p>
