@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - HLSL Development Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Instant HubSpot Dashboard Customization"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
