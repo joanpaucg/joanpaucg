@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
+- latest article: [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Instant HubSpot Dashboard Customization"</a></p>
