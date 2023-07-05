@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
+- latest article: [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java Projects - Second Edition"</a></p>
