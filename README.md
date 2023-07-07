@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
+- latest article: [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KNIME Essentials"</a></p>
