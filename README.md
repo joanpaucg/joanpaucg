@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Julia 1.0 Programming Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KNIME Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
