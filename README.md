@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
+- latest article: [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KNIME Essentials"</a></p>
