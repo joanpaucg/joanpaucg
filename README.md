@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Make (and Share) Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
+- latest article: [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning ArcGIS Geodatabases"</a></p>
