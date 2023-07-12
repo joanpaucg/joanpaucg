@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
+- latest article: [My 10 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Concurrency in Kotlin"</a></p>
