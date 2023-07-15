@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
+- latest article: [The States With the Best Tap Water (and What to Do If Your State Has the Worst)](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Spark SQL"</a></p>
