@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
+- latest article: [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Mint Essentials"</a></p>
