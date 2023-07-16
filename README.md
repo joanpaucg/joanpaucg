@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The States With the Best Tap Water (and What to Do If Your State Has the Worst)](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
+- latest article: [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Mint Essentials"</a></p>
