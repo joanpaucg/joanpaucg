@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
+- latest article: [10 Professional Baking Tools I Use at Home](https://lifehacker.com/best-professional-baking-tools-for-every-kitchen-1850168766)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Linux Shell Scripting Cookbook - Third Edition"</a></p>
