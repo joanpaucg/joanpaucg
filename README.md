@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How Much Travel Insurance Costs (and When You Should Get It)](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
+- latest article: [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LMMS: A Complete Guide to Dance Music Production"</a></p>
