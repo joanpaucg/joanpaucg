@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Way to Secure Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
+- latest article: [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with R"</a></p>
