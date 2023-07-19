@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)
+- latest article: [Where to Watch 'Warrior' Season 3 (and What You Should Know)](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with R"</a></p>
