@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
+- latest article: [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Manage Your SAP Projects with SAP Activate"</a></p>
