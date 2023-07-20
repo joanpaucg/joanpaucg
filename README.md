@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When (and Where) to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
+- latest article: [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Manage Your SAP Projects with SAP Activate"</a></p>
