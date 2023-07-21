@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Where to Watch 'Good Omens' Season 2 (and What You Should Know)](https://lifehacker.com/where-to-watch-good-omens-season-2-and-what-you-should-1850654006)
+- latest article: [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Android NDK"</a></p>
