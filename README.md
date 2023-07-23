@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Angular Components - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Apache Maven 3"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
