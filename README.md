@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
+- latest article: [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering OpenLDAP: Configuring, Securing and Integrating Directory Services"</a></p>
