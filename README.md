@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Still Get Into Cycling When You're Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
+- latest article: [You Can Put Your College Credits to Use (Even If You Didn’t Graduate)](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering OpenLDAP: Configuring, Securing and Integrating Directory Services"</a></p>
