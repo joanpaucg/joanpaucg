@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
+- latest article: [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Matplotlib for Python Developers - Second Edition"</a></p>
