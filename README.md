@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Difference Between Unplugging and Recharging (and Why It Matters)](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Matplotlib for Python Developers - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Maya Programming with Python Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
