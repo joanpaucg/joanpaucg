@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Unplugging and Recharging (and Why It Matters)](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
+- latest article: [From 1950 to Today: The History of AI (so Far)](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Maya Programming with Python Cookbook"</a></p>
