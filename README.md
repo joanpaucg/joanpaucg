@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Maya Programming with Python Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft System Center 2016 Service Manager Cookbook - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
