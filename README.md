@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Ask Yourself These Questions Before Saying 'No' at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
+- latest article: [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft System Center 2016 Service Manager Cookbook - Second Edition"</a></p>
