@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Where to Watch 'Castlevania: Nocturne' (and What You Should Know About It)](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft System Center 2016 Service Manager Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft System Center Configuration Manager Cookbook - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
