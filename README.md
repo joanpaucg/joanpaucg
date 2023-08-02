@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Enable Google's New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
+- latest article: [Sync for Reddit Is Back, but Now It’s for Lemmy](https://lifehacker.com/sync-for-reddit-is-back-but-now-it-s-for-lemmy-1850700292)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft System Center Configuration Manager Cookbook - Second Edition"</a></p>
