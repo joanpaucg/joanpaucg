@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
+- latest article: [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Windows Intune 2.0: Quickstart Administration"</a></p>
