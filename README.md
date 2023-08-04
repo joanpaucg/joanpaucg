@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use a 'Thermometer Chart' to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
+- latest article: [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern C++ Programming Cookbook"</a></p>
