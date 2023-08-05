@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern C++ Programming Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern Programming: Object Oriented Programming and Best Practices"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
