@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets (and Why They're So Common)](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modern Programming: Object Oriented Programming and Best Practices"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Moodle 3.x Developer's Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
