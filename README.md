@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
+- latest article: [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Neural Networks with Keras Cookbook"</a></p>
