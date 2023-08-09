@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Neural Networks with Keras Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCL Programming by Example"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
