@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Principles of Strategic Data Science"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Programming Arduino with LabVIEW"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
