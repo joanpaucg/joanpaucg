@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
+- latest article: [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Progressive Web Application Development by Example"</a></p>
