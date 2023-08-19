@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between Razor Burn and Razor Bumps (and How to Avoid Both)](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
+- latest article: [Why Your TV Remote Still Won't Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Analysis"</a></p>
