@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today's Wordle Hints (and Answer) for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
+- latest article: [The Difference Between Razor Burn and Razor Bumps (and How to Avoid Both)](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Analysis"</a></p>
