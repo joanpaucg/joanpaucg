@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Analysis"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Machine Learning By Example"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
