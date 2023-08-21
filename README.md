@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
+- latest article: [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - QGIS Python Programming Cookbook - Second Edition"</a></p>
