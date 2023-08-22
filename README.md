@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - QGIS Python Programming Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Programming Fundamentals"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
