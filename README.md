@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871)
+- latest article: [Alamo Drafthouse's Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Zero W Wireless Projects"</a></p>
