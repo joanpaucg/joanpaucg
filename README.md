@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Programming Fundamentals"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Zero W Wireless Projects"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
