@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Zero W Wireless Projects"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Red Hat Enterprise Linux Server Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
