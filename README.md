@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
+- latest article: [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Rust Programming By Example"</a></p>
