@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Salesforce Reporting and Dashboards"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Programming Projects"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
