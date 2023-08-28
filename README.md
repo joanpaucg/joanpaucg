@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here's What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Scala Programming Projects"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium WebDriver Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
