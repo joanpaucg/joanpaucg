@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Should Use a Solar Battery to Charge Your Cordless Tools](https://lifehacker.com/you-should-use-a-solar-battery-to-charge-your-cordless-1850779413?utm_source=regular)
+- latest article: [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium WebDriver Quick Start Guide"</a></p>
