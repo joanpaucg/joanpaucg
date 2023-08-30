@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How 'Information Bias' Can Derail Your Investing (and Ways to Avoid It)](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
+- latest article: [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SFML Blueprints"</a></p>
