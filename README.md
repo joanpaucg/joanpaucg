@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
+- latest article: [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - SignalR Real-time Application Cookbook"</a></p>
