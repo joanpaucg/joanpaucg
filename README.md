@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
+- latest article: [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Spring 5 Design Patterns"</a></p>
