@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Talend Open Studio Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Test-Driven Python Development"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
