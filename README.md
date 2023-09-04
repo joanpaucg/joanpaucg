@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
+- latest article: [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Test-Driven Python Development"</a></p>
