@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221?utm_source=regular)
+- latest article: [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 2018 Cookbook - Third Edition"</a></p>
