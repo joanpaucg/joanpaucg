@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What People are Getting Wrong this Week: COVID Vaccine Conspiracies](https://lifehacker.com/covid-vaccine-conspiracies-1850810502?utm_source=regular)
+- latest article: [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity 5.x Game AI Programming Cookbook"</a></p>
