@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Virtual Reality Projects - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unreal Engine Physics Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
