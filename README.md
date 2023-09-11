@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
+- latest article: [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide"</a></p>
