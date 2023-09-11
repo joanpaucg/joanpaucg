@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today’s Connections Hints (and Answer) for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
+- latest article: [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide"</a></p>
