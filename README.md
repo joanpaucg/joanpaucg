@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
+- latest article: [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide"</a></p>
