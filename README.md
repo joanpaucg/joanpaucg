@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
+- latest article: [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Analytics for the Internet of Things (IoT)"</a></p>
