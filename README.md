@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Find a Running Track Near You (and a Beginner’s Workout to Try)](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)
+- latest article: [Everything You Can Do With iPhone 15 Pro's Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Android High Performance Programming"</a></p>
