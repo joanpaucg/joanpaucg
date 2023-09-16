@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
+- latest article: [Today’s Connections Hints (and Answer) for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Avid Media Composer 6.x Cookbook"</a></p>
