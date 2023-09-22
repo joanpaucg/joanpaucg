@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
+- latest article: [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with SAS"</a></p>
