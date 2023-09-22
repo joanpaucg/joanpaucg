@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
+- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with SAS"</a></p>
