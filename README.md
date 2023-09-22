@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
+- latest article: [Today’s NYT Connections Hints (and Answer) for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics with SAS"</a></p>
