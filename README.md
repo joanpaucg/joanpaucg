@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
+- latest article: [It's Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Boost C++ Application Development Cookbook - Second Edition"</a></p>
