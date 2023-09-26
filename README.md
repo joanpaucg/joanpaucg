@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
+- latest article: [Here’s When You Should (and Shouldn’t) Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Business Websites with Squarespace 7"</a></p>
