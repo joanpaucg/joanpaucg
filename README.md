@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
+- latest article: [Use 'Think, Pair, Share' for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Acquisition using LabVIEW"</a></p>
