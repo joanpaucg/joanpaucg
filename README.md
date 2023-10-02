@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Delphi Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Drupal 8 Module Development"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
