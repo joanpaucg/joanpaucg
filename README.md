@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
+- latest article: [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Drupal 8 Module Development"</a></p>
