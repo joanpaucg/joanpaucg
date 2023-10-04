@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [AdGuard VPN Is $30 for Three Years Right Now](https://lifehacker.com/adguard-vpn-is-30-for-three-years-right-now-1850888705)
+- latest article: [Where to Watch the Alabama Vs. Texas A&M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Elasticsearch 7 Quick Start Guide"</a></p>
