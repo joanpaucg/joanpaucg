@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
+- latest article: [Use the Boxing Method to Take Better Digital Notes](https://lifehacker.com/use-the-boxing-method-for-digital-note-taking-1850904099)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ethereum Cookbook"</a></p>
