@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
+- latest article: [Today’s NYT Connections Hints (and Answer) for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Raspberry Pi Zero"</a></p>
