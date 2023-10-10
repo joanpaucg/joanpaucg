@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
+- latest article: [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Windows Server Security"</a></p>
