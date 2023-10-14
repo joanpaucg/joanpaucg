@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
+- latest article: [How to Respond When Someone Says They’ll ‘Look Into’ Your Request (but They Don’t)](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Generative Adversarial Networks with Keras"</a></p>
