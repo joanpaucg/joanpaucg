@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
+- latest article: [How to Disinfect Your Pruning Tools (and Why You Should)](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On GPU Computing with Python"</a></p>
