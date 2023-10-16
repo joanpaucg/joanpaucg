@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Content Creators Can Get Micmonster's Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
+- latest article: [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Intelligent Agents with OpenAI Gym"</a></p>
