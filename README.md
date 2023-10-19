@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
+- latest article: [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - HoloLens Beginner's Guide"</a></p>
