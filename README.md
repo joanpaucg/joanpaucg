@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
+- latest article: [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - HoloLens Beginner's Guide"</a></p>
