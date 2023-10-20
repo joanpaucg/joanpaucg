@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
+- latest article: [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Splunk 7 - Third Edition"</a></p>
