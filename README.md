@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today’s NYT Connections Hints (and Answer) for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
+- latest article: [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Splunk: Big Data Reporting and Development for Operational Intelligence"</a></p>
