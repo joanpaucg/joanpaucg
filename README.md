@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
+- latest article: [The Biggest Differences Between the Pixel Watch 2 and Galaxy Watch 6](https://lifehacker.com/the-biggest-differences-between-the-pixel-watch-2-and-g-1850950925)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning iOS Security"</a></p>
