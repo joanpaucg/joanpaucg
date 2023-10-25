@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - JavaScript Domain-Driven Design"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KeyShot 3D Rendering"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
