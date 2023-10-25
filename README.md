@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
+- latest article: [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - KeyShot 3D Rendering"</a></p>
