@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
+- latest article: [How to Locate and Clean Your Washing Machine's Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn Scala Programming"</a></p>
