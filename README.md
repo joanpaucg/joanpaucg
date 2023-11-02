@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
+- latest article: [Evil Week: Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Concurrent Programming in Scala"</a></p>
