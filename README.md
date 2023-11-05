@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today’s NYT Connections Hints (and Answer) for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
+- latest article: [How to Become More Curious (And Why You Should)](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning NHibernate 4"</a></p>
