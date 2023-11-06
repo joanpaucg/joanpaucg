@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
+- latest article: [Today’s NYT Connections Hints (and Answer) for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning NumPy Array"</a></p>
