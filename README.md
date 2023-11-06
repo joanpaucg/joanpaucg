@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning NHibernate 4"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning NumPy Array"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
