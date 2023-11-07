@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Two Ways to Use the 'Blurting' Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
+- latest article: [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning OpenDaylight"</a></p>
