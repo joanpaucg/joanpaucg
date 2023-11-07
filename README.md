@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
+- latest article: [Today’s NYT Connections Hints (and Answer) for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning OpenDaylight"</a></p>
