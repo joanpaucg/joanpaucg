@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get an Xbox Series X for Its Cheapest Price Ever (Plus a $75 Gift Card)](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
+- latest article: [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python"</a></p>
