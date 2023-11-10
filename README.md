@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
+- latest article: [How to Blind Bake a Pie Crust (Because You Probably Should)](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Visual Workflow and Process Builder - Second Edition"</a></p>
