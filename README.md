@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
+- latest article: [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Salesforce Visual Workflow and Process Builder - Second Edition"</a></p>
