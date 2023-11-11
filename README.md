@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today’s NYT Connections Hints (and Answer) for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
+- latest article: [How to Locate and Clean Your Dishwasher's Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Veeam Backup & Replication for VMware vSphere"</a></p>
