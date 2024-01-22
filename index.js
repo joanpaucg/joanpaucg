@@ -16,10 +16,10 @@ async function scrapeBook () {
         ,
         bookImage: {
             selector: ".product-info__image img"
-            , attr: "src"
+            , attr: "data-cfsrc"
         }
     })
-    //console.log(bookResult.data);
+    console.log("scrapeBook",bookResult.data);
     return {bookName:bookResult.data.bookName,bookImage:bookResult.data.bookImage};
 
 }
@@ -29,7 +29,7 @@ async function scrapeBook () {
     const [lastArticle]=items;
     //console.log(lastArticle.title);
     book= await scrapeBook ();
-    console.log(book);
+    console.log("Wb scrapped book",book);
     lastArticleMarkdown=`[${lastArticle.title}](${lastArticle.link})`;
     console.log(lastArticleMarkdown);
     let bookName="";
@@ -38,7 +38,7 @@ async function scrapeBook () {
         if (err) throw err;
         var result = data.replace(LATEST_ARTICLE_PLACEHOLDER, lastArticleMarkdown).replace(LATEST_BOOKNAME_PLACEHOLDER, book.bookName).replace(LATEST_BOOKIMAGE_PLACEHOLDER, book.bookImage);
         //console.log(result);
-        console.log(result);
+        //console.log(result);
         fs.writeFile('./README.md', result, 'utf8', function (err) {
             if (err) return console.log(err);
         });

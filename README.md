@@ -56,6 +56,6 @@ const joanpau = {
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Blockchain Quick Reference"</a></p>
-<img src="" width="300">
+<img src="https://content.packt.com/B09977/cover_image_small.png" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
