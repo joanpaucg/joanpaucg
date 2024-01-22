@@ -29,7 +29,7 @@ async function scrapeBook () {
     const [lastArticle]=items;
     //console.log(lastArticle.title);
     book= await scrapeBook ();
-    //console.log(book);
+    console.log(book);
     lastArticleMarkdown=`[${lastArticle.title}](${lastArticle.link})`;
     console.log(lastArticleMarkdown);
     let bookName="";
