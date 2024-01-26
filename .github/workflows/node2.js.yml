@@ -25,7 +25,7 @@ jobs:
         fetch-depth: 0
     - uses: actions/setup-node@v1
       with:
-        node-version: '8'
+        node-version: '20'
     - run: npm install 
     - run: npm run update-readme
     - run: |
