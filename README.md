@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
+- latest article: [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Building Data Streaming Applications with Apache Kafka"</a></p>
