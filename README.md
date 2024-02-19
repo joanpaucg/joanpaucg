@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - FreeRADIUS Beginner's Guide"</a></p>
-<img src="https://content.packt.com/B00872/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Game Development Patterns and Best Practices"</a></p>
+<img src="https://content.packt.com/B05906/cover_image_small.png" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
