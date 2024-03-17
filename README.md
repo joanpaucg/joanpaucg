@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
+- latest article: [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing Cisco Networking Solutions"</a></p>
-<img src="https://content.packt.com/B06022/cover_image_small.png" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Infrastructure as Code (IAC) Cookbook"</a></p>
+<img src="https://content.packt.com/B05671/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
