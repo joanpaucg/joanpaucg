@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Google Just Revealed When Apple Will Officially Adopt RCS](https://lifehacker.com/tech/google-just-revealed-when-apple-will-officially-adopt-rcs)
+- latest article: [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Large Scale Machine Learning with Python"</a></p>
-<img src="https://content.packt.com/B05135/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lean Product Management"</a></p>
+<img src="https://content.packt.com/B09697/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
