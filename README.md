@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Safari Is Better Than Chrome, Actually](https://lifehacker.com/tech/safari-is-better-than-chrome-actually)
+- latest article: [The Best Exercises for a Stronger Upper Back](https://lifehacker.com/health/best-upper-back-exercises)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Python for Forensics"</a></p>
-<img src="https://content.packt.com/B00687/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Qlik Sense: The Official Guide"</a></p>
+<img src="https://content.packt.com/B01787/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
