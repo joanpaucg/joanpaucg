@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can (Finally, Once Again) Emulate Retro Games on Your iPhone](https://lifehacker.com/entertainment/how-to-emulate-nintendo-sega-games-on-iphone)
+- latest article: [How to Turn Off Meta AI on Facebook, Instagram, Messenger, and WhatsApp](https://lifehacker.com/tech/how-to-turn-off-meta-ai-on-facebook-instagram-messenger-whatsapp)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Lucene 4 Cookbook"</a></p>
-<img src="https://content.packt.com/B01890/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning Projects for Mobile Applications"</a></p>
+<img src="https://content.packt.com/B09947/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
