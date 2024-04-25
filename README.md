@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get This Mini Poooli Pocket Printer on Sale for $70 Right Now](https://lifehacker.com/tech/poooli-pocket-printer-sale)
+- latest article: [The Eufy Omni S1 Pro Robot Vacuum Doesn't Live Up to the Hype](https://lifehacker.com/tech/eufy-omni-s1-pro-robot-vacuum-review)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Machine Learning with Scala Quick Start Guide"</a></p>
-<img src="https://content.packt.com/B11249/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Magento 2 Development Cookbook"</a></p>
+<img src="https://content.packt.com/B04896/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
