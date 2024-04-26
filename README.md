@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Eufy Omni S1 Pro Robot Vacuum Doesn't Live Up to the Hype](https://lifehacker.com/tech/eufy-omni-s1-pro-robot-vacuum-review)
+- latest article: [Eight Advanced Google Docs Features You Should Be Using](https://lifehacker.com/tech/advanced-google-docs-features-you-should-be-using)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Magento 2 Development Cookbook"</a></p>
-<img src="https://content.packt.com/B04896/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Magento 2 Theme Design - Second Edition"</a></p>
+<img src="https://content.packt.com/B05193/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
