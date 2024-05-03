@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Aren't Using Your Pixel's Flashlight at Full Brightness](https://lifehacker.com/tech/how-to-turn-up-pixel-flashlight)
+- latest article: [The AnkerWork S600 Uses AI to Block Background Noise, and It's Not Just a Gimmick](https://lifehacker.com/tech/ankerwork-s600-ai-bluetooth-speakerphone-charger-review)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Firebase for Android Development"</a></p>
-<img src="https://content.packt.com/B09052/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering High Performance with Kotlin"</a></p>
+<img src="https://content.packt.com/B09963/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
