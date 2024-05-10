@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Now Watch ‘Reading Rainbow’ and Old PBS Shows for Free](https://lifehacker.com/entertainment/roku-launches-pbs-retro-channel)
+- latest article: [How to Enable and Customize Dark Mode in Windows 11](https://lifehacker.com/how-to-enable-and-customize-dark-mode-on-windows-11-1847593695)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Object-oriented Python"</a></p>
-<img src="https://content.packt.com/B02797/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering OpenCV with Practical Computer Vision Projects"</a></p>
+<img src="https://content.packt.com/B02054/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
