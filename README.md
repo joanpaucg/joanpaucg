@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
+- latest article: [Google Is Bringing Streaming and Gaming Android Apps to Parked Cars](https://lifehacker.com/tech/streaming-gaming-android-apps-coming-to-cars)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Social Media Mining with Python"</a></p>
-<img src="https://content.packt.com/B02114/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Symfony"</a></p>
+<img src="https://content.packt.com/B03656/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
