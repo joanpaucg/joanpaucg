@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Do a Barbell Squat When You Don’t Have a Squat Rack](https://lifehacker.com/health/how-to-barbell-squat-without-a-squat-rack)
+- latest article: [Slack Is Using Your Private Conversations to Train Its AI](https://lifehacker.com/tech/slacks-ai-features-analyze-private-conversations)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Text Mining with R"</a></p>
-<img src="https://content.packt.com/B04107/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Unity 2D game development"</a></p>
+<img src="https://content.packt.com/B02131/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
