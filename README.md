@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft Says Its ‘Copilot+ PCs’ Are Faster Than Your MacBook](https://lifehacker.com/tech/microsoft-announces-copilot-plus-pcs)
+- latest article: [Microsoft's New 'Recall' Feature Is Equal Parts Cool and Dangerous](https://lifehacker.com/tech/microsofts-new-recall-feature-is-equal-parts-cool-and-dangerous)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Presentation Foundation"</a></p>
-<img src="https://content.packt.com/B05291/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Server 2016"</a></p>
+<img src="https://content.packt.com/B05171/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
