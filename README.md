@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft's New 'Recall' Feature Is Equal Parts Cool and Dangerous](https://lifehacker.com/tech/microsofts-new-recall-feature-is-equal-parts-cool-and-dangerous)
+- latest article: [Do Electrolyte Supplements Actually Do Anything?](https://lifehacker.com/health/do-electrolyte-supplements-actually-do-anything)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Windows Server 2016"</a></p>
-<img src="https://content.packt.com/B05171/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Xamarin UI Development - Second Edition"</a></p>
+<img src="https://content.packt.com/B10225/cover_image_small.png" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
