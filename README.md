@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Do Electrolyte Supplements Actually Do Anything?](https://lifehacker.com/health/do-electrolyte-supplements-actually-do-anything)
+- latest article: [The Best Memorial Day Deals on Fitness Equipment](https://lifehacker.com/health/best-memorial-day-deals-on-fitness-equipment)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Xamarin UI Development - Second Edition"</a></p>
-<img src="https://content.packt.com/B10225/cover_image_small.png" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - matplotlib Plotting Cookbook"</a></p>
+<img src="https://content.packt.com/B02153/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
