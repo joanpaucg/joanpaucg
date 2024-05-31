@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The ASUS Vivobook S16 OLED Is Spacious and Easy on the Eyes](https://lifehacker.com/tech/asus-vivobook-s16-oled-review-a-great-everyday-laptop)
+- latest article: [Here's When It's Safe to Share Your Bank Details (and When It's Not)](https://lifehacker.com/money/when-is-it-safe-to-share-your-banking-details)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft Visual C++ Windows Applications by Example"</a></p>
-<img src="https://content.packt.com/B02291/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Analysis using Wireshark 2 Cookbook - Second Edition"</a></p>
+<img src="https://content.packt.com/B05518/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
