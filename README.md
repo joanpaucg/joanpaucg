@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Here's When It's Safe to Share Your Bank Details (and When It's Not)](https://lifehacker.com/money/when-is-it-safe-to-share-your-banking-details)
+- latest article: [The JBL PartyBox Stage 320 Is the Only Speaker I Want for My Parties](https://lifehacker.com/tech/jbl-partybox-stage-320-review)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Analysis using Wireshark 2 Cookbook - Second Edition"</a></p>
-<img src="https://content.packt.com/B05518/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Vulnerability Assessment"</a></p>
+<img src="https://content.packt.com/B09015/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
