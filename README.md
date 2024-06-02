@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The JBL PartyBox Stage 320 Is the Only Speaker I Want for My Parties](https://lifehacker.com/tech/jbl-partybox-stage-320-review)
+- latest article: [Today’s Wordle Hints (and Answer) for Saturday, June 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Network Vulnerability Assessment"</a></p>
-<img src="https://content.packt.com/B09015/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Node Cookbook. - Third Edition"</a></p>
+<img src="https://content.packt.com/B05269/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
