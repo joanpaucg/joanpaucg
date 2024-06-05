@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [PlayStation VR2 Is Coming to PC Later This Year](https://lifehacker.com/tech/playstation-vr2-is-coming-to-pc-later-this-year)
+- latest article: [Microsoft's New 'Recall' Feature Is Equal Parts Cool and Dangerous](https://lifehacker.com/tech/microsofts-new-recall-feature-is-equal-parts-cool-and-dangerous)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 3 Computer Vision with Python Cookbook"</a></p>
-<img src="https://content.packt.com/B08621/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 4 for Secret Agents. - Second Edition"</a></p>
+<img src="https://content.packt.com/B11226/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
