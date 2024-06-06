@@ -52,7 +52,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft's New 'Recall' Feature Is Equal Parts Cool and Dangerous](https://lifehacker.com/tech/microsofts-new-recall-feature-is-equal-parts-cool-and-dangerous)
+- latest article: [Save Your Google Maps Timeline Data Before Google Deletes It](https://lifehacker.com/tech/how-to-save-your-google-maps-timeline-data)
 
 ## Packt pub free book
 <p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenCV 4 for Secret Agents. - Second Edition"</a></p>
