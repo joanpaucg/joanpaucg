@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get More Than 500 Channels for Free on Sling Freestream](https://lifehacker.com/entertainment/how-to-get-free-channels-on-sling-freestream)
+- latest article: [TikTok Myth of the Week: Raw Milk Is Good For You](https://lifehacker.com/health/is-raw-milk-is-good-for-you)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PrimeFaces Beginner's Guide"</a></p>
-<img src="https://content.packt.com/B02744/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Pro Tools HD: Advanced Techniques and Workflows"</a></p>
+<img src="https://content.packt.com/B02749/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
