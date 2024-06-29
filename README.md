@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get Microsoft Office 2019 on Sale for $25 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
+- latest article: [My Favorite Amazon Deal of the Day: Eero Mesh Wifi Router](https://lifehacker.com/tech/amazon-deal-of-the-day-eero-mesh-wifi-router)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Recurrent Neural Networks with Python Quick Start Guide"</a></p>
-<img src="https://content.packt.com/B10510/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ripple Quick Start Guide"</a></p>
+<img src="https://content.packt.com/B11485/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
