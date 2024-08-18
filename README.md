@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Today’s Wordle Hints (and Answer) for Saturday, August 17, 2024](https://lifehacker.com/entertainment/wordle-nyt-hint-today-august-17-2024)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Beginning C++ Programming"</a></p>
-<img src="https://content.packt.com/B05930/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Big Data Analytics"</a></p>
+<img src="https://content.packt.com/B05195/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
