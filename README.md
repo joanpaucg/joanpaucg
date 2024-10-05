@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Today’s Wordle Hints (and Answer) for Friday, October 4, 2024](https://lifehacker.com/entertainment/wordle-nyt-hint-today-october-4-2024)
+- latest article: [The Status of Student Loan Forgiveness Just Changed Again (Again)](https://lifehacker.com/money/the-status-of-student-loan-forgiveness-just-changed-again)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Data Visualization"</a></p>
-<img src="https://content.packt.com/B05732/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Functional Python Programming"</a></p>
+<img src="https://content.packt.com/B03652/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
