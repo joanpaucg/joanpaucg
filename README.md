@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Status of Student Loan Forgiveness Just Changed Again (Again)](https://lifehacker.com/money/the-status-of-student-loan-forgiveness-just-changed-again)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with BizTalk Services"</a></p>
-<img src="https://content.packt.com/B01018/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Citrix XenApp?? 7.6"</a></p>
+<img src="https://content.packt.com/B03633/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
