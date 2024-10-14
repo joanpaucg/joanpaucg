@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I Love This RGB Laser Projector, and It's $400 Off Right Now](https://lifehacker.com/tech/this-rgb-laser-projector-from-jmgo-was-a-bargain-and-now-its-400-cheaper)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Go Design Patterns"</a></p>
-<img src="https://content.packt.com/B05557/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gradle Effective Implementations Guide - Second Edition"</a></p>
+<img src="https://content.packt.com/B03796/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
