@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [What's New on Disney+ in November 2024](https://lifehacker.com/entertainment/new-on-disney-plus-november-2024)
+- latest article: [11 Halloween Movies That Aren't Too Scary to Watch With Your Kids](https://lifehacker.com/entertainment/best-kid-friendly-halloween-movies)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">""</a></p>
-<img src="" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Dependency Injection in Go"</a></p>
+<img src="https://content.packt.com/B10763/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
