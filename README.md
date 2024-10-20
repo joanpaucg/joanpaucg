@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Halloween Party Needs a Scary Charcuterie Board](https://lifehacker.com/food-drink/halloween-charcuterie-board-inspiration)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On High Performance with Spring 5"</a></p>
-<img src="https://content.packt.com/B09729/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Machine Learning with Azure"</a></p>
+<img src="https://content.packt.com/B10705/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
