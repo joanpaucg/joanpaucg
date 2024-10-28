@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Your Google Calendar App Is About to Get a Little Makeover](https://lifehacker.com/tech/google-calendar-material-3-update)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Heroku Cloud Application Development"</a></p>
-<img src="https://content.packt.com/B01094/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - HTML5 Canvas Cookbook"</a></p>
+<img src="https://content.packt.com/B01110/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
