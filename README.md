@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Get This USB-C Apple Pencil on Sale for $50 While Supplies Last](https://lifehacker.com/tech/apple-pencil-sale)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Implementing VMware Horizon 7.7 - Third Edition"</a></p>
-<img src="https://content.packt.com/B12281/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Industrial Internet Application Development"</a></p>
+<img src="https://content.packt.com/B07134/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
