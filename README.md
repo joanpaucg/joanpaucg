@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [You Can Get This USB-C Apple Pencil on Sale for $50 While Supplies Last](https://lifehacker.com/tech/apple-pencil-sale)
+- latest article: [The New iPad Mini 7 Is $84 Off Right Now](https://lifehacker.com/tech/ipad-mini-7-deal)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Infinispan data grid platform definitive guide"</a></p>
-<img src="https://content.packt.com/B01194/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Infusionsoft Cookbook"</a></p>
+<img src="https://content.packt.com/B01195/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
