@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Don't Delete Your X Account (Do This Instead)](https://lifehacker.com/dont-delete-your-twitter-account-do-this-instead-1849779710)
+- latest article: [Here's How to Fix the Bug Causing iPhone Notes to Disappear](https://lifehacker.com/tech/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Instant Hands-on Testing with PHPUnit How-to"</a></p>
-<img src="https://content.packt.com/B01282/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Instant Moodle Quiz Module How-to"</a></p>
+<img src="https://content.packt.com/B01339/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
