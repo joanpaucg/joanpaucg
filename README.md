@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Govee Just Recalled These Smart Heaters That May Cause Fires and Burns](https://lifehacker.com/tech/govee-recalls-smart-heaters-fire-risk)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Intelligent Projects Using Python"</a></p>
-<img src="https://content.packt.com/B10154/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Java 11 and 12 ??? New Features"</a></p>
+<img src="https://content.packt.com/B10460/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
