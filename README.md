@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [My Favorite Products for Cleaning the Bathroom](https://lifehacker.com/home/best-products-for-cleaning-the-bathroom)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux Wireless Penetration Testing Cookbook"</a></p>
-<img src="https://content.packt.com/B04092/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kali Linux: Wireless Penetration Testing Beginner's Guide, Second Edition - Second Edition"</a></p>
+<img src="https://content.packt.com/B01612/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
