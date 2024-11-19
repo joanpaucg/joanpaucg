@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [My Favorite Products for Cleaning the Bathroom](https://lifehacker.com/home/best-products-for-cleaning-the-bathroom)
+- latest article: [You Can Use Gemini to Build Google Home Automations, but Should You?](https://lifehacker.com/tech/you-can-use-gemini-to-build-google-home-automations-but-should-you)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Kivy: Interactive Applications in Python"</a></p>
-<img src="https://content.packt.com/B01622/cover_image_small.jpg" width="300">
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learn ARCore - Fundamentals of Google ARCore"</a></p>
+<img src="https://content.packt.com/B09547/cover_image_small.jpg" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
