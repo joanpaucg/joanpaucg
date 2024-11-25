@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Finally, You Can Get a Fast OLED Gaming Monitor for Just $400](https://lifehacker.com/tech/finally-you-can-get-a-fast-oled-gaming-monitor-for-just-400)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Docker - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Einstein Analytics"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
