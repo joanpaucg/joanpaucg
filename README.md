@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [TikTok Must Now Rely on Trump and the Supreme Court to Avoid a Ban](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning PowerShell DSC - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Proxmox VE"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
