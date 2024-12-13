@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Free Way to Get Around a Paywall to Read an Article (and a Few More Methods to Try)](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
+- latest article: [Ciri Takes the Lead Role in 'The Witcher 4'](https://lifehacker.com/entertainment/ciri-takes-the-lead-role-in-the-witcher-4)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Selenium Testing Tools - Third Edition - Third Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Shiny"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
