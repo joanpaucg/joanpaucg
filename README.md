@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Ciri Takes the Lead Role in 'The Witcher 4'](https://lifehacker.com/entertainment/ciri-takes-the-lead-role-in-the-witcher-4)
+- latest article: [The Bose New Soundlink Flex Is Down to Its Lowest Price (and It Arrives Before Christmas)](https://lifehacker.com/tech/bose-new-soundlink-flex-speaker-deal)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Shiny"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SQLite for iOS"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
