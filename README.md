@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Bose New Soundlink Flex Is Down to Its Lowest Price (and It Arrives Before Christmas)](https://lifehacker.com/tech/bose-new-soundlink-flex-speaker-deal)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning SQLite for iOS"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Learning Tableau"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
