@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [One of the Best ‘Budget’ OLED Smart TVs Is $400 Off (and Comes With a $100 Gift Card)](https://lifehacker.com/tech/lg-b4-oled-tv-sale)
+- latest article: [What a ‘Fart Walk’ Is, and Why You Should Take One Tonight](https://lifehacker.com/health/what-is-a-fart-walk)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - LLVM Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Magento 2 Beginners Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
