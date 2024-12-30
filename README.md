@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [15 of My Favorite Snacks to Serve at New Year's Eve Parties](https://lifehacker.com/food-drink/my-favorite-snacks-to-serve-at-new-years-eve-parties)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Business Intelligence with MicroStrategy"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering C# and .NET Framework"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
