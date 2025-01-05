@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [This Free Fill-in-the-Bubble Calendar Makes Tracking My Workouts so Satisfying](https://lifehacker.com/health/use-this-fill-in-the-bubble-calendar-to-track-workouts)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering F#"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Hadoop"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
