@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Out-of-Touch Adults' Guide to Kid Culture: What Is a 'Treatler?'](https://lifehacker.com/entertainment/what-is-treatler-out-of-touch-adults-guide-to-kid-culture)
+- latest article: [What Counts as a 'Rest Day' (and How Often You Need Them)](https://lifehacker.com/health/what-counts-as-rest-day)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering iOS 12 Programming - Third Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Java Machine Learning"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
