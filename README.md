@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [CES 2025: My Favorite (and the Worst) Gaming Tech From This Year’s Show](https://lifehacker.com/entertainment/ces-2025-best-and-worst-gaming-tech?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Matplotlib 2.x"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering MongoDB 3.x"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
