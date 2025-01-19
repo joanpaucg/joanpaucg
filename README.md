@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [How to Tell If the Police Are Investigating You](https://lifehacker.com/tech/how-to-tell-if-youre-being-investigated-by-the-cops?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Salesforce CRM Administration"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Scientific Computing with R"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
