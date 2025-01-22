@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Tell If the Police Are Investigating You](https://lifehacker.com/tech/how-to-tell-if-youre-being-investigated-by-the-cops?utm_medium=RSS)
+- latest article: [The Best Strength Training Routine for Kids (and Maybe for You, Too)](https://lifehacker.com/best-strength-training-routine-for-kids-and-teens?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microservices Development Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Microsoft SQL Server 2014 Business Intelligence Development Beginner's Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
