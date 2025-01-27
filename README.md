@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [When the JFK Assassination Files Will Be Released and Where to Read Them](https://lifehacker.com/tech/when-the-jfk-assassination-files-will-be-released-where-to-see-them?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mockito for Spring"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Modular Programming with JavaScript"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
