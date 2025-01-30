@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How to Enable (and Turn Off) Apple Intelligence on iPhone, iPad, and Mac](https://lifehacker.com/tech/how-to-enable-and-turn-off-apple-intelligence-on-iphone?utm_medium=RSS)
+- latest article: [Windows Is Expanding Its Start Menu Phone Integration to iPhones](https://lifehacker.com/tech/windows-is-expanding-its-start-menu-phone-integration-to-iphones?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - MySQL 8 for Big Data"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nagios Core Administration Cookbook Second Edition - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
