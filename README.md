@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Windows Is Expanding Its Start Menu Phone Integration to iPhones](https://lifehacker.com/tech/windows-is-expanding-its-start-menu-phone-integration-to-iphones?utm_medium=RSS)
+- latest article: [How to Change the Top Speed of and Aventon Pace 500.3](https://lifehacker.com/tech/how-to-change-the-top-speed-of-and-aventon-pace-5003?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Nagios Core Administration Cookbook Second Edition - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Mastering Spring 5.0"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
