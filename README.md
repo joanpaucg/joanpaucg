@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: ['The You You Are' From Severance Is Real, and I Read It](https://lifehacker.com/entertainment/the-you-you-are-from-severance-is-real-and-i-read-it?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - OpenLayers 3.x Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle APEX Cookbook : Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
