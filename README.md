@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: ['The You You Are' From Severance Is Real, and I Read It](https://lifehacker.com/entertainment/the-you-you-are-from-severance-is-real-and-i-read-it?utm_medium=RSS)
+- latest article: [Elon Musk Offered to Buy OpenAI for an Absurd Amount of Money](https://lifehacker.com/tech/elon-musk-offered-to-buy-openai-for-an-absurd-amount-of-money?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle Database 12c Backup and Recovery Survival Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle Database 12c Security Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
