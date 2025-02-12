@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Elon Musk Offered to Buy OpenAI for an Absurd Amount of Money](https://lifehacker.com/tech/elon-musk-offered-to-buy-openai-for-an-absurd-amount-of-money?utm_medium=RSS)
+- latest article: [Apple's Powerbeats Pro 2 Have a Built-In Heart Rate Monitor](https://lifehacker.com/tech/powerbeats-pro-2-built-in-heart-rate-monitor?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Oracle Database 12c Security Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Parallel Programming with Python"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
