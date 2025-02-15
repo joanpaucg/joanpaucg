@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why the Tips of Your Plant’s Leaves Turned Brown, and How to Fix It](https://lifehacker.com/why-the-tips-of-your-plants-leaves-turned-brown?utm_medium=RSS)
+- latest article: [My Favorite Amazon Deal of the Day: The Samsung Galaxy Book 4 Pro](https://lifehacker.com/tech/samsung-galaxy-book-4-pro-sale-amazon?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Pentaho Data Integration Quick Start Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - phpMyAdmin Starter"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
