@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [My Favorite Amazon Deal of the Day: The Samsung Galaxy Book 4 Pro](https://lifehacker.com/tech/samsung-galaxy-book-4-pro-sale-amazon?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Play Framework essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PostgreSQL 10 Administration Cookbook - Fourth Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
