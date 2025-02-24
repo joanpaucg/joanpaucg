@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here's How Four Major Newsrooms Are Using AI](https://lifehacker.com/tech/how-major-newsrooms-are-using-ai?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - PrestaShop Module Development"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Professional SQL Server High Availability and Disaster Recovery"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
