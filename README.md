@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [My Favorite Apps to Make Studying Less Painful](https://lifehacker.com/tech/best-apps-for-studying?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Business Intelligence Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Data Science Essentials - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
