@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I Tried Prime Video's New AI Dubbing, and I Have Thoughts](https://lifehacker.com/tech/prime-video-ai-dubbing-beta?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Network Programming Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Python Reinforcement Learning Projects"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
