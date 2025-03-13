@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Apple Has Issued a Security Patch in Response to an ‘Extremely Sophisticated Attack’](https://lifehacker.com/tech/apple-released-new-security-patch?utm_medium=RSS)
+- latest article: [This 75-inch LG Smart TV Is on Sale for $450](https://lifehacker.com/tech/this-75-inch-lg-smart-tv-is-450-right-now?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Data Mining"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - R Data Structures and Algorithms"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
