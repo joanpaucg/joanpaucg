@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Can Get a Lifetime of AdGuard's Family Plan on Sale for Just $16 Right Now](https://lifehacker.com/tech/adguard-stacksocial-sale?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - RabbitMQ Essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Raspberry Pi Home Automation with Arduino - Second Edition - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
