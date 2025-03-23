@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Samsung Galaxy Buds 3 Are $99 Right Now](https://lifehacker.com/tech/samsung-galaxy-buds-3-deal?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Redash v5 Quick Start Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Refactoring TypeScript"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
