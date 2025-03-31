@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Best Deals on Tech During the Spring Sale Season](https://lifehacker.com/tech/best-spring-sale-tech-deals?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Selenium Testing Tools Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Serverless Architectures with Kubernetes"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
