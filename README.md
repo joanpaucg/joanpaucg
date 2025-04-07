@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I Tested Five Egg Replacements for Cake, and There Was a Clear Winner](https://lifehacker.com/food-drink/best-egg-replacement-cake-baking?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Squid Proxy Server 3.1: Beginner's Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Swift iOS Programming for Kids"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
