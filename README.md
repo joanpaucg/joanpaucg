@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why You Shouldn’t ‘Panic Buy’ in the Face of Tariffs](https://lifehacker.com/tech/should-you-buy-new-tech-before-tariffs-raise-prices?utm_medium=RSS)
+- latest article: [You Can Bring Back One-Tap 'Do Not Disturb' to Your Google Pixel](https://lifehacker.com/tech/you-can-bring-back-one-tap-do-not-disturb-to-your-google-pixel?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Tcl/Tk 8.5 Programming Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - TensorFlow 2.0 Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
