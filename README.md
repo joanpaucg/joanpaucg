@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Why Siri's AI Upgrades Keep Getting Pushed Back](https://lifehacker.com/tech/siris-apple-intelligence-upgrade-status?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Teradata Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Test-Driven Java Development"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
