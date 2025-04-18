@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Google No Longer Supports Android 12 or Android 12L](https://lifehacker.com/tech/google-ending-support-for-android-12?utm_medium=RSS)
+- latest article: [This Is the Best Free Weather App for Windows](https://lifehacker.com/tech/lively-weather-app-review?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Understanding TCP/IP"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Unity Android Game Development by Example Beginner's Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
