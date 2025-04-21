@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [You Should Try Instagram's New 'Blend' Feature for a Custom Reels Feed](https://lifehacker.com/tech/how-to-use-instagrams-blend-feature?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Using OpenRefine"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - UX for the Web"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
