@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Harper Is an Offline Alternative to Grammarly for Obsidian](https://lifehacker.com/tech/harper-offline-alternative-to-grammarly?utm_medium=RSS)
+- latest article: [Here's When (and How) You'll Need to Start Repaying Your Student Loans](https://lifehacker.com/money/when-and-how-you-need-to-start-paying-your-student-loans-again?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vRealize Orchestrator Essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - VMware vSphere 5.5 Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
