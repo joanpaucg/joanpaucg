@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Why the New GameCube Controller for Switch 2 Might Not Be Such a Good Idea After All](https://lifehacker.com/tech/switch-2-gamecube-controller-limitations?utm_medium=RSS)
+- latest article: [Here's How the Switch 2 Specs Compare to the Original](https://lifehacker.com/tech/switch-2-specs-compared-to-switch-1?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Wearable-Tech Projects with the Raspberry Pi Zero"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Application Development with R Using Shiny Second Edition - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
