@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Here's How the Switch 2 Specs Compare to the Original](https://lifehacker.com/tech/switch-2-specs-compared-to-switch-1?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Application Development with R Using Shiny Second Edition - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Web Development with Jade"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
