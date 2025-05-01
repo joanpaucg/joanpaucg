@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Try This Mac-Based Notepad Alternative to Give Your Sticky Notes Superpowers](https://lifehacker.com/tech/try-this-mac-based-notepad-alternative-to-give-your-stick-notes-superpowers?utm_medium=RSS)
+- latest article: [Google Just Launched an AI-Powered Duolingo Alternative](https://lifehacker.com/tech/google-launches-an-ai-powered-duolingo-alternative?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WebRTC Blueprints"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - WildFly Configuration, Deployment, and Administration - Second Edition - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
