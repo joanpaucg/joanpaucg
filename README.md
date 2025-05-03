@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Google's Gemini App Is Getting AI Image Editing](https://lifehacker.com/tech/google-gemini-app-is-getting-ai-image-editing?utm_medium=RSS)
+- latest article: [Lyft’s New ‘Silver’ Accounts Should Make Hailing a Rideshare Easier for Older Passengers](https://lifehacker.com/travel/lyft-is-making-it-easier-for-older-riders?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Windows Server 2016 Automation with PowerShell Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Wireshark Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
