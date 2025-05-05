@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Lyft’s New ‘Silver’ Accounts Should Make Hailing a Rideshare Easier for Older Passengers](https://lifehacker.com/travel/lyft-is-making-it-easier-for-older-riders?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Working with Odoo 10 - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Working with Odoo 11 - Third Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
