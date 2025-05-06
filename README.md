@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Lyft’s New ‘Silver’ Accounts Should Make Hailing a Rideshare Easier for Older Passengers](https://lifehacker.com/travel/lyft-is-making-it-easier-for-older-riders?utm_medium=RSS)
+- latest article: [Here’s Why Microsoft Is Ditching Passwords for New Accounts](https://lifehacker.com/tech/microsoft-is-ditching-passwords-for-new-accounts?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Working with Odoo 11 - Third Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Zabbix Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
