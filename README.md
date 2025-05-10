@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Five Ways to Get More Out of Letterboxd](https://lifehacker.com/entertainment/how-to-get-more-out-of-letterboxd?utm_medium=RSS)
+- latest article: [Two-Factor Authentication Can Fail You, but You Can Make It More Secure](https://lifehacker.com/tech/two-factor-authentication-can-fail-you?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Node.js Development"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Penetration Testing for Highly-Secured Environments, Second Edition - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
