@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Two-Factor Authentication Can Fail You, but You Can Make It More Secure](https://lifehacker.com/tech/two-factor-authentication-can-fail-you?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced Splunk"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Advanced UFT 12 for Test Engineers Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
