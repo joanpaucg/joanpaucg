@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Did Apple Kill Liquid Glass in the Third iOS 26 Developer Beta?](https://lifehacker.com/tech/the-biggest-features-and-changes-in-ios-26-beta-3?utm_medium=RSS)
+- latest article: [The GoPro Hero 12 Black Is Still $90 Off at Amazon](https://lifehacker.com/tech/the-gopro-hero-12-black-is-still-at-its-prime-day-price?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Clojure Web Development Essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CMS Made Simple 1.6: Beginner's Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
