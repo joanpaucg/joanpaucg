@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card](https://lifehacker.com/tech/samsung-galaxy-z-fold7-amazon-preorder?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Computer Vision Projects with OpenCV and Python 3"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Containers in OpenStack"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
