@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Coros Watches Just Got a Bunch of New Features I've Wanted for a While](https://lifehacker.com/health/coros-watches-new-features?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CryENGINE 3 Game Development: Beginner's Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - CryEngine Game Development Blueprints"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
