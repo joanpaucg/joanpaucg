@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How I Choose a Good Sweat-Resistant Sunscreen for My Workouts](https://lifehacker.com/how-i-choose-a-sweat-resistant-sunscreen-for-my-workouts?utm_medium=RSS)
+- latest article: [Apple's Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome](https://lifehacker.com/tech/apple-security-patch-fixes-chrome-vulnerability?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Analysis with STATA"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Center Virtualization Certification: VCP6.5-DCV Exam Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
