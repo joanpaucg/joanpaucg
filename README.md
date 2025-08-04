@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Apple's Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome](https://lifehacker.com/tech/apple-security-patch-fixes-chrome-vulnerability?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Science with SQL Server Quick Start Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Data Visualization with D3.js Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
