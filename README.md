@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [I Traded My Garmin for a Coros Fitness Watch, and Here’s What I Loved (and Hated)](https://lifehacker.com/health/i-switched-from-garmin-to-coros-for-the-summer?utm_medium=RSS)
+- latest article: [What Is Hyrox, and Why Is Everyone Suddenly Doing It?](https://lifehacker.com/health/what-is-hyrox-fitness-competition?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Learning Essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
