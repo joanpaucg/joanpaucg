@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [I Ran OpenAI's 'Open-Weight' Model on My Laptop (but I Wouldn't Recommend It)](https://lifehacker.com/tech/openai-open-weight-model?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Designing Machine Learning Systems with Python"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Developing Middleware in Java EE 8"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
