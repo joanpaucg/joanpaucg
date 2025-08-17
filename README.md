@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [If You Have One of These ESR Power Banks, Stop Using It ASAP](https://lifehacker.com/tech/esr-power-bank-recall?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker Cookbook - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Docker Networking Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
