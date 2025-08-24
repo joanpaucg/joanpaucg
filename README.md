@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [These Are the Best Deals on Video Games and Gaming Accessories This Labor Day](https://lifehacker.com/entertainment/best-video-game-deals-labor-day-2025?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - DynamoDB Applied Design Patterns"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ECMAScript Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
