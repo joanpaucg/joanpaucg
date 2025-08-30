@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Labor Day Deals on Phones, Laptops, TVs, and More](https://lifehacker.com/tech/phone-laptop-tv-headphones-sales-labor-day-2025?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Ember.js Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Emotional Intelligence for IT Professionals"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
