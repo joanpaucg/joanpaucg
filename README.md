@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The M4 MacBook Pro Is $300 Off for Labor Day](https://lifehacker.com/tech/m4-macbook-pro-labor-day-2025?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert AWS Development"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Expert Cube Development with Microsoft SQL Server 2008 Analysis Services"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
