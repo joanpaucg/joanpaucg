@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best TV Deals Right Now](https://lifehacker.com/tech/best-tv-deals-right-now?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Extending Microsoft Dynamics 365 for Operations Cookbook"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Extending Puppet - Second Edition"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
