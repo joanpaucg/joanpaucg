@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Some iPhone Users Are Getting Another Year of Free Satellite Features](https://lifehacker.com/tech/apple-iphone-users-getting-another-year-of-free-satellite-features?utm_medium=RSS)
+- latest article: [We Already Know How Much Faster the iPhone 17 Is](https://lifehacker.com/tech/we-already-know-how-much-faster-the-iphone-17-is?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - F# 4.0 Design Patterns"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Force.com Enterprise Architecture"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
