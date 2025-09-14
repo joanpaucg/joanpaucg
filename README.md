@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses](https://lifehacker.com/tech/meta-smart-watch-prada-rumors?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - FreeSWITCH 1.2 - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Full Stack Development with JHipster"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
