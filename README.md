@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses](https://lifehacker.com/tech/meta-smart-watch-prada-rumors?utm_medium=RSS)
+- latest article: [How to Turn On Apple's New 'Wrist Flick' Gesture in watchOS 26](https://lifehacker.com/tech/how-to-turn-on-apples-new-wrist-flick-feature-in-watchos-26?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Full Stack Web Development with Raspberry Pi 3"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - GeoServer Cookbook"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
