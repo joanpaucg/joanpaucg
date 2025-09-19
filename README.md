@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Garmin’s Venu 4 Has a New Fitness Coach and a Flashlight](https://lifehacker.com/health/garmin-new-venu-4-watch?utm_medium=RSS)
+- latest article: [Garmin Took One of Whoop’s Best Features, and You Don’t Need a New Watch to Use It](https://lifehacker.com/health/garmin-whoop-feature-lifestyle-logging?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Electronic Projects"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Ghost"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
