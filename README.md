@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Microsoft Is Raising Xbox Prices Again](https://lifehacker.com/entertainment/xbox-is-raising-the-prices-of-it-consoles-again?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Hazelcast, Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Ionic"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
