@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Microsoft Is Raising Xbox Prices Again](https://lifehacker.com/entertainment/xbox-is-raising-the-prices-of-it-consoles-again?utm_medium=RSS)
+- latest article: [This Onn 10.1" Android 14 Tablet Is on Sale for Just $80 Right Now](https://lifehacker.com/tech/onn-101-android-tablet-stacksocial-sale?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Oracle WebLogic Server 12c: Developer's Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting Started with Spiceworks"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
