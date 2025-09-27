@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [Try This Setting to Improve Your Battery Life in iOS 26](https://lifehacker.com/tech/try-the-adaptive-power-setting-to-improve-battery-life-in-ios-26?utm_medium=RSS)
+- latest article: [Safari Is More Private Than Ever in iOS 26](https://lifehacker.com/tech/safari-privacy-updates-ios-26?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Getting started with Udoo"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ggplot2 Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
