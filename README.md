@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Safari Is More Private Than Ever in iOS 26](https://lifehacker.com/tech/safari-privacy-updates-ios-26?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - ggplot2 Essentials"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Gitolite Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
