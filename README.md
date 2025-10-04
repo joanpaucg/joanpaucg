@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [If You Can't Activate iMessage After Updating to iOS 26, Try This](https://lifehacker.com/tech/imessage-activation-problems-ios-26?utm_medium=RSS)
+- latest article: [What You Get With Each of Whoop's Pricing Tiers](https://lifehacker.com/health/whoop-launches-its-50-and-mg-hardware-and-adds-pricing-tiers?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google SketchUp for Game Design: Beginner's Guide"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Google Visualization API Essentials"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
