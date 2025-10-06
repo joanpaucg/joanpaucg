@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [What You Get With Each of Whoop's Pricing Tiers](https://lifehacker.com/health/whoop-launches-its-50-and-mg-hardware-and-adds-pricing-tiers?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hadoop MapReduce v2 Cookbook - Second Edition: RAW - Second Edition"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Artificial Intelligence for Beginners"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
