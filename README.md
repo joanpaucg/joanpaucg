@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [The Best Tech Deals From Walmart ‘Deals’ Sale](https://lifehacker.com/money/walmart-announces-competition-sale-to-rival-prime-day?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Data Structures and Algorithms with JavaScript"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Deep Learning Architectures with Python"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
