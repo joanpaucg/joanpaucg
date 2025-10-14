@@ -52,10 +52,10 @@ const joanpau = {
 
 ## Github action for LifeHacker
 <p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [The Best Tech Deals From Walmart ‘Deals’ Sale](https://lifehacker.com/money/walmart-announces-competition-sale-to-rival-prime-day?utm_medium=RSS)
+- latest article: [You Can Now Hide Sponsored Ads in Google Search](https://lifehacker.com/tech/you-can-now-hide-google-search-ads?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Deep Learning with TensorFlow"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Ensemble Learning with R"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
