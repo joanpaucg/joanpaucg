@@ -55,7 +55,7 @@ const joanpau = {
 - latest article: [Meta’s Upcoming AI Parental Controls Are Too Little, Too Late](https://lifehacker.com/tech/meta-ai-parental-controls-too-little-too-late?utm_medium=RSS)
 
 ## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Object-Oriented Programming with Kotlin"</a></p>
+<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hands-On Serverless Computing"</a></p>
 <img src="" width="300">
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
