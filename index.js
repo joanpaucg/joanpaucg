@@ -7,21 +7,30 @@ const LATEST_ARTICLE_PLACEHOLDER="{{latest-article}}";
 const LATEST_BOOKNAME_PLACEHOLDER="{{free-book}}";
 const LATEST_BOOKIMAGE_PLACEHOLDER="{{image-book}}";
 async function scrapeBook () {
-
-    bookResult= await scrapeIt("https://www.packtpub.com/free-learning", {
-        bookName:{
-            selector: ".product-info__image img"
-            , attr: "alt"
+  const result = await scrapeIt("https://www.packtpub.com/free-learning", {
+    bookName: {
+      selector: ".product-info__image img",
+      attr: "alt"
+    },
+    bookImage: {
+      selector: ".product-info__image img",
+      attr: "data-cfsrc",
+      // como fallback, si data-cfsrc no existe, leer el src
+      convert: (value, elm) => {
+        if (value && value.length > 0) {
+          return value;
         }
-        ,
-        bookImage: {
-            selector: ".product-info__image img"
-            , attr: "data-cfsrc"
-        }
-    })
-    console.log("scrapeBook",bookResult.data);
-    return {bookName:bookResult.data.bookName,bookImage:bookResult.data.bookImage};
+        // intentar leer el atributo src
+        return elm.attr("src") || "";
+      }
+    }
+  });
 
+  console.log("scrapeBook", result.data);
+  return {
+    bookName: result.data.bookName,
+    bookImage: result.data.bookImage
+  };
 }
 (async () => {
 

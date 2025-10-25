@@ -71,7 +71,7 @@ const joanpau = {
 ### 📘 Free PacktPub Book
 > *Free eBook - Hybrid Cloud for Architects*  
 <p align="center">
-  <img src="" width="250">
+  <img src="https://content.packt.com/B09351/cover_image_small.jpg" width="250">
 </p>
 
 
