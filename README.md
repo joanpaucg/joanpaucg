@@ -16,46 +16,63 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hello world, I'm Joan Pau Castells Gasia </h2>
-<img align='right' src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="400">
-<p><em>Software Enginner at <a href="http://www.eps.udl.cat/ca/">University of Lleida</a><img src="https://media.giphy.com/media/iIkXU8p4YXQlJhZEya/giphy.gif" width="60"></br>
-</em></p>
+<h1 align="center">👋 Hello World, I'm <span style="color:#6C63FF;">Joan Pau Castells Gasia</span></h1>
+<h3 align="center">Software Engineer | Backend & Data Enthusiast | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="300">
+</p>
 
-[![Linkedin: joanpaucastellsgasia](https://img.shields.io/badge/-joanpaucastellsgasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)](https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/)
-[![GitHub joanpaucg](https://img.shields.io/github/followers/joanpaucg?label=follow&style=social)](https://github.com/joanpaucg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/joan-pau-castells-gasia-58283b13b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/joanpaucg"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 
-## Programming skills <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+
+<h2>🧠 Programming Skills</h2>
 
 ```javascript
 const joanpau = {
-  pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [Angular,Node,Docker,Apache Spark,Spring],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- keywords: "Competitive,Passionate,Worker"
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"],
+  tools: ["Angular", "Node.js", "Docker", "Apache Spark", "Spring"],
+  architecture: ["Microservices", "Event-driven", "Design Systems"],
+  traits: ["Competitive", "Passionate", "Hard-working"]
 }
 ```
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+</p>
 
 ## My Stats
-[![Joan Pau's github stats](https://github-readme-stats.vercel.app/api?username=joanpaucg&show_icons=true&theme=dracula)](https://github.com/joanpaucg/joanpaucg)
-
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joanpaucg&langs_count=5&theme=dracula)](https://github.com/joanpaucg/joanpaucg)
-
-
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="200"> <em><b>I love programming and running</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joanpaucg&show_icons=true&theme=dracula" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanpaucg&layout=compact&theme=dracula" height="165">
+</p>
 
 ---
 
 
 
 ## Github action for LifeHacker
-<p><em>This is the latest article from:</em> <a href="https://lifehacker.com/">Life Hacker</a></p>
-- latest article: [How I Used Smart Glasses to Trick a Bartender Into Giving Me a Free Drink](https://lifehacker.com/tech/used-smart-glasses-to-trick-a-bartender?utm_medium=RSS)
+### 📰 Latest from LifeHacker
+> *[How I Used Smart Glasses to Trick a Bartender Into Giving Me a Free Drink](https://lifehacker.com/tech/used-smart-glasses-to-trick-a-bartender?utm_medium=RSS)*  
+🔗 [Read more](https://lifehacker.com/)
 
-## Packt pub free book
-<p><em>This is the latest free book from:</em> <a href="https://www.packtpub.com/free-learning">"Free eBook - Hybrid Cloud for Architects"</a></p>
-<img src="" width="300">
+---
+
+### 📘 Free PacktPub Book
+> *Free eBook - Hybrid Cloud for Architects*  
+<p align="center">
+  <img src="" width="250">
+</p>
+
 
 ⭐️ From [@joanpaucg](https://github.com/joanpaucg)
