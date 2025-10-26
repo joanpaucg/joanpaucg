@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Hybrid Cloud for Architects*  
+> *Free eBook - Hybrid Cloud for Developers*  
 <p align="center">
-  <img src="https://content.packt.com/B09351/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B09541/cover_image_small.jpg" width="250">
 </p>
 
 
