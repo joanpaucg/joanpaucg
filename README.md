@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[How I Used Smart Glasses to Trick a Bartender Into Giving Me a Free Drink](https://lifehacker.com/tech/used-smart-glasses-to-trick-a-bartender?utm_medium=RSS)*  
+> *[This 2-in-1 Microsoft Surface Pro 7 Is on Sale for Just $660 Right Now](https://lifehacker.com/tech/microsoft-surface-pro-7-stacksocial-sale-october-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Hybrid Mobile Development with Ionic*  
+> *Free eBook - Hyper-V 2016 Best Practices*  
 <p align="center">
-  <img src="https://content.packt.com/B04777/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05130/cover_image_small.jpg" width="250">
 </p>
 
 
