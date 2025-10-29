@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This 2-in-1 Microsoft Surface Pro 7 Is on Sale for Just $660 Right Now](https://lifehacker.com/tech/microsoft-surface-pro-7-stacksocial-sale-october-2025?utm_medium=RSS)*  
+> *[Elon Musk’s 'Grokipedia' Is Certainly No Wikipedia](https://lifehacker.com/tech/grokipedia-is-real-and-you-should-not-use-it?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Hyper-V 2016 Best Practices*  
+> *Free eBook - IBM Lotus Domino: Classic Web Application Development Techniques*  
 <p align="center">
-  <img src="https://content.packt.com/B05130/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01144/cover_image_small.jpg" width="250">
 </p>
 
 
