@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Elon Musk’s 'Grokipedia' Is Certainly No Wikipedia](https://lifehacker.com/tech/grokipedia-is-real-and-you-should-not-use-it?utm_medium=RSS)*  
+> *[Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses](https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - IBM Lotus Domino: Classic Web Application Development Techniques*  
+> *Free eBook - IBM Watson Projects*  
 <p align="center">
-  <img src="https://content.packt.com/B01144/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B10918/cover_image_small.jpg" width="250">
 </p>
 
 
