@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses](https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS)*  
+> *[Google Says Androids Get 58% Fewer Scam Texts Than iPhones, but I Have Some Questions](https://lifehacker.com/tech/google-study-claims-android-gets-fewer-scam-texts-than-iphone?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - IBM Watson Projects*  
+> *Free eBook - Implementing Modern DevOps*  
 <p align="center">
-  <img src="https://content.packt.com/B10918/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05704/cover_image_small.jpg" width="250">
 </p>
 
 
