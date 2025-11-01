@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google Says Androids Get 58% Fewer Scam Texts Than iPhones, but I Have Some Questions](https://lifehacker.com/tech/google-study-claims-android-gets-fewer-scam-texts-than-iphone?utm_medium=RSS)*  
+> *[How Apple Plans to Improve AI Image Editors](https://lifehacker.com/tech/apple-improving-ai-image-editors?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Implementing Modern DevOps*  
+> *Free eBook - Implementing Qlik Sense*  
 <p align="center">
-  <img src="https://content.packt.com/B05704/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05648/cover_image_small.jpg" width="250">
 </p>
 
 
