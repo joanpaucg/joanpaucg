@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Implementing VMware Horizon 7 - Second Edition*  
+> *Free eBook - Installation, Storage, and Compute with Windows Server 2016: Microsoft 70-740 MCSA Exam Guide*  
 <p align="center">
-  <img src="https://content.packt.com/B05333/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B13889/cover_image_small.jpg" width="250">
 </p>
 
 
