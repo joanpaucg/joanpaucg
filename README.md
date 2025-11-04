@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[How Apple Plans to Improve AI Image Editors](https://lifehacker.com/tech/apple-improving-ai-image-editors?utm_medium=RSS)*  
+> *[The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now](https://lifehacker.com/tech/anker-soundcore-sport-x20-earbud-deal?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Installation, Storage, and Compute with Windows Server 2016: Microsoft 70-740 MCSA Exam Guide*  
+> *Free eBook - Instant Apache Camel Messaging System*  
 <p align="center">
-  <img src="https://content.packt.com/B13889/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01210/cover_image_small.jpg" width="250">
 </p>
 
 
