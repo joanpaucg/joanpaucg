@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now](https://lifehacker.com/tech/anker-soundcore-sport-x20-earbud-deal?utm_medium=RSS)*  
+> *[You Can Vote in TikTok's First-Ever US Awards Show](https://lifehacker.com/entertainment/tiktok-us-awards-show?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant Apache Camel Messaging System*  
+> *Free eBook - Instant Apple Configurator How-to*  
 <p align="center">
-  <img src="https://content.packt.com/B01210/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01220/cover_image_small.jpg" width="250">
 </p>
 
 
