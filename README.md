@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can Vote in TikTok's First-Ever US Awards Show](https://lifehacker.com/entertainment/tiktok-us-awards-show?utm_medium=RSS)*  
+> *[Google Just Blocked 749 Million URLs for Anna’s Archive](https://lifehacker.com/tech/google-blocks-749-million-annas-archive-urls?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant Apple Configurator How-to*  
+> *Free eBook - Instant Handlebars.js*  
 <p align="center">
-  <img src="https://content.packt.com/B01220/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01281/cover_image_small.jpg" width="250">
 </p>
 
 
