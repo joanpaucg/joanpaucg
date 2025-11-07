@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google Just Blocked 749 Million URLs for Anna’s Archive](https://lifehacker.com/tech/google-blocks-749-million-annas-archive-urls?utm_medium=RSS)*  
+> *[The FBI Is Targeting the Popular Anti-Paywall Site Archive.Today](https://lifehacker.com/tech/the-fbi-is-targeting-popular-anti-paywall-site-archiveis?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant Handlebars.js*  
+> *Free eBook - Instant jQuery 2.0 Table Manipulation How-to*  
 <p align="center">
-  <img src="https://content.packt.com/B01281/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01300/cover_image_small.jpg" width="250">
 </p>
 
 
