@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The FBI Is Targeting the Popular Anti-Paywall Site Archive.Today](https://lifehacker.com/tech/the-fbi-is-targeting-popular-anti-paywall-site-archiveis?utm_medium=RSS)*  
+> *[You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now](https://lifehacker.com/tech/microsoft-surface-book-3-stacksocial-sale-november-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant jQuery 2.0 Table Manipulation How-to*  
+> *Free eBook - Instant jQuery Flot Visual Data Analysis*  
 <p align="center">
-  <img src="https://content.packt.com/B01300/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01303/cover_image_small.jpg" width="250">
 </p>
 
 
