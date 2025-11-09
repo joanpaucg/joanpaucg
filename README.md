@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant jQuery Flot Visual Data Analysis*  
+> *Free eBook - Instant OpenLayers Starter*  
 <p align="center">
-  <img src="https://content.packt.com/B01303/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01354/cover_image_small.jpg" width="250">
 </p>
 
 
