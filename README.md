@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant OpenLayers Starter*  
+> *Free eBook - Instant Parallel Processing with Gearman*  
 <p align="center">
-  <img src="https://content.packt.com/B01354/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01362/cover_image_small.jpg" width="250">
 </p>
 
 
