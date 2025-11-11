@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now](https://lifehacker.com/tech/microsoft-surface-book-3-stacksocial-sale-november-2025?utm_medium=RSS)*  
+> *[You Can Get the Microsoft Surface Laptop 3 on Sale for Under $400 Right Now](https://lifehacker.com/tech/microsofts-surface-laptop-3-stacksocial-sale-november-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant Parallel Processing with Gearman*  
+> *Free eBook - Instant PLC Programming with RSLogix 5000*  
 <p align="center">
-  <img src="https://content.packt.com/B01362/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01371/cover_image_small.jpg" width="250">
 </p>
 
 
