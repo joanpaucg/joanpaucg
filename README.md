@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now](https://lifehacker.com/tech/lenovo-ideapad-5-touch-stacksocial-sale-november-2025?utm_medium=RSS)*  
+> *[This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now](https://lifehacker.com/tech/jbl-charge-6-deal?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant SASS CSS How-to*  
+> *Free eBook - Instant Slic3r*  
 <p align="center">
-  <img src="https://content.packt.com/B01394/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01401/cover_image_small.jpg" width="250">
 </p>
 
 
