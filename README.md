@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now](https://lifehacker.com/tech/jbl-charge-6-deal?utm_medium=RSS)*  
+> *[You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50](https://lifehacker.com/tech/dragon-g3x-ultra-gaming-headset-stacksocial-sale-november-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant Slic3r*  
+> *Free eBook - Instant XenMobile MDM*  
 <p align="center">
-  <img src="https://content.packt.com/B01401/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01436/cover_image_small.jpg" width="250">
 </p>
 
 
