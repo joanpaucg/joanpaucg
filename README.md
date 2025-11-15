@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50](https://lifehacker.com/tech/dragon-g3x-ultra-gaming-headset-stacksocial-sale-november-2025?utm_medium=RSS)*  
+> *[Beware These Black Friday Shopping Scams](https://lifehacker.com/money/beware-these-black-friday-shopping-scams?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Instant XenMobile MDM*  
+> *Free eBook - Intelligent Document Capture with Ephesoft, Second Edition - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01436/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04748/cover_image_small.jpg" width="250">
 </p>
 
 
