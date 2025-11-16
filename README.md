@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Intelligent Document Capture with Ephesoft, Second Edition - Second Edition*  
+> *Free eBook - Internet Marketing with WordPress*  
 <p align="center">
-  <img src="https://content.packt.com/B04748/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01447/cover_image_small.jpg" width="250">
 </p>
 
 
