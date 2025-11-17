@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Internet Marketing with WordPress*  
+> *Free eBook - Internet of Things with Python*  
 <p align="center">
-  <img src="https://content.packt.com/B01447/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05042/cover_image_small.jpg" width="250">
 </p>
 
 
