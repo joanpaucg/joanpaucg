@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Beware These Black Friday Shopping Scams](https://lifehacker.com/money/beware-these-black-friday-shopping-scams?utm_medium=RSS)*  
+> *[What to Wear to Run in the Cold](https://lifehacker.com/health/what-to-wear-to-run-in-the-cold?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Internet of Things with Python*  
+> *Free eBook - iOS Application Development with OpenCV 3*  
 <p align="center">
-  <img src="https://content.packt.com/B05042/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04219/cover_image_small.jpg" width="250">
 </p>
 
 
