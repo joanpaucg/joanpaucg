@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[All the New Features Coming to iOS 26.2](https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS)*  
+> *[This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever](https://lifehacker.com/tech/m4-macbook-air-black-friday-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - iOS Game Development By Example*  
+> *Free eBook - IPython Notebook Essentials*  
 <p align="center">
-  <img src="https://content.packt.com/B04201/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01467/cover_image_small.jpg" width="250">
 </p>
 
 
