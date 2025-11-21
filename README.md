@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever](https://lifehacker.com/tech/m4-macbook-air-black-friday-2025?utm_medium=RSS)*  
+> *[Oura Is Suing More Smart Ring Makers](https://lifehacker.com/health/oura-is-suing-these-smart-ring-makers?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - IPython Notebook Essentials*  
+> *Free eBook - Jasmine Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B01467/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03787/cover_image_small.jpg" width="250">
 </p>
 
 
