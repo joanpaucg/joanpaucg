@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Oura Is Suing More Smart Ring Makers](https://lifehacker.com/health/oura-is-suing-these-smart-ring-makers?utm_medium=RSS)*  
+> *[Black Friday Deals Live Blog 2025: Best Early Black Friday Sales, All in One Place](https://lifehacker.com/best-early-black-friday-deals-live-blog-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Jasmine Cookbook*  
+> *Free eBook - JasperReports for Java Developers*  
 <p align="center">
-  <img src="https://content.packt.com/B03787/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01481/cover_image_small.jpg" width="250">
 </p>
 
 
