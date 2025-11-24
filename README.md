@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Java 9 Programming By Example*  
+> *Free eBook - Java Data Science Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B05673/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05916/cover_image_small.jpg" width="250">
 </p>
 
 
