@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Black Friday Deals Live Blog 2025: Best Early Black Friday Sales, All in One Place](https://lifehacker.com/best-early-black-friday-deals-live-blog-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
+> *[You Can Save $100 on a PlayStation 5 Ahead of Black Friday](https://lifehacker.com/tech/save-100-on-a-playstation-5-ahead-of-black-friday?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Java Data Science Cookbook*  
+> *Free eBook - Java Deep Learning Essentials*  
 <p align="center">
-  <img src="https://content.packt.com/B05916/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04779/cover_image_small.jpg" width="250">
 </p>
 
 
