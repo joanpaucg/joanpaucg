@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Black Friday Tech Deals Live Blog 2025: Early Discounts on Phones, Laptops, and More](https://lifehacker.com/tech/early-black-friday-tech-deals-2025-live-blog?utm_medium=RSS)*  
+> *[13 Easy Ways to Winterize Your House and Lower Your Utility Bills](https://lifehacker.com/home/easy-ways-to-winterize-house-lower-utility-bills?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Java EE 7 Development with NetBeans 8 - Third Edition*  
+> *Free eBook - Java EE 7 Development with WildFly*  
 <p align="center">
-  <img src="https://content.packt.com/B01492/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01493/cover_image_small.jpg" width="250">
 </p>
 
 
