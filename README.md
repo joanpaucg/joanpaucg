@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[13 Easy Ways to Winterize Your House and Lower Your Utility Bills](https://lifehacker.com/home/easy-ways-to-winterize-house-lower-utility-bills?utm_medium=RSS)*  
+> *[The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale](https://lifehacker.com/tech/oneplus-13-early-black-friday-deal-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Java EE 7 Development with WildFly*  
+> *Free eBook - Java EE 8 Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B01493/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B07947/cover_image_small.jpg" width="250">
 </p>
 
 
