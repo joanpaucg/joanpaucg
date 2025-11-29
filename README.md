@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale](https://lifehacker.com/tech/oneplus-13-early-black-friday-deal-2025?utm_medium=RSS)*  
+> *[For Black Friday, You Can Get a One-Year BJ's Membership for Just $15](https://lifehacker.com/bjs-membership-stacksocial-sale-black-friday-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Java EE 8 Cookbook*  
+> *Free eBook - JavaScript and JSON Essentials - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B07947/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B09376/cover_image_small.jpg" width="250">
 </p>
 
 
