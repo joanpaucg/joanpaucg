@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JavaScript and JSON Essentials - Second Edition*  
+> *Free eBook - JavaScript Cloud Native Development Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B09376/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B08809/cover_image_small.jpg" width="250">
 </p>
 
 
