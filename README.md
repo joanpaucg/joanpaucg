@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[For Black Friday, You Can Get a One-Year BJ's Membership for Just $15](https://lifehacker.com/bjs-membership-stacksocial-sale-black-friday-2025?utm_medium=RSS)*  
+> *[Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More](https://lifehacker.com/health/black-friday-cyber-monday-fitness-deals-11-30-2025-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JavaScript Cloud Native Development Cookbook*  
+> *Free eBook - Javascript Regular Expressions*  
 <p align="center">
-  <img src="https://content.packt.com/B08809/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01504/cover_image_small.jpg" width="250">
 </p>
 
 
