@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More](https://lifehacker.com/health/black-friday-cyber-monday-fitness-deals-11-30-2025-live-blog?utm_medium=RSS)*  
+> *[Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More](https://lifehacker.com/tech/cyber-monday-tech-deals-12-1-2025-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Javascript Regular Expressions*  
+> *Free eBook - JavaScript Security*  
 <p align="center">
-  <img src="https://content.packt.com/B01504/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01505/cover_image_small.jpg" width="250">
 </p>
 
 
