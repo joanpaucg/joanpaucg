@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More](https://lifehacker.com/tech/cyber-monday-tech-deals-12-1-2025-live-blog?utm_medium=RSS)*  
+> *[The Best Tech Deals Under $25 Still Live After Cyber Monday](https://lifehacker.com/tech/the-best-last-minute-tech-deals-under-25-black-friday-cyber-monday-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JavaScript Security*  
+> *Free eBook - jBPM6 Developer Guide - Third Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01505/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01521/cover_image_small.jpg" width="250">
 </p>
 
 
