@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Tech Deals Under $25 Still Live After Cyber Monday](https://lifehacker.com/tech/the-best-last-minute-tech-deals-under-25-black-friday-cyber-monday-2025?utm_medium=RSS)*  
+> *[Amazon Prime Members Can Get Two Free E-Books in December](https://lifehacker.com/free-kindle-ebooks-december-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - jBPM6 Developer Guide - Third Edition*  
+> *Free eBook - JIRA 7 Essentials - Fourth Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01521/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05372/cover_image_small.jpg" width="250">
 </p>
 
 
