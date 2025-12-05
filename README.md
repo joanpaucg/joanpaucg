@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Amazon Prime Members Can Get Two Free E-Books in December](https://lifehacker.com/free-kindle-ebooks-december-2025?utm_medium=RSS)*  
+> *[Here's Everything You Get With a Garmin Connect+ Subscription](https://lifehacker.com/health/everything-you-get-with-garmin-connect-plus?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JIRA 7 Essentials - Fourth Edition*  
+> *Free eBook - JIRA Agile Essentials*  
 <p align="center">
-  <img src="https://content.packt.com/B05372/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03751/cover_image_small.jpg?version=1764767768" width="250">
 </p>
 
 
