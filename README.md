@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Here's Everything You Get With a Garmin Connect+ Subscription](https://lifehacker.com/health/everything-you-get-with-garmin-connect-plus?utm_medium=RSS)*  
+> *[These Noise-Canceling JBL Headphones Are Nearly Half Off Right Now](https://lifehacker.com/tech/jbl-tune-770nc-wireless-headphones-december-2025?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JIRA Agile Essentials*  
+> *Free eBook - JIRA Development Cookbook - Third Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B03751/cover_image_small.jpg?version=1764767768" width="250">
+  <img src="https://content.packt.com/B05345/cover_image_small.jpg" width="250">
 </p>
 
 
