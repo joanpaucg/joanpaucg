@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JIRA Development Cookbook - Third Edition*  
+> *Free eBook - JMeter Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B05345/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01537/cover_image_small.jpg" width="250">
 </p>
 
 
