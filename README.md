@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JMeter Cookbook*  
+> *Free eBook - jQuery Design Patterns*  
 <p align="center">
-  <img src="https://content.packt.com/B01537/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05018/cover_image_small.jpg" width="250">
 </p>
 
 
