@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[These Noise-Canceling JBL Headphones Are Nearly Half Off Right Now](https://lifehacker.com/tech/jbl-tune-770nc-wireless-headphones-december-2025?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - jQuery Design Patterns*  
+> *Free eBook - jQuery Game Development Essentials*  
 <p align="center">
-  <img src="https://content.packt.com/B05018/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01581/cover_image_small.jpg" width="250">
 </p>
 
 
