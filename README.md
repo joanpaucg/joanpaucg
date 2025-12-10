@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
+> *[Instagram May Be Quietly Adding AI-Generated Headlines to Your Posts](https://lifehacker.com/tech/instagram-may-be-quietly-adding-ai-generated-headlines-to-your-posts?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - jQuery Game Development Essentials*  
+> *Free eBook - jQuery UI Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B01581/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01594/cover_image_small.jpg" width="250">
 </p>
 
 
