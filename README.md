@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Why RAM Prices Are Going Way, Way Up (and Why You Should Care)](https://lifehacker.com/tech/ram-prices-going-up?utm_medium=RSS)*  
+> *[Google Will Now Let You Virtually Try on Clothes With Just a Selfie](https://lifehacker.com/tech/google-virtually-try-on-clothes-with-selfie?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Julia Cookbook*  
+> *Free eBook - Julia for Data Science*  
 <p align="center">
-  <img src="https://content.packt.com/B04927/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05321/cover_image_small.jpg" width="250">
 </p>
 
 
