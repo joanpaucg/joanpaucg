@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google Will Now Let You Virtually Try on Clothes With Just a Selfie](https://lifehacker.com/tech/google-virtually-try-on-clothes-with-selfie?utm_medium=RSS)*  
+> *[I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years](https://lifehacker.com/health/new-sunscreen-ingredient-fda-approved?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Julia for Data Science*  
+> *Free eBook - Julia High Performance*  
 <p align="center">
-  <img src="https://content.packt.com/B05321/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04990/cover_image_small.jpg?version=1764757038" width="250">
 </p>
 
 
