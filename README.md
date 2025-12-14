@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Julia High Performance*  
+> *Free eBook - JUNOS Automation Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B04990/cover_image_small.jpg?version=1764757038" width="250">
+  <img src="https://content.packt.com/B07965/cover_image_small.jpg" width="250">
 </p>
 
 
