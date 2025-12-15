@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - JUNOS Automation Cookbook*  
+> *Free eBook - Kali Linux - An Ethical Hacker's Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B07965/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B06215/cover_image_small.jpg?version=1764756219" width="250">
 </p>
 
 
