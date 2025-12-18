@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The 10 Essential Apps for Any DIY Home Remodel](https://lifehacker.com/home/useful-apps-for-diy-projects?utm_medium=RSS)*  
+> *[Gemini 3 Flash Outperforms Gemini 3 Pro and GPT 5.2 In These Key Benchmarks](https://lifehacker.com/tech/gemini-3-flash-is-officially-googles-default-ai-model?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kali Linux Cookbook*  
+> *Free eBook - Keras 2.x Projects*  
 <p align="center">
-  <img src="https://content.packt.com/B01604/cover_image_small.jpg?version=1758184264" width="250">
+  <img src="https://content.packt.com/B11529/cover_image_small.jpg" width="250">
 </p>
 
 
