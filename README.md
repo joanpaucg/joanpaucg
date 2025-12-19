@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Gemini 3 Flash Outperforms Gemini 3 Pro and GPT 5.2 In These Key Benchmarks](https://lifehacker.com/tech/gemini-3-flash-is-officially-googles-default-ai-model?utm_medium=RSS)*  
+> *[A Look Inside ChatGPT's New 'App Store'](https://lifehacker.com/tech/chatgpt-new-app-store?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Keras 2.x Projects*  
+> *Free eBook - Keras Reinforcement Learning Projects*  
 <p align="center">
-  <img src="https://content.packt.com/B11529/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B10947/cover_image_small.jpg" width="250">
 </p>
 
 
