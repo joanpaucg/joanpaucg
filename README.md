@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[A Look Inside ChatGPT's New 'App Store'](https://lifehacker.com/tech/chatgpt-new-app-store?utm_medium=RSS)*  
+> *[This Tool Can Tell You If Your Home Network Has Been Compromised](https://lifehacker.com/tech/tool-checks-for-compromised-home-internet?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Keras Reinforcement Learning Projects*  
+> *Free eBook - Kotlin Blueprints*  
 <p align="center">
-  <img src="https://content.packt.com/B10947/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B08894/cover_image_small.jpg" width="250">
 </p>
 
 
