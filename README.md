@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kotlin Programming By Example*  
+> *Free eBook - Kotlin Programming Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B08555/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B08556/cover_image_small.jpg" width="250">
 </p>
 
 
