@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Tool Can Tell You If Your Home Network Has Been Compromised](https://lifehacker.com/tech/tool-checks-for-compromised-home-internet?utm_medium=RSS)*  
+> *[Valve Officially Discontinued the LCD Steam Deck](https://lifehacker.com/tech/valve-officially-discontinued-the-lcd-steam-deck?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kotlin Programming Cookbook*  
+> *Free eBook - Kubernetes Cookbook - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B08556/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B09569/cover_image_small.jpg" width="250">
 </p>
 
 
