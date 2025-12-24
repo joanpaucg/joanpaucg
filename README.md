@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Valve Officially Discontinued the LCD Steam Deck](https://lifehacker.com/tech/valve-officially-discontinued-the-lcd-steam-deck?utm_medium=RSS)*  
+> *[What Is VO2max?](https://lifehacker.com/what-is-vo2max?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kubernetes Cookbook - Second Edition*  
+> *Free eBook - Kubernetes Design Patterns and Extensions*  
 <p align="center">
-  <img src="https://content.packt.com/B09569/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B12271/cover_image_small.jpg" width="250">
 </p>
 
 
