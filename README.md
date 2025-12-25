@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[What Is VO2max?](https://lifehacker.com/what-is-vo2max?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kubernetes Design Patterns and Extensions*  
+> *Free eBook - Kubernetes for Serverless Applications*  
 <p align="center">
-  <img src="https://content.packt.com/B12271/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B09000/cover_image_small.jpg" width="250">
 </p>
 
 
