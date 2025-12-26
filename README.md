@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Kubernetes for Serverless Applications*  
+> *Free eBook - Learn Apache Mesos*  
 <p align="center">
-  <img src="https://content.packt.com/B09000/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B10691/cover_image_small.jpg" width="250">
 </p>
 
 
