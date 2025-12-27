@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learn Apache Mesos*  
+> *Free eBook - Learn Bitcoin and Blockchain*  
 <p align="center">
-  <img src="https://content.packt.com/B10691/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B11516/cover_image_small.jpg" width="250">
 </p>
 
 
