@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learn Bitcoin and Blockchain*  
+> *Free eBook - Learn Linux Shell Scripting ‚àö¬¢‚Äö√á¬®‚Äö√Ñ√∫ Fundamentals of Bash 4.4*  
 <p align="center">
-  <img src="https://content.packt.com/B11516/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B10117/cover_image_small.jpg" width="250">
 </p>
 
 
