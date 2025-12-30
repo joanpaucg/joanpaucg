@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
+> *[What Is Zone 2 Cardio, and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learn Swift by Building Applications*  
+> *Free eBook - Learn Type-Driven Development*  
 <p align="center">
-  <img src="https://content.packt.com/B05769/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B09613/cover_image_small.jpg" width="250">
 </p>
 
 
