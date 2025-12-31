@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[What Is Zone 2 Cardio, and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio?utm_medium=RSS)*  
+> *[Why You Should Give Yourself ‘Crappy’ Rewards for Your Fitness Goals](https://lifehacker.com/best-rewards-for-fitness-goals?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learn Type-Driven Development*  
+> *Free eBook - Learning Adobe Muse*  
 <p align="center">
-  <img src="https://content.packt.com/B09613/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01653/cover_image_small.jpg" width="250">
 </p>
 
 
