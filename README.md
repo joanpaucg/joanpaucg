@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Why You Should Give Yourself ‘Crappy’ Rewards for Your Fitness Goals](https://lifehacker.com/best-rewards-for-fitness-goals?utm_medium=RSS)*  
+> *[Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-need-to-check-with-a-doctor-before-starting-to-exercise?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Adobe Muse*  
+> *Free eBook - Learning Airwatch*  
 <p align="center">
-  <img src="https://content.packt.com/B01653/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03484/cover_image_small.jpg" width="250">
 </p>
 
 
