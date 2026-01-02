@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-need-to-check-with-a-doctor-before-starting-to-exercise?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Airwatch*  
+> *Free eBook - Learning Android Application Testing*  
 <p align="center">
-  <img src="https://content.packt.com/B03484/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03593/cover_image_small.jpg" width="250">
 </p>
 
 
