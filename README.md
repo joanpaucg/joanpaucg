@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Android Forensics*  
+> *Free eBook - Learning Android Google Maps*  
 <p align="center">
-  <img src="https://content.packt.com/B04112/cover_image_small.jpg?version=1764750642" width="250">
+  <img src="https://content.packt.com/B00100/cover_image_small.jpg" width="250">
 </p>
 
 
