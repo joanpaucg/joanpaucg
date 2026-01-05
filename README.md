@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Android Google Maps*  
+> *Free eBook - Learning Apache Cassandra - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B00100/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B06138/cover_image_small.jpg" width="250">
 </p>
 
 
