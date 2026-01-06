@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Punkt Has a New Smartphone for People Who Hate Smartphones](https://lifehacker.com/tech/punkt-mp03-privacy-focused-smartphone?utm_medium=RSS)*  
+> *[CES 2026: Intel's New Chips Are Coming For Your Gaming Handhelds](https://lifehacker.com/tech/ces-2026-intels-new-chips-are-coming-for-your-gaming-handhelds?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Apache Cassandra - Second Edition*  
+> *Free eBook - Learning Axure RP Interactive Prototypes*  
 <p align="center">
-  <img src="https://content.packt.com/B06138/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01668/cover_image_small.jpg" width="250">
 </p>
 
 
