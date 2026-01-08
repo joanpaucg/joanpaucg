@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[CES 2026: Nvidia's Updated DLSS Makes Games Run Worse on Older GPUs](https://lifehacker.com/tech/ces-2026-nvidias-updated-dlss-makes-games-run-worse-on-older-gpus?utm_medium=RSS)*  
+> *[CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs](https://lifehacker.com/tech/ces-2026-i-saw-a-robot-vacuum-with-legs-climb-a-flight-of-stairs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Bayesian Models with R*  
+> *Free eBook - Learning Bootstrap 4 by Building Projects*  
 <p align="center">
-  <img src="https://content.packt.com/B01669/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B11322/cover_image_small.jpg" width="250">
 </p>
 
 
