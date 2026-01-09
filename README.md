@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs](https://lifehacker.com/tech/ces-2026-i-saw-a-robot-vacuum-with-legs-climb-a-flight-of-stairs?utm_medium=RSS)*  
+> *[Google's Getting Rid of a Way to Import Third-Party Accounts Into Gmail](https://lifehacker.com/tech/gmail-ending-pop3-support-email-importing?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Bootstrap 4 by Building Projects*  
+> *Free eBook - Learning Construct 2*  
 <p align="center">
-  <img src="https://content.packt.com/B11322/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03705/cover_image_small.jpg" width="250">
 </p>
 
 
