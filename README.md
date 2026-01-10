@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google's Getting Rid of a Way to Import Third-Party Accounts Into Gmail](https://lifehacker.com/tech/gmail-ending-pop3-support-email-importing?utm_medium=RSS)*  
+> *[Explore This Crowdsourced Archive of Vintage Cassette Recordings](https://lifehacker.com/entertainment/intertape-is-a-crowdsourced-catalog-offound-cassettes?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Construct 2*  
+> *Free eBook - Learning Cython Programming (Second Edition) - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B03705/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04685/cover_image_small.jpg" width="250">
 </p>
 
 
