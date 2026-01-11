@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Cython Programming (Second Edition) - Second Edition*  
+> *Free eBook - Learning Dart, Second Edition - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B04685/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04292/cover_image_small.jpg" width="250">
 </p>
 
 
