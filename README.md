@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Dart, Second Edition - Second Edition*  
+> *Free eBook - Learning Data Mining with Python*  
 <p align="center">
-  <img src="https://content.packt.com/B04292/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03752/cover_image_small.jpg?version=1764750785" width="250">
 </p>
 
 
