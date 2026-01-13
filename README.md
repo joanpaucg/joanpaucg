@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Explore This Crowdsourced Archive of Vintage Cassette Recordings](https://lifehacker.com/entertainment/intertape-is-a-crowdsourced-catalog-offound-cassettes?utm_medium=RSS)*  
+> *[Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)](https://lifehacker.com/tech/microsoft-retiring-microsoft-lens?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Data Mining with Python*  
+> *Free eBook - Learning Elastic Stack 6.0*  
 <p align="center">
-  <img src="https://content.packt.com/B03752/cover_image_small.jpg?version=1764750785" width="250">
+  <img src="https://content.packt.com/B06284/cover_image_small.jpg?version=1764756968" width="250">
 </p>
 
 
