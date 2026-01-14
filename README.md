@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)](https://lifehacker.com/tech/microsoft-retiring-microsoft-lens?utm_medium=RSS)*  
+> *[Google Is Changing Its Account Policy About Minors Who Turn 13](https://lifehacker.com/tech/google-is-changing-its-account-policy-about-minors-who-turn-13?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Elastic Stack 6.0*  
+> *Free eBook - Learning Embedded Linux using the Yocto Project*  
 <p align="center">
-  <img src="https://content.packt.com/B06284/cover_image_small.jpg?version=1764756968" width="250">
+  <img src="https://content.packt.com/B04000/cover_image_small.jpg" width="250">
 </p>
 
 
