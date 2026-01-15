@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google Is Changing Its Account Policy About Minors Who Turn 13](https://lifehacker.com/tech/google-is-changing-its-account-policy-about-minors-who-turn-13?utm_medium=RSS)*  
+> *[What I Learned After Trying Out Every Exoskeleton at CES](https://lifehacker.com/health/trying-on-every-exoskeleton-ces-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Embedded Linux using the Yocto Project*  
+> *Free eBook - Learning Flask Framework*  
 <p align="center">
-  <img src="https://content.packt.com/B04000/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01709/cover_image_small.jpg" width="250">
 </p>
 
 
