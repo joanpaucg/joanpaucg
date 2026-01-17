@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Entry-Level Samsung OLED TV Just Got Even Cheaper](https://lifehacker.com/tech/samsung-oled-tv-s85f-deal-january-2026?utm_medium=RSS)*  
+> *[ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)](https://lifehacker.com/tech/chatgpt-go-ad-subscription?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning game AI programming with Lua*  
+> *Free eBook - Learning Geospatial Analysis with Python*  
 <p align="center">
-  <img src="https://content.packt.com/B01649/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01713/cover_image_small.jpg" width="250">
 </p>
 
 
