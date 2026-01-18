@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Geospatial Analysis with Python*  
+> *Free eBook - Learning Geospatial Analysis with Python-Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01713/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04606/cover_image_small.jpg?version=1764752792" width="250">
 </p>
 
 
