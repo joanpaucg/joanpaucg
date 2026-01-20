@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)](https://lifehacker.com/tech/chatgpt-go-ad-subscription?utm_medium=RSS)*  
+> *[This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now](https://lifehacker.com/tech/samsung-galaxy-book5-pro-360-sale-january-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Heroku Postgres*  
+> *Free eBook - Learning Hyper-V*  
 <p align="center">
-  <img src="https://content.packt.com/B01721/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03931/cover_image_small.jpg" width="250">
 </p>
 
 
