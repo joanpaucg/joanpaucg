@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now](https://lifehacker.com/tech/samsung-galaxy-book5-pro-360-sale-january-2026?utm_medium=RSS)*  
+> *[Scammers Are Targeting Your Verizon Outage Refund](https://lifehacker.com/money/scammers-are-targeting-your-verizon-outage-refund?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Hyper-V*  
+> *Free eBook - Learning ibeacon*  
 <p align="center">
-  <img src="https://content.packt.com/B03931/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B03755/cover_image_small.jpg" width="250">
 </p>
 
 
