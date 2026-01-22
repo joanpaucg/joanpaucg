@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Scammers Are Targeting Your Verizon Outage Refund](https://lifehacker.com/money/scammers-are-targeting-your-verizon-outage-refund?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning ibeacon*  
+> *Free eBook - Learning Informatica PowerCenter 9.x*  
 <p align="center">
-  <img src="https://content.packt.com/B03755/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01725/cover_image_small.jpg?version=1764752621" width="250">
 </p>
 
 
