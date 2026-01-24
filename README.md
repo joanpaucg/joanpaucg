@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[A Study Found Diet Coke Is Better for You Than Water (Sort Of)](https://lifehacker.com/health/diet-coke-water-glucose-study?utm_medium=RSS)*  
+> *[The AirPods Pro 3 Are $50 Off Right Now](https://lifehacker.com/tech/airpods-pro-3-sale-january-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning iOS UI Development*  
+> **  
 <p align="center">
-  <img src="https://content.packt.com/B04642/cover_image_small.jpg" width="250">
+  <img src="" width="250">
 </p>
 
 
