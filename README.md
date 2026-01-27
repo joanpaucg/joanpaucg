@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The AirPods Pro 3 Are $50 Off Right Now](https://lifehacker.com/tech/airpods-pro-3-sale-january-2026?utm_medium=RSS)*  
+> *[We Now Know What Caused the TikTok Outage](https://lifehacker.com/tech/tiktok-outage-cause?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Java by Building Android Games*  
+> *Free eBook - Learning Javascript Robotics*  
 <p align="center">
-  <img src="https://content.packt.com/B03730/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04916/cover_image_small.jpg" width="250">
 </p>
 
 
