@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[We Now Know What Caused the TikTok Outage](https://lifehacker.com/tech/tiktok-outage-cause?utm_medium=RSS)*  
+> *[12 Shows Like 'His & Hers' You Should Watch Next](https://lifehacker.com/entertainment/shows-like-his-hers-to-watch-next?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Javascript Robotics*  
+> *Free eBook - Learning jQuery, Third Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B04916/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01739/cover_image_small.jpg" width="250">
 </p>
 
 
