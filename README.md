@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[12 Shows Like 'His & Hers' You Should Watch Next](https://lifehacker.com/entertainment/shows-like-his-hers-to-watch-next?utm_medium=RSS)*  
+> *[Does Walking Really Count As Cardio?](https://lifehacker.com/does-walking-really-count-as-cardio?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning jQuery, Third Edition*  
+> *Free eBook - Learning Jupyter*  
 <p align="center">
-  <img src="https://content.packt.com/B01739/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05207/cover_image_small.jpg?version=1764756097" width="250">
 </p>
 
 
