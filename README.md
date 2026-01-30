@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Does Walking Really Count As Cardio?](https://lifehacker.com/does-walking-really-count-as-cardio?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Jupyter*  
+> *Free eBook - Learning less.js*  
 <p align="center">
-  <img src="https://content.packt.com/B05207/cover_image_small.jpg?version=1764756097" width="250">
+  <img src="https://content.packt.com/B01744/cover_image_small.jpg" width="250">
 </p>
 
 
