@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know](https://lifehacker.com/tech/hacks-every-nintendo-switch-or-switch-2-owner-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning less.js*  
+> *Free eBook - Learning NServiceBus - Second Edition - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01744/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04035/cover_image_small.jpg" width="250">
 </p>
 
 
