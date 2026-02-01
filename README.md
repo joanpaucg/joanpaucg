@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning NServiceBus - Second Edition - Second Edition*  
+> *Free eBook - Learning NServiceBus Sagas*  
 <p align="center">
-  <img src="https://content.packt.com/B04035/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01764/cover_image_small.jpg" width="250">
 </p>
 
 
