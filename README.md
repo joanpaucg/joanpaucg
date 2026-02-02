@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning NServiceBus Sagas*  
+> *Free eBook - Learning OpenStack Networking (Neutron), Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01764/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04751/cover_image_small.jpg?version=1764754258" width="250">
 </p>
 
 
