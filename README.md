@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know](https://lifehacker.com/tech/hacks-every-nintendo-switch-or-switch-2-owner-should-know?utm_medium=RSS)*  
+> *[The Out-of-Touch Adults' Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies](https://lifehacker.com/entertainment/ai-babies-human-dance-battle-out-of-touch-adults-guide-to-kid-culture?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning OpenStack Networking (Neutron), Second Edition*  
+> *Free eBook - Learning Penetration Testing with Python*  
 <p align="center">
-  <img src="https://content.packt.com/B04751/cover_image_small.jpg?version=1764754258" width="250">
+  <img src="https://content.packt.com/B04315/cover_image_small.jpg" width="250">
 </p>
 
 
