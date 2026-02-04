@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Out-of-Touch Adults' Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies](https://lifehacker.com/entertainment/ai-babies-human-dance-battle-out-of-touch-adults-guide-to-kid-culture?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Penetration Testing with Python*  
+> *Free eBook - Learning Pentesting for Android Devices*  
 <p align="center">
-  <img src="https://content.packt.com/B04315/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01775/cover_image_small.jpg" width="250">
 </p>
 
 
