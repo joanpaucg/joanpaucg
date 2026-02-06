@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Everyone Can Now Use Alexa+, but the Full Experience Might Cost You](https://lifehacker.com/tech/how-much-amazon-alexa-plus-costs?utm_medium=RSS)*  
+> *[This QLED TV Was Already Affordable, and Now It's an Extra $450 Off](https://lifehacker.com/tech/tcl-qm5k-qled-tv-deal-february-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning PostgreSQL*  
+> *Free eBook - Learning Predictive Analytics with R*  
 <p align="center">
-  <img src="https://content.packt.com/B01781/cover_image_small.jpg?version=1764749004" width="250">
+  <img src="https://content.packt.com/B00677/cover_image_small.jpg" width="250">
 </p>
 
 
