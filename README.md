@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This QLED TV Was Already Affordable, and Now It's an Extra $450 Off](https://lifehacker.com/tech/tcl-qm5k-qled-tv-deal-february-2026?utm_medium=RSS)*  
+> *[How EU Regulators Might Change TikTok](https://lifehacker.com/tech/eu-regulators-might-change-tiktok?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Predictive Analytics with R*  
+> *Free eBook - Learning Probabilistic Graphical Models in R*  
 <p align="center">
-  <img src="https://content.packt.com/B00677/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04015/cover_image_small.jpg" width="250">
 </p>
 
 
