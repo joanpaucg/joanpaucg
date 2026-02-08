@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Probabilistic Graphical Models in R*  
+> *Free eBook - Learning Puppet for Windows Server*  
 <p align="center">
-  <img src="https://content.packt.com/B04015/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04731/cover_image_small.jpg" width="250">
 </p>
 
 
