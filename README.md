@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Puppet for Windows Server*  
+> *Free eBook - Learning Python Application Development*  
 <p align="center">
-  <img src="https://content.packt.com/B04731/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05034/cover_image_small.jpg" width="250">
 </p>
 
 
