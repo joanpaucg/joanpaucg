@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[What to Do If (or When) Your Email Is Leaked to the Dark Web](https://lifehacker.com/tech/what-to-do-if-your-email-is-leaked-to-the-dark-web?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning R Programming*  
+> *Free eBook - Learning ROS for Robotics Programming Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B05263/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01799/cover_image_small.jpg?version=1764750676" width="250">
 </p>
 
 
