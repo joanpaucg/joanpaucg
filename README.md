@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Salesforce Einstein*  
+> *Free eBook - Learning VirtualDub: The Complete Guide to Capturing, Processing and Encoding Digital Video*  
 <p align="center">
-  <img src="https://content.packt.com/B06242/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01831/cover_image_small.jpg" width="250">
 </p>
 
 
