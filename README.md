@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning VirtualDub: The Complete Guide to Capturing, Processing and Encoding Digital Video*  
+> *Free eBook - Learning WordPress REST API*  
 <p align="center">
-  <img src="https://content.packt.com/B01831/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05401/cover_image_small.jpg" width="250">
 </p>
 
 
