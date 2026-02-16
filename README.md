@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Machine Learning for Mobile*  
+> **  
 <p align="center">
-  <img src="https://content.packt.com/B09322/cover_image_small.jpg" width="250">
+  <img src="" width="250">
 </p>
 
 
