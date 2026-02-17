@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> **  
+> *Free eBook - Machine Learning with R Cookbook, Second Edition - Second Edition*  
 <p align="center">
-  <img src="" width="250">
+  <img src="https://content.packt.com/B06472/cover_image_small.jpg" width="250">
 </p>
 
 
