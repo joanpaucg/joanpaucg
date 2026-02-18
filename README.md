@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
+> *[Here Are the New Features Coming in iOS 26.4](https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Machine Learning with R Cookbook, Second Edition - Second Edition*  
+> *Free eBook - Mastering Apache Storm*  
 <p align="center">
-  <img src="https://content.packt.com/B06472/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B06182/cover_image_small.jpg" width="250">
 </p>
 
 
