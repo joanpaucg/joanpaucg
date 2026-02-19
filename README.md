@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Here Are the New Features Coming in iOS 26.4](https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS)*  
+> *[You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card](https://lifehacker.com/tech/google-pixel-10a-preorder-deal-february-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Apache Storm*  
+> *Free eBook - Learning Python Design Patterns - Second Edition - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B06182/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05180/cover_image_small.jpg" width="250">
 </p>
 
 
