@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Rumors Suggest Apple and Meta Are Betting Big on AI Wearables](https://lifehacker.com/tech/rumors-suggest-apple-and-meta-are-betting-big-on-ai-wearables?utm_medium=RSS)*  
+> *[AI Could Make Your Next TV More Expensive](https://lifehacker.com/tech/why-ai-could-make-tvs-more-expensive?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
