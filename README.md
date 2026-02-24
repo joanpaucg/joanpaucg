@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[AI Could Make Your Next TV More Expensive](https://lifehacker.com/tech/why-ai-could-make-tvs-more-expensive?utm_medium=RSS)*  
+> *[Samsung Galaxy Unpacked 2026: How to Watch and What to Expect](https://lifehacker.com/tech/samsung-galaxy-unpacked-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> **  
+> *Free eBook - LibGDX Game Development By Example*  
 <p align="center">
-  <img src="" width="250">
+  <img src="https://content.packt.com/B04176/cover_image_small.jpg" width="250">
 </p>
 
 
