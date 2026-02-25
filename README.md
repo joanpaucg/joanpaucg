@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Samsung Galaxy Unpacked 2026: How to Watch and What to Expect](https://lifehacker.com/tech/samsung-galaxy-unpacked-2026?utm_medium=RSS)*  
+> *[Now Discord Is Saying It's Delaying Global Age Verification](https://lifehacker.com/tech/discord-is-delaying-its-global-age-verification?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - LibGDX Game Development By Example*  
+> *Free eBook - Machine Learning Fundamentals*  
 <p align="center">
-  <img src="https://content.packt.com/B04176/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B12715/cover_image_small.jpg" width="250">
 </p>
 
 
