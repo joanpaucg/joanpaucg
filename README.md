@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Now Discord Is Saying It's Delaying Global Age Verification](https://lifehacker.com/tech/discord-is-delaying-its-global-age-verification?utm_medium=RSS)*  
+> *[10 Hacks Every Telegram User Should Know](https://lifehacker.com/tech/10-hacks-every-telegram-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Machine Learning Fundamentals*  
+> *Free eBook - Learning Salesforce Einstein*  
 <p align="center">
-  <img src="https://content.packt.com/B12715/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B06242/cover_image_small.jpg?version=1771840627" width="250">
 </p>
 
 
