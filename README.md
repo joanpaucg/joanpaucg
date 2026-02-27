@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Telegram User Should Know](https://lifehacker.com/tech/10-hacks-every-telegram-user-should-know?utm_medium=RSS)*  
+> *[Garmin Just Added the Gear-Tracking Features I've Been Dying For](https://lifehacker.com/health/garmin-new-gear-tracking-features?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Learning Salesforce Einstein*  
+> *Free eBook - Lighttpd*  
 <p align="center">
-  <img src="https://content.packt.com/B06242/cover_image_small.jpg?version=1771840627" width="250">
+  <img src="https://content.packt.com/B01866/cover_image_small.jpg" width="250">
 </p>
 
 
