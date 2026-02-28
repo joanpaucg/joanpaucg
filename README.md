@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Garmin Just Added the Gear-Tracking Features I've Been Dying For](https://lifehacker.com/health/garmin-new-gear-tracking-features?utm_medium=RSS)*  
+> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Lighttpd*  
+> *Free eBook - Linux Shell Scripting Cookbook, Second Edition - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B01866/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01875/cover_image_small.jpg" width="250">
 </p>
 
 
