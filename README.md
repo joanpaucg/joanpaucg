@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
+> *[You Can Now Customize Your Calling Card on Android](https://lifehacker.com/tech/how-to-customize-your-calling-card-on-android?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Linux Shell Scripting Cookbook, Second Edition - Second Edition*  
+> *Free eBook - Lumion3D Best Practices*  
 <p align="center">
-  <img src="https://content.packt.com/B01875/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B01892/cover_image_small.jpg" width="250">
 </p>
 
 
