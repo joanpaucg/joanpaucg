@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Microsoft Will Soon Let You Use Any Windows 11 PC Like an Xbox](https://lifehacker.com/tech/microsoft-is-now-letting-you-use-your-pc-like-an-xbox?utm_medium=RSS)*  
+> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Apache Cassandra - Second Edition*  
+> *Free eBook - Mastering DART*  
 <p align="center">
-  <img src="https://content.packt.com/B03458/cover_image_small.jpg?version=1764751545" width="250">
+  <img src="https://content.packt.com/B01980/cover_image_small.jpg" width="250">
 </p>
 
 
