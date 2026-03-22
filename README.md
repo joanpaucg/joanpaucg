@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering JBoss Enterprise Application Platform 7*  
+> *Free eBook - Mastering JIRA 7 - Second Edition*  
 <p align="center">
-  <img src="https://content.packt.com/B05430/cover_image_small.jpg?version=1771840277" width="250">
+  <img src="https://content.packt.com/B05668/cover_image_small.jpg?version=1771840404" width="250">
 </p>
 
 
