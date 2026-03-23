@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
+> *[Samsung Now Officially Supports AirDrop, but Only for These Devices](https://lifehacker.com/tech/samsung-galaxy-officially-supports-airdrop?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering JIRA 7 - Second Edition*  
+> *Free eBook - Mastering Kali Linux for Advanced Penetration Testing*  
 <p align="center">
-  <img src="https://content.packt.com/B05668/cover_image_small.jpg?version=1771840404" width="250">
+  <img src="https://content.packt.com/B01963/cover_image_small.jpg?version=1771967083" width="250">
 </p>
 
 
