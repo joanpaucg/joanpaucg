@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Amazon Big Spring Sale 2026 Live Blog: The Early Deals Are Rolling In](https://lifehacker.com/tech/amazon-big-spring-sale-2026-live-blog?utm_medium=RSS)*  
+> *[What People Are Getting Wrong This Week: Teleportation](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-gregg-phillips?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Kubernetes - Second Edition*  
+> *Free eBook - Mastering Linux Network Administration*  
 <p align="center">
-  <img src="https://content.packt.com/B10115/cover_image_small.jpg?version=1764747951" width="250">
+  <img src="https://content.packt.com/B03919/cover_image_small.jpg" width="250">
 </p>
 
 
