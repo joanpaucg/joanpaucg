@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[What People Are Getting Wrong This Week: Teleportation](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-gregg-phillips?utm_medium=RSS)*  
+> *[The Best Deals on Headphones and Earbuds I Found in Amazon's Spring Sale](https://lifehacker.com/tech/best-headphone-deals-on-amazons-spring-sale-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Linux Network Administration*  
+> *Free eBook - Mastering Microsoft Dynamics CRM 2016*  
 <p align="center">
-  <img src="https://content.packt.com/B03919/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B05689/cover_image_small.jpg?version=1771943852" width="250">
 </p>
 
 
