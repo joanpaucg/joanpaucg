@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Microsoft Dynamics CRM 2016*  
+> *Free eBook - Mastering Netbeans*  
 <p align="center">
-  <img src="https://content.packt.com/B05689/cover_image_small.jpg?version=1771943852" width="250">
+  <img src="https://content.packt.com/B04188/cover_image_small.jpg?version=1771942605" width="250">
 </p>
 
 
