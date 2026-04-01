@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Deals on Headphones and Earbuds I Found in Amazon's Spring Sale](https://lifehacker.com/tech/best-headphone-deals-on-amazons-spring-sale-2026?utm_medium=RSS)*  
+> *[These Are the Best Last-Minute Deals on Smart Glasses for Amazon's Big Spring Sale](https://lifehacker.com/tech/best-smart-glasses-amazon-big-spring-sale-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Netbeans*  
+> *Free eBook - Mastering OAuth 2.0*  
 <p align="center">
-  <img src="https://content.packt.com/B04188/cover_image_small.jpg?version=1771942605" width="250">
+  <img src="https://content.packt.com/B03653/cover_image_small.jpg" width="250">
 </p>
 
 
