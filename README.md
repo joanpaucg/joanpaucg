@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Amazon Prime Members Can Get Two Free E-Books in April](https://lifehacker.com/free-kindle-books-april-2026?utm_medium=RSS)*  
+> *[I Tried ChatGPT in CarPlay, and It Immediately Hallucinated](https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering Oculus Rift Development*  
+> *Free eBook - Mastering OpenCV Android Application Programming*  
 <p align="center">
-  <img src="https://content.packt.com/B05502/cover_image_small.jpg?version=1771943977" width="250">
+  <img src="https://content.packt.com/B02052/cover_image_small.jpg" width="250">
 </p>
 
 
