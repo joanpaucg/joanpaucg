@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I Tried ChatGPT in CarPlay, and It Immediately Hallucinated](https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS)*  
+> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering OpenCV Android Application Programming*  
+> *Free eBook - Mastering OpenLayers 3*  
 <p align="center">
-  <img src="https://content.packt.com/B02052/cover_image_small.jpg" width="250">
+  <img src="https://content.packt.com/B04837/cover_image_small.jpg?version=1771971146" width="250">
 </p>
 
 
