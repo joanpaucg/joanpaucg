@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Mastering PHP Design Patterns*  
+> **  
 <p align="center">
-  <img src="https://content.packt.com/B05232/cover_image_small.jpg?version=1771971764" width="250">
+  <img src="" width="250">
 </p>
 
 
