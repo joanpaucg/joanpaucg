@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
+> *[The FBI Is Warning Users About 'Foreign-Developed' Apps](https://lifehacker.com/tech/fbi-warning-foreign-developed-mobile-apps?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
