@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The FBI Is Warning Users About 'Foreign-Developed' Apps](https://lifehacker.com/tech/fbi-warning-foreign-developed-mobile-apps?utm_medium=RSS)*  
+> *[I Tried Google's New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate](https://lifehacker.com/tech/what-to-know-about-googles-new-ai-transcription-app?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
