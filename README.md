@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I Tried Google's New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate](https://lifehacker.com/tech/what-to-know-about-googles-new-ai-transcription-app?utm_medium=RSS)*  
+> *[10 Hacks Every Apple Vision Pro User Should Know](https://lifehacker.com/tech/10-hacks-every-apple-vision-pro-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
