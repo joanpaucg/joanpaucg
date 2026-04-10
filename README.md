@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Apple Vision Pro User Should Know](https://lifehacker.com/tech/10-hacks-every-apple-vision-pro-user-should-know?utm_medium=RSS)*  
+> *[Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More](https://lifehacker.com/tech/amazon-big-spring-sale-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
