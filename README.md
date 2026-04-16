@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now](https://lifehacker.com/tech/babbel-stacksocial-sale-april-2026?utm_medium=RSS)*  
+> *[Google’s New Gemini App for Mac Comes With Two Key Benefits (and One Drawback)](https://lifehacker.com/tech/gemini-is-now-available-as-a-dedicated-mac-app?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
