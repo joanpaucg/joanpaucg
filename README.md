@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Google’s New Gemini App for Mac Comes With Two Key Benefits (and One Drawback)](https://lifehacker.com/tech/gemini-is-now-available-as-a-dedicated-mac-app?utm_medium=RSS)*  
+> *[The New Google Pixel 10a Is Already $50 Off](https://lifehacker.com/tech/google-pixel-10a-deal-april-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
