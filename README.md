@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[10 Productivity Hacks Every Apple Reminders User Should Know](https://lifehacker.com/tech/10-productivity-hacks-every-apple-reminders-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
