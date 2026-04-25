@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Productivity Hacks Every Apple Reminders User Should Know](https://lifehacker.com/tech/10-productivity-hacks-every-apple-reminders-user-should-know?utm_medium=RSS)*  
+> *[10 Hacks Every YouTube Music User Should Know](https://lifehacker.com/tech/10-hacks-every-youtube-music-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
