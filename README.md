@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Buzzy Pocket-Sized E-Reader Is Under $60 on Amazon for the Next Few Hours](https://lifehacker.com/tech/xteink-x4-ereader-is-under-60-on-amazon-april-2026?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
