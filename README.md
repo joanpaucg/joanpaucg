@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Here's What We Expect to See at Google I/O 2026](https://lifehacker.com/tech/what-we-expect-to-see-google-io-2026?utm_medium=RSS)*  
+> *[My Three Favorite Garmin Features to Use on Race Day](https://lifehacker.com/health/my-three-favorite-garmin-features-to-use-on-race-day?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
