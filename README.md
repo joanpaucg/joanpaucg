@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[These Google Search Alternatives Actually Let You Control Your AI Experience](https://lifehacker.com/tech/google-search-alternatives-to-control-your-ai-experience?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
