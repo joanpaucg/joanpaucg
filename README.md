@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every LastPass User Should Know](https://lifehacker.com/tech/10-hacks-every-lastpass-user-should-know?utm_medium=RSS)*  
+> *[Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs](https://lifehacker.com/tech/apple-will-give-you-more-trade-in-value-for-certain-iphones-ipads-and-macs?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
