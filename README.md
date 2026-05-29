@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs](https://lifehacker.com/tech/apple-will-give-you-more-trade-in-value-for-certain-iphones-ipads-and-macs?utm_medium=RSS)*  
+> *[I Used Garmin's Heart Rate Monitor to Measure My 'Running Economy,' and Here's What I Learned](https://lifehacker.com/health/i-used-garmins-heart-rate-monitor-to-measure-my-running-economy?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
