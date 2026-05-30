@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I Used Garmin's Heart Rate Monitor to Measure My 'Running Economy,' and Here's What I Learned](https://lifehacker.com/health/i-used-garmins-heart-rate-monitor-to-measure-my-running-economy?utm_medium=RSS)*  
+> *[I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week](https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
