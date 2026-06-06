@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[Meta Quietly Added Facial Recognition to Its Smart Glasses](https://lifehacker.com/tech/meta-quietly-added-nametag-faceprint-tech?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
