@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Sony's Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day](https://lifehacker.com/tech/sony-headphones-deal-prime-day-2026?utm_medium=RSS)*  
+> *[Does 'Fasted Cardio' Actually Burn More Calories and Fat?](https://lifehacker.com/health/does-fasted-cardio-burn-more-fat?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
