@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Does 'Fasted Cardio' Actually Burn More Calories and Fat?](https://lifehacker.com/health/does-fasted-cardio-burn-more-fat?utm_medium=RSS)*  
+> *[My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One](https://lifehacker.com/tech/my-apple-watch-doesnt-support-watchos-27-but-im-not-buying-a-new?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
