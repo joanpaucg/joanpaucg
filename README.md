@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One](https://lifehacker.com/tech/my-apple-watch-doesnt-support-watchos-27-but-im-not-buying-a-new?utm_medium=RSS)*  
+> *[The Out-of-Touch Adults' Guide to Kid Culture: What Does 'Dah Bih Gah' Mean?](https://lifehacker.com/entertainment/what-does-dah-bih-gah-mean?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
