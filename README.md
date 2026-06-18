@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Out-of-Touch Adults' Guide to Kid Culture: What Does 'Dah Bih Gah' Mean?](https://lifehacker.com/entertainment/what-does-dah-bih-gah-mean?utm_medium=RSS)*  
+> *[The Best Early Prime Day Deals on Tech for Under $50](https://lifehacker.com/tech/best-tech-deals-under-50-dollars-early-prime-day-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
