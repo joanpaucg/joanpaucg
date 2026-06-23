@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Early Prime Deals on Fitness Equipment](https://lifehacker.com/health/best-early-prime-2026-deals-on-fitness-equipment?utm_medium=RSS)*  
+> *[The Best Prime Day Deals on Tech Basics, From Batteries to Power Strips](https://lifehacker.com/tech/best-deals-on-tech-basics-prime-day-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
