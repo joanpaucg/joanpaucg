@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Prime Day Deals on Tech Basics, From Batteries to Power Strips](https://lifehacker.com/tech/best-deals-on-tech-basics-prime-day-2026?utm_medium=RSS)*  
+> *[Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More](https://lifehacker.com/tech/amazon-prime-day-live-blog-06-23-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
