@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More](https://lifehacker.com/tech/amazon-prime-day-live-blog-06-26-2026?utm_medium=RSS)*  
+> *[Update Your iPhone Now to Patch These 29 Security Flaws](https://lifehacker.com/tech/update-your-iphone-now-to-patch-these-security-flaws?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
