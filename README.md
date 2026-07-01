@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Update Your iPhone Now to Patch These 29 Security Flaws](https://lifehacker.com/tech/update-your-iphone-now-to-patch-these-security-flaws?utm_medium=RSS)*  
+> *[10 Hacks Every Discord User Should Know](https://lifehacker.com/tech/best-discord-hacks?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
