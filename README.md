@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Discord User Should Know](https://lifehacker.com/tech/best-discord-hacks?utm_medium=RSS)*  
+> *[10 Hacks Every MacBook Pro User Should Know](https://lifehacker.com/tech/best-macbook-pro-hacks?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
