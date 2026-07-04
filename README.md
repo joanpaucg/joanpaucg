@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every MacBook Pro User Should Know](https://lifehacker.com/tech/best-macbook-pro-hacks?utm_medium=RSS)*  
+> *[The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale](https://lifehacker.com/home/dewalt-cordless-oscillating-multitool-4th-of-july-sale-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
