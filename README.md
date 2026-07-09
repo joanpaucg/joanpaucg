@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale](https://lifehacker.com/home/dewalt-cordless-oscillating-multitool-4th-of-july-sale-2026?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
