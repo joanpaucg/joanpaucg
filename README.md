@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - PostgreSQL Administration Cookbook, 9.5/9.6 Edition - Third Edition*  
+> *Free eBook - Practical Computer Vision*  
 <p align="center">
-  <img src="https://content.packt.com/B05878/cover_image_small.jpg?version=1775674018" width="250">
+  <img src="https://content.packt.com/B07775/cover_image_small.jpg?version=1775666865" width="250">
 </p>
 
 
