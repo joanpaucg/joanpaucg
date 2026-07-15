@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Google Home User Should Know](https://lifehacker.com/tech/best-google-home-hacks?utm_medium=RSS)*  
+> *[You Can Now Talk to Spotify (and You Might Actually Want To)](https://lifehacker.com/tech/you-can-now-talk-to-spotify?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Practical Computer Vision*  
+> *Free eBook - Practical Network Scanning*  
 <p align="center">
-  <img src="https://content.packt.com/B07775/cover_image_small.jpg?version=1775666865" width="250">
+  <img src="https://content.packt.com/B09657/cover_image_small.jpg?version=1775657905" width="250">
 </p>
 
 
