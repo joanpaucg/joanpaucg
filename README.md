@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can Now Talk to Spotify (and You Might Actually Want To)](https://lifehacker.com/tech/you-can-now-talk-to-spotify?utm_medium=RSS)*  
+> *[Here's How to Officially Suggest New Emojis](https://lifehacker.com/tech/how-new-emojis-are-created?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Practical Network Scanning*  
+> *Free eBook - Practical Real-time Data Processing and Analytics*  
 <p align="center">
-  <img src="https://content.packt.com/B09657/cover_image_small.jpg?version=1775657905" width="250">
+  <img src="https://content.packt.com/B06289/cover_image_small.jpg?version=1775681227" width="250">
 </p>
 
 
