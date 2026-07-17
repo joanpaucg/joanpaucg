@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Here's How to Officially Suggest New Emojis](https://lifehacker.com/tech/how-new-emojis-are-created?utm_medium=RSS)*  
+> *[The Best Headphones for Kids Are 30% Off Right Now](https://lifehacker.com/tech/the-best-headphones-for-kids-are-30-off-right-now?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Practical Real-time Data Processing and Analytics*  
+> *Free eBook - Practical Site Reliability Engineering*  
 <p align="center">
-  <img src="https://content.packt.com/B06289/cover_image_small.jpg?version=1775681227" width="250">
+  <img src="https://content.packt.com/B09795/cover_image_small.jpg?version=1775729749" width="250">
 </p>
 
 
