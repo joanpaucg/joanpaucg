@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Headphones for Kids Are 30% Off Right Now](https://lifehacker.com/tech/the-best-headphones-for-kids-are-30-off-right-now?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Practical Site Reliability Engineering*  
+> **  
 <p align="center">
-  <img src="https://content.packt.com/B09795/cover_image_small.jpg?version=1775729749" width="250">
+  <img src="" width="250">
 </p>
 
 
