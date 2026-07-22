@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[Lifehacker's Big Guessing Game Is in Its Second Round](https://lifehacker.com/tech/big-guessing-game-apple-edition-round-2?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
