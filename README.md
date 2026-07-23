@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker's Big Guessing Game Is in Its Second Round](https://lifehacker.com/tech/big-guessing-game-apple-edition-round-2?utm_medium=RSS)*  
+> *[How to Take Creatine for the (Possible) Mental Health Benefits](https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
