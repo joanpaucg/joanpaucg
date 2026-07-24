@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[How to Take Creatine for the (Possible) Mental Health Benefits](https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS)*  
+> *[These Are the Best Deals on Laptops, Monitors, and PC Accessories Right Now](https://lifehacker.com/tech/laptops-monitors-pc-accessories-deals-july-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
