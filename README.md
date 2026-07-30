@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This 55-Inch Samsung Mini LED TV Is $160 Off Right Now](https://lifehacker.com/tech/samsung-55-inch-mini-led-deal-july-2026?utm_medium=RSS)*  
+> *[This Is the Robot Vacuum I Use Every Day, and It's 47% Off Right Now](https://lifehacker.com/home/roborock-qrevo-curvx-deal-july-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
