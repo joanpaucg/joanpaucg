@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[How to Finally Sync Your Fitbit Data to Apple Health](https://lifehacker.com/health/fitbit-data-can-finally-sync-to-apple-health?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
