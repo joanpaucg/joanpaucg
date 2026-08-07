@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Apple Watch Series 11 Is $150 Off Right Now](https://lifehacker.com/tech/apple-watch-series-11-deal-august-2026?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
