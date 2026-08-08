@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[10 Screenshot Hacks Every Mac User Should Know](https://lifehacker.com/tech/10-screenshot-hacks-every-mac-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> **  
+> *Free eBook - Python Penetration Testing Essentials - Second Edition*  
 <p align="center">
-  <img src="" width="250">
+  <img src="https://content.packt.com/B10657/cover_image_small.jpg?version=1775690260" width="250">
 </p>
 
 
