@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Python Penetration Testing Essentials - Second Edition*  
+> *Free eBook - QGIS By Example*  
 <p align="center">
-  <img src="https://content.packt.com/B10657/cover_image_small.jpg?version=1775690260" width="250">
+  <img src="https://content.packt.com/B04316/cover_image_small.jpg?version=1775554998" width="250">
 </p>
 
 
