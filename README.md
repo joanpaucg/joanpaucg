@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Screenshot Hacks Every Mac User Should Know](https://lifehacker.com/tech/10-screenshot-hacks-every-mac-user-should-know?utm_medium=RSS)*  
+> *[You Can (Maybe) Run Meta's Latest AI Model Locally on Your Computer](https://lifehacker.com/tech/how-to-run-metas-latest-ai-model-locally-on-your-computer?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - QGIS By Example*  
+> *Free eBook - QGIS Python Programming Cookbook*  
 <p align="center">
-  <img src="https://content.packt.com/B04316/cover_image_small.jpg?version=1775554998" width="250">
+  <img src="https://content.packt.com/B02809/cover_image_small.jpg?version=1775546198" width="250">
 </p>
 
 
