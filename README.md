@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[You Can (Maybe) Run Meta's Latest AI Model Locally on Your Computer](https://lifehacker.com/tech/how-to-run-metas-latest-ai-model-locally-on-your-computer?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - QGIS Python Programming Cookbook*  
+> *Free eBook - QlikView Essentials*  
 <p align="center">
-  <img src="https://content.packt.com/B02809/cover_image_small.jpg?version=1775546198" width="250">
+  <img src="https://content.packt.com/B03925/cover_image_small.jpg?version=1775557030" width="250">
 </p>
 
 
