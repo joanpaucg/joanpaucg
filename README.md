@@ -63,15 +63,15 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[I Tried the Android App That's Helping People Around the World Bypass Censorship Laws](https://lifehacker.com/tech/snowflake-volunteer-android-app-bypass-censorship?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - QlikView Essentials*  
+> **  
 <p align="center">
-  <img src="https://content.packt.com/B03925/cover_image_small.jpg?version=1775557030" width="250">
+  <img src="" width="250">
 </p>
 
 
