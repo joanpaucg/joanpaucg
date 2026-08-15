@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[I Tried the Android App That's Helping People Around the World Bypass Censorship Laws](https://lifehacker.com/tech/snowflake-volunteer-android-app-bypass-censorship?utm_medium=RSS)*  
+> *[Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features)](https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
