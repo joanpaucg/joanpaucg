@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features)](https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps?utm_medium=RSS)*  
+> *[This 65-Inch LG OLED TV Is $900 Off Right Now](https://lifehacker.com/tech/lg-65-inch-oled-ai-4k-smart-tv-sale-august-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
