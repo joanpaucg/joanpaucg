@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This 65-Inch LG OLED TV Is $900 Off Right Now](https://lifehacker.com/tech/lg-65-inch-oled-ai-4k-smart-tv-sale-august-2026?utm_medium=RSS)*  
+> *[Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)](https://lifehacker.com/tech/social-media-platforms-are-training-their-ai-models-on-your-content?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
