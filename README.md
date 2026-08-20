@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)](https://lifehacker.com/tech/social-media-platforms-are-training-their-ai-models-on-your-content?utm_medium=RSS)*  
+> *[10 Finder Hacks Every Mac User Should Know](https://lifehacker.com/tech/10-finder-hacks-every-mac-user-should-know?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
