@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every Apple Wallet User Should Know](https://lifehacker.com/tech/10-hacks-every-apple-wallet-user-should-know?utm_medium=RSS)*  
+> *[How to Completely Remove Your Data From These Online Dating Platforms](https://lifehacker.com/tech/how-to-completely-remove-data-from-online-dating-platforms?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
