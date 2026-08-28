@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[How to Completely Remove Your Data From These Online Dating Platforms](https://lifehacker.com/tech/how-to-completely-remove-data-from-online-dating-platforms?utm_medium=RSS)*  
+> *[These Samsung OLED TVs Are Up to $1,300 Off Right Now](https://lifehacker.com/tech/samsung-oled-tv-sale-august-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
