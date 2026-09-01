@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[There’s Not Much Time Left to Win a New Apple Watch From Lifehacker](https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS)*  
+> *[Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place](https://lifehacker.com/tech/early-labor-day-sales-live-blog-08-31-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
