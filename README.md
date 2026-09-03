@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place](https://lifehacker.com/tech/early-labor-day-sales-live-blog-08-31-2026?utm_medium=RSS)*  
+> *[The Best Tech Deals From Amazon's 2026 Early Labor Day Sale](https://lifehacker.com/tech/best-tech-deals-amazon-early-labor-day-sale-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
