@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[The Best Deals From Best Buy's Labor Day Sale 2026](https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS)*  
+> *[Lifehacker Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place](https://lifehacker.com/tech/labor-day-sales-live-blog-09-04-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
