@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End](https://lifehacker.com/tech/labor-day-sales-live-blog-09-07-2026?utm_medium=RSS)*  
+> *[This Linksys Wifi Range Booster Will Fix the Dead Zones in Your House for Just $28](https://lifehacker.com/tech/linksys-wifi-router-extender-stacksocial-sale-september-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
