@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[Why People Are Taping Fitbits to Their Arms](https://lifehacker.com/health/why-people-are-taping-fitbits-to-their-arms?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
