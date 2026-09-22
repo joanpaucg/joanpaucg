@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[These Are the Best Smartwatches to Gift in 2026](https://lifehacker.com/tech/the-best-smartwatches-to-gift-in-2026?utm_medium=RSS)*  
+> *[Even a VPN Can't Protect You From This Browser Security Flaw](https://lifehacker.com/tech/even-a-vpn-cant-protect-your-from-this-browser-security-flaw?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
