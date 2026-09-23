@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Even a VPN Can't Protect You From This Browser Security Flaw](https://lifehacker.com/tech/even-a-vpn-cant-protect-your-from-this-browser-security-flaw?utm_medium=RSS)*  
+> *[Your Fitness Tracker Has No Idea How Many Calories You’re Burning](https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
