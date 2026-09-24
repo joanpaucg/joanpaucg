@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Your Fitness Tracker Has No Idea How Many Calories You’re Burning](https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS)*  
+> *[I Tried Siri AI on My New Apple Watch, and I'm Frustrated](https://lifehacker.com/tech/i-tried-siri-ai-on-the-apple-watch-and-im-frustrated?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
