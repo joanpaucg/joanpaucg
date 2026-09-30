@@ -69,9 +69,9 @@ const joanpau = {
 ---
 
 ### 📘 Free PacktPub Book
-> *Free eBook - Sitecore Cookbook for Developers*  
+> *Free eBook - Smart Internet of Things Projects*  
 <p align="center">
-  <img src="https://content.packt.com/B03618/cover_image_small.jpg?version=1775583984" width="250">
+  <img src="https://content.packt.com/B05664/cover_image_small.jpg?version=1775636200" width="250">
 </p>
 
 
