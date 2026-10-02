@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[10 Hacks Every 'YNAB' User Should Know](https://lifehacker.com/tech/best-ynab-hacks?utm_medium=RSS)*  
+> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
