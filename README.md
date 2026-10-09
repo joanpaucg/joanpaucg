@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This Gemini-Powered Google Pixel Watch 5 Is $85 Off for October Prime Day](https://lifehacker.com/tech/google-pixel-watch-5-sale-october-prime-day-2026?utm_medium=RSS)*  
+> *[This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day](https://lifehacker.com/home/last-minute-dewalt-drill-and-driver-combo-deal-october-prime-day-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
