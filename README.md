@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day](https://lifehacker.com/home/last-minute-dewalt-drill-and-driver-combo-deal-october-prime-day-2026?utm_medium=RSS)*  
+> *[Five New Features Coming to Your iPhone in iOS 27.2](https://lifehacker.com/tech/new-features-coming-to-iphone-ios-272?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
