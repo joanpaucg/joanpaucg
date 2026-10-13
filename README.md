@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Five New Features Coming to Your iPhone in iOS 27.2](https://lifehacker.com/tech/new-features-coming-to-iphone-ios-272?utm_medium=RSS)*  
+> *[This High-Capacity Anker Power Station Is 46% Off Right Now](https://lifehacker.com/tech/anker-power-station-deal-october-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
