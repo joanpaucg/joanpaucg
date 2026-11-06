@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Everything You Should Know About This Year's Black Friday Sales](https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales?utm_medium=RSS)*  
+> *[What to Expect From Best Buy's Black Friday and Cyber Monday Sales This Year](https://lifehacker.com/tech/best-buy-sale-black-friday-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
