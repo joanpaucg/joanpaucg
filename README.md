@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place](https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS)*  
+> *[Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them](https://lifehacker.com/tech/hackers-now-want-your-browser-sessions-more-than-passwords?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
