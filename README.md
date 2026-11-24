@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *['Wifi Motion Sensing' Can Track Everything You Do Through Your Router](https://lifehacker.com/tech/wifi-motion-sensing-can-track-everything-you-do-through-your-router?utm_medium=RSS)*  
+> *[Two Budget Smartwatches That Make Perfect Gifts](https://lifehacker.com/tech/two-budget-smartwatches-perfect-gifts?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
