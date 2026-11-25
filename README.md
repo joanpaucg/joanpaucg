@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Two Budget Smartwatches That Make Perfect Gifts](https://lifehacker.com/tech/two-budget-smartwatches-perfect-gifts?utm_medium=RSS)*  
+> *[Now Is the Best Time to Buy a New Ring Camera, With Prices at 60% Off for Black Friday](https://lifehacker.com/tech/ring-camera-doorbell-black-friday-2026-sale?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
