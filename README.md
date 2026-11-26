@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[Now Is the Best Time to Buy a New Ring Camera, With Prices at 60% Off for Black Friday](https://lifehacker.com/tech/ring-camera-doorbell-black-friday-2026-sale?utm_medium=RSS)*  
+> *[These Costco-Exclusive Big-Screen Hisense TVs Drop Under $1,000 for Members This Black Friday](https://lifehacker.com/ad/tech/costco-exclusive-big-screen-hisense-tvs-sale-black-friday-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
