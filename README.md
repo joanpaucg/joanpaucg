@@ -63,7 +63,7 @@ const joanpau = {
 
 ## Github action for LifeHacker
 ### 📰 Latest from LifeHacker
-> *[These Costco-Exclusive Big-Screen Hisense TVs Drop Under $1,000 for Members This Black Friday](https://lifehacker.com/ad/tech/costco-exclusive-big-screen-hisense-tvs-sale-black-friday-2026?utm_medium=RSS)*  
+> *[Black Friday and Cyber Monday 2026 Live Blog: The Best Deals on Apple Devices, TVs, Fitness Tech, and More](https://lifehacker.com/tech/black-friday-live-blog-11-26-2026?utm_medium=RSS)*  
 🔗 [Read more](https://lifehacker.com/)
 
 ---
